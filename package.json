@@ -1,0 +1,34 @@
+{
+  "name": "arknights-skilldata-parser",
+  "version": "0.0.1",
+  "description": "Simple parser to extract the Arknights skill data on Aceship/AN-EN-Tags.",
+  "main": "build/main.js",
+  "scripts": {
+    "tsc": "tsc",
+    "build": "npm run tsc",
+    "start": "npm run build && node ./build/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Braasileiro/arknights-skilldata-parser.git"
+  },
+  "keywords": [
+    "arknights",
+    "skill",
+    "data",
+    "parser"
+  ],
+  "author": "Brasileiro",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/Braasileiro/arknights-skilldata-parser#readme",
+  "bugs": {
+    "url": "https://github.com/Braasileiro/arknights-skilldata-parser/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "got": "^11.8.2",
+    "decimal.js-light": "^2.5.1"
+  }
+}
