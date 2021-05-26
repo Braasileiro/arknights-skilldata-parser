@@ -101,7 +101,7 @@ function getDescription(text: string, blackboard: Array<any>) {
             let key = match[0];
             let matcherKey = key.toLowerCase();
 
-            if (key.includes(':')) {
+            if (matcherKey.includes(':')) {
                 matcherKey = matcherKey.substring(0, matcherKey.indexOf(':'));
             }
 
@@ -109,7 +109,7 @@ function getDescription(text: string, blackboard: Array<any>) {
                 matcherKey = matcherKey.replace('-', EMPTY_STRING);
             }
 
-            let data = blackboard.find(o => o.key == matcherKey);
+            let data = blackboard.find(o => o.key.toLowerCase() == matcherKey);
             let value = data['value'];
 
             if (key.includes('%')) {
