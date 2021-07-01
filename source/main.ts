@@ -17,11 +17,11 @@ async function init() {
         let DATA: any = {};
 
         let CHAR_TABLE = JSON.parse(
-            (await got('https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/gamedata/en_US/gamedata/excel/character_table.json')).body
+            (await got('https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/character_table.json')).body
         )
 
         let SKILL_TABLE = JSON.parse(
-            (await got('https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/json/gamedata/en_US/gamedata/excel/skill_table.json')).body
+            (await got('https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/skill_table.json')).body
         )
 
         for (const key in CHAR_TABLE) {
