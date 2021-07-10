@@ -203,3 +203,4 @@ $RECYCLE.BIN/
 # Custom
 build/*
 output/*
+!output/skills.json
