@@ -25,14 +25,18 @@ async function init() {
         )
 
         for (const key in CHAR_TABLE) {
+            console.log(`Retrieving ${key}...`);
+
             let ARRAY_SKILLS: Array<any> = [];
 
             let character = CHAR_TABLE[key];
 
             for (var i = 0; i < character['skills'].length; i++) {
-                let skill = SKILL_TABLE[character['skills'][i].skillId];
+                let id = character['skills'][i].skillId;
+                let skill = SKILL_TABLE[id];
 
                 if (assert(skill)) {
+                    let iconId = skill.iconId;
                     let ENTRY: any = {};
                     let ARRAY_LEVELS: Array<any> = [];
 
@@ -63,6 +67,12 @@ async function init() {
                         });
                     }
 
+                    if (!assert(iconId) || iconId.trim() === "") {
+                        (<any>ENTRY)['icon'] = `https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_${id}.png`;
+                    } else {
+                        (<any>ENTRY)['icon'] = `https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_${iconId}.png`;
+                    }
+                    
                     (<any>ENTRY)['levels'] = ARRAY_LEVELS;
 
                     ARRAY_SKILLS.push(ENTRY);
@@ -78,6 +88,8 @@ async function init() {
         if (!fs.existsSync('./output')) fs.mkdirSync('./output');
 
         fs.writeFileSync('./output/skills.json', JSON.stringify(DATA, null, 2));
+
+        console.log(`All data retrieved! Please check the 'output' folder.`);
     } catch (e) {
         console.log(e);
     }
