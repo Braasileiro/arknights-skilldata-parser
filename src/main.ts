@@ -57,7 +57,7 @@ async function init() {
                             level: name,
                             description: getDescription(level.description, level.blackboard),
                             skillType: level.skillType,
-                            duration: level.duration,
+                            duration: getDuration(level.duration, level.blackboard),
                             rangeId: level.rangeId,
                             spType: level.spData.spType,
                             initSp: level.spData.initSp,
@@ -134,6 +134,20 @@ function getDescription(text: string, blackboard: Array<any>) {
     }
 
     return result;
+}
+
+function getDuration(duration: any, blackboard: Array<any>) {
+    if (blackboard) {
+        let data = blackboard.find(o => o.key.toLowerCase() == 'duration');
+
+        if (data) {
+            let value = data['value'];
+
+            if (value) return value;
+        }
+    }
+
+    return duration;
 }
 
 
