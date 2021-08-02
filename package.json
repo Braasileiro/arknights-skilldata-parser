@@ -1,7 +1,7 @@
 {
   "name": "arknights-skilldata-parser",
   "version": "0.0.2",
-  "description": "Simple parser to extract the Arknights skill data on Dimbreath/ArknightsData.",
+  "description": "Simple parser to extract the Arknights skill data on Dimbreath/ArknightsData | Kengxxiao/ArknightsGameData.",
   "main": "build/main.js",
   "scripts": {
     "tsc": "tsc",

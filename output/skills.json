@@ -5714,7 +5714,7 @@
         ]
       },
       {
-        "name": "\"Everyone Together!\"",
+        "name": "'Everyone Together!'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bstalk_2.png",
         "levels": [
           {
@@ -10854,7 +10854,7 @@
         ]
       },
       {
-        "name": "\"Beaten Up\"",
+        "name": "'Beaten Up'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bubble_2.png",
         "levels": [
           {
@@ -21396,7 +21396,7 @@
     "name": "Pith",
     "skills": [
       {
-        "name": "\"All For Me\"",
+        "name": "'All For Me'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_acast_1.png",
         "levels": [
           {
@@ -22801,6 +22801,263 @@
             "spType": 1,
             "initSp": 10,
             "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_1011_lava2": {
+    "name": "Lava the Purgatory",
+    "skills": [
+      {
+        "name": "Flame Quenched Dagger",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lava2_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range +1 tile, ATK +2%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range +1 tile, ATK +4%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 59,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range +1 tile, ATK +6%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 27,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 58,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range +1 tile, ATK +8%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 28,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 57,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range +1 tile, ATK +10%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 29,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 56,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range +1 tile, ATK +12%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range +1 tile, ATK +14%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 31,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 54,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range +1 tile, ATK +16%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 32,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 53,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range +1 tile, ATK +18%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 33,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 52,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range +1 tile, ATK +20%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Ring of Hellfire",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lava2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 30% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 30% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 31,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 79,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 30% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 32,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 78,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 35% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 33,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 77,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 35% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 34,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 76,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 35% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 75,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 40% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 36,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 74,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 40% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 37,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 73,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 40% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 38,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 72,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Stops attacking and targets the ally with the highest HP within range, enveloping them and herself within a ring of fire. Each ring of fire deals 50% ATK as Arts damage every second to all enemies in the surrounding 8 tiles",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 70,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -24738,6 +24995,263 @@
       }
     ]
   },
+  "char_402_tuye": {
+    "name": "Tuye",
+    "skills": [
+      {
+        "name": "Aqua Loop",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tuye_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately heal a target and grant them a shield that lasts for 2 seconds (Can absorb damage equal to 130% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 2,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately heal a target and grant them a shield that lasts for 2 seconds (Can absorb damage equal to 130% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 2,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately heal a target and grant them a shield that lasts for 2 seconds (Can absorb damage equal to 140% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 2,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately heal a target and grant them a shield that lasts for 3 seconds (Can absorb damage equal to 140% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 3,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately heal a target and grant them a shield that lasts for 3 seconds (Can absorb damage equal to 150% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 3,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately heal a target and grant them a shield that lasts for 3 seconds (Can absorb damage equal to 150% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 3,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately heal a target and grant them a shield that lasts for 4 seconds (Can absorb damage equal to 160% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately heal a target and grant them a shield that lasts for 4 seconds (Can absorb damage equal to 170% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately heal a target and grant them a shield that lasts for 4 seconds (Can absorb damage equal to 180% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately heal a target and grant them a shield that lasts for 5 seconds (Can absorb damage equal to 200% of Tuye's ATK)",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Cardiac Stimulant",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tuye_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +10%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +15%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +20%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +25%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +30%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +35%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +40%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +45%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +50%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +60%, however only heal allies with less than 50% HP. When allies within range fall below 20% HP, immediately heal them for 300% of Tuye's ATK. The skill ends when this effect is triggered 3 times. Unlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_148_nearl": {
     "name": "Nearl",
     "skills": [
@@ -26018,6 +26532,263 @@
             "spCost": 0,
             "maxChargeTime": 0,
             "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "char_455_nothin": {
+    "name": "Mr.Nothing",
+    "skills": [
+      {
+        "name": "Cautious Retreat",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nothin_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 6% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 7% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 8% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 9% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 10% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 11% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 12% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 13% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 14% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Active Effect: When HP is lower than 20%, stops attacking and blocking enemies; Becomes less likely to be targeted by enemies and restores 15% Max HP every second\nPassive Effect: Block +1;",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Wax and Wane",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nothin_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "When skill is activated, ATK +20% and gain one of the following effects at random: Every attack reduces the target's ASPD by -20 (Lasts for 5 seconds and does not stack); ASPD +15; Gain +30% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "When skill is activated, ATK +23% and gain one of the following effects at random: Every attack reduces the target's ASPD by -20 (Lasts for 5 seconds and does not stack); ASPD +15; Gain +30% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "When skill is activated, ATK +26% and gain one of the following effects at random: Every attack reduces the target's ASPD by -20 (Lasts for 5 seconds and does not stack); ASPD +15; Gain +30% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "When skill is activated, ATK +30% and gain one of the following effects at random: Every attack reduces the target's ASPD by -25 (Lasts for 5 seconds and does not stack); ASPD +20; Gain +35% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "When skill is activated, ATK +33% and gain one of the following effects at random: Every attack reduces the target's ASPD by -25 (Lasts for 5 seconds and does not stack); ASPD +20; Gain +35% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "When skill is activated, ATK +36% and gain one of the following effects at random: Every attack reduces the target's ASPD by -25 (Lasts for 5 seconds and does not stack); ASPD +20; Gain +35% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "When skill is activated, ATK +40% and gain one of the following effects at random: Every attack reduces the target's ASPD by -30 (Lasts for 5 seconds and does not stack); ASPD +25; Gain +40% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "When skill is activated, ATK +50% and gain one of the following effects at random: Every attack reduces the target's ASPD by -30 (Lasts for 5 seconds and does not stack); ASPD +25; Gain +45% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "When skill is activated, ATK +55% and gain one of the following effects at random: Every attack reduces the target's ASPD by -30 (Lasts for 5 seconds and does not stack); ASPD +28; Gain +45% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "When skill is activated, ATK +60% and gain one of the following effects at random: Every attack reduces the target's ASPD by -35 (Lasts for 5 seconds and does not stack); ASPD +28; Gain +50% Physical Dodge and Block +1\nUnlimited duration, can manually deactivate skill;",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
           }
         ]
       }
@@ -30653,7 +31424,7 @@
     "name": "Robin",
     "skills": [
       {
-        "name": "Binding “Clip”",
+        "name": "Binding 'Clip'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_robin_1.png",
         "levels": [
           {
@@ -30779,7 +31550,7 @@
         ]
       },
       {
-        "name": "Launching “Clip”",
+        "name": "Launching 'Clip'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_robin_2.png",
         "levels": [
           {
@@ -33077,7 +33848,7 @@
         ]
       },
       {
-        "name": "“As You Wish”",
+        "name": "'As You Wish'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rosmon_3.png",
         "levels": [
           {
@@ -33962,6 +34733,389 @@
             "rangeId": null,
             "spType": 1,
             "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_362_saga": {
+    "name": "Saga",
+    "skills": [
+      {
+        "name": "Charge γ",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_charge_cost[3].png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 14,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 16,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 36,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Instantly gains 12 Deployment Points.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Cleansing Evil",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_saga_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Instantly generates 4 DP; Deals 250% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 1 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Instantly generates 4 DP; Deals 260% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 1 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Instantly generates 4 DP; Deals 270% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 1 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Instantly generates 4 DP; Deals 280% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 18,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Instantly generates 4 DP; Deals 290% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 18,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Instantly generates 4 DP; Deals 300% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 18,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Instantly generates 4 DP; Deals 320% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 16,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Instantly generates 4 DP; Deals 340% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 3 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 15,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Instantly generates 4 DP; Deals 370% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 3 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 14,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Instantly generates 4 DP; Deals 400% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 3 charge(s)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-6",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 13,
+            "maxChargeTime": 3,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Fierce Glare",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_saga_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +40%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +50%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 49,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +60%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 48,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +70%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 26,
+            "spCost": 47,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +80%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 26,
+            "spCost": 46,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +90%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 26,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +100%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 27,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +110%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 28,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +120%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 28,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Gradually gains 20 DP over the skill duration. Attack Interval slightly increases, Attack Range +1 tile, ATK +130%, attack all blocked enemies and perform an additional attack against targets with less than 50% HP",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 28,
             "spCost": 40,
             "maxChargeTime": 1,
             "increment": 1
@@ -35123,7 +36277,7 @@
     "name": "Ceobe",
     "skills": [
       {
-        "name": "\"Really Cold Axe\"",
+        "name": "'Really Cold Axe'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cerber_1.png",
         "levels": [
           {
@@ -35249,7 +36403,7 @@
         ]
       },
       {
-        "name": "\"Really Hot Knives\"",
+        "name": "'Really Hot Knives'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cerber_2.png",
         "levels": [
           {
@@ -35375,7 +36529,7 @@
         ]
       },
       {
-        "name": "\"Really Heavy Spear\"",
+        "name": "'Really Heavy Spear'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cerber_3.png",
         "levels": [
           {
@@ -35495,6 +36649,389 @@
             "spType": 1,
             "initSp": 55,
             "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_2015_dusk": {
+    "name": "Dusk",
+    "skills": [
+      {
+        "name": "Transcendental Stroke",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_dusk_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack has increased splash area and deals 150% ATK as Arts damage\nCan store 1 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack has increased splash area and deals 160% ATK as Arts damage\nCan store 1 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack has increased splash area and deals 170% ATK as Arts damage\nCan store 1 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack has increased splash area and deals 180% ATK as Arts damage\nCan store 2 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack has increased splash area and deals 190% ATK as Arts damage\nCan store 2 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack has increased splash area and deals 200% ATK as Arts damage\nCan store 2 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack has increased splash area and deals 210% ATK as Arts damage\nCan store 2 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack has increased splash area and deals 220% ATK as Arts damage\nCan store 3 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack has increased splash area and deals 240% ATK as Arts damage\nCan store 3 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack has increased splash area and deals 250% ATK as Arts damage\nCan store 3 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 3,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Flowing Ink",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_dusk_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Range expands, ATK +20%, ASPD +20 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 110%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Range expands, ATK +23%, ASPD +23 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 110%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 49,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Range expands, ATK +26%, ASPD +26 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 110%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 48,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Range expands, ATK +29%, ASPD +29 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 120%",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 47,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Range expands, ATK +32%, ASPD +32 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 120%",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 46,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Range expands, ATK +35%, ASPD +35 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 120%",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Range expands, ATK +40%, ASPD +40 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 130%",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Range expands, ATK +45%, ASPD +45 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 130%",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Range expands, ATK +50%, ASPD +50 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 130%",
+            "skillType": 1,
+            "duration": 19,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Range expands, ATK +55%, ASPD +55 and attacks all enemies within range. Increase Arts damage dealt to enemies with less than 50% HP to 130%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Image over Form",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_dusk_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +40% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 45,
+            "spCost": 110,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +50% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 45,
+            "spCost": 109,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +60% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 45,
+            "spCost": 108,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +70% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 107,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +80% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 106,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +90% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 105,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +100% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 55,
+            "spCost": 104,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +110% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 60,
+            "spCost": 103,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +110% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 65,
+            "spCost": 102,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Interval increases and prioritize attacking unblocked enemies. Range and splash area expand, ATK +120% and every attack summons/refreshes a 'Freeling' (lasts for 25 seconds) at the target's location (only on deployable ground tiles)",
+            "skillType": 1,
+            "duration": 60,
+            "rangeId": "3-15",
+            "spType": 1,
+            "initSp": 70,
+            "spCost": 100,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -46170,10 +47707,10 @@
     ]
   },
   "token_10013_robin_mine": {
-    "name": "\"Clip\"",
+    "name": "'Clip'",
     "skills": [
       {
-        "name": "Binding “Clip”",
+        "name": "Binding 'Clip'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_robin_1.png",
         "levels": [
           {
@@ -46299,7 +47836,7 @@
         ]
       },
       {
-        "name": "Launching “Clip”",
+        "name": "Launching 'Clip'",
         "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_robin_2.png",
         "levels": [
           {
@@ -46428,6 +47965,10 @@
   },
   "token_10014_bstalk_crab": {
     "name": "Metal Crab Guard Team",
+    "skills": []
+  },
+  "token_10015_dusk_drgn": {
+    "name": "'Freeling'",
     "skills": []
   },
   "trap_001_crate": {
@@ -46700,7 +48241,7 @@
     ]
   },
   "trap_014_tower": {
-    "name": "L-44 \"Gramophone\"",
+    "name": "L-44 'Gramophone'",
     "skills": [
       {
         "name": "Arts Transfer Protocol",
@@ -46964,6 +48505,52 @@
             "spCost": 25,
             "maxChargeTime": 1,
             "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "trap_026_inverter": {
+    "name": "Two-Step Firecracker mk2",
+    "skills": [
+      {
+        "name": "Warping Reality",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_inverter.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Explodes after deployment, dealing 500 Arts damage to enemies in the four adjacent tiles and changing the Hui-Ming Attribute of enemies and Marks of Hui and Ming within range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": "x-1",
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "trap_027_stone": {
+    "name": "Rubble",
+    "skills": [
+      {
+        "name": "Obstruct",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_stone.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Will be deployed at the start of the stage, changing enemies' route\nIf the Rubble blocks enemies, they will destroy it",
+            "skillType": 0,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
           }
         ]
       }

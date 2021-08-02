@@ -1,11 +1,15 @@
 import fs from 'fs';
 import got from 'got';
 import Decimal from 'decimal.js-light';
-
 const APP_PACKAGE = require('../package.json');
 
 const EMPTY_STRING = '';
-const REGEX_LINEBREAK = RegExp('[\n\r]', 'g');
+
+/*
+* 1: Dimbreath
+* 2: Kengxxiao
+*/
+var CURRENT_DATASET = 2;
 
 /*
 * Init
@@ -15,14 +19,9 @@ async function init() {
 
     try {
         let DATA: any = {};
-
-        let CHAR_TABLE = JSON.parse(
-            (await got('https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/character_table.json')).body
-        )
-
-        let SKILL_TABLE = JSON.parse(
-            (await got('https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/skill_table.json')).body
-        )
+        
+        let CHAR_TABLE = JSON.parse((await got(getDataset('char'))).body);
+        let SKILL_TABLE = JSON.parse((await got(getDataset('skill'))).body);
 
         for (const key in CHAR_TABLE) {
             console.log(`Retrieving ${key}...`);
@@ -154,6 +153,32 @@ function getDuration(duration: any, blackboard: Array<any>) {
 /*
  * Util
  */
+function getDataset(type: string): string {
+    switch (type) {
+        case 'char':
+            switch (CURRENT_DATASET) {
+                // Dimbreath
+                case 1: return 'https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/character_table.json';
+
+                // Kengxxiao
+                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/character_table.json'
+            }
+        break;
+
+        case 'skill':
+            switch (CURRENT_DATASET) {
+                // Dimbreath
+                case 1: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/character_table.json';
+
+                // Kengxxiao
+                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/skill_table.json'
+            }
+        break;
+    }
+
+    return '';
+}
+
 function assert(object: any): boolean {
     return object != (null || undefined)
 }
