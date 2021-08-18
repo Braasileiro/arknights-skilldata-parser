@@ -17023,6 +17023,263 @@
       }
     ]
   },
+  "char_459_tachak": {
+    "name": "Tachanka",
+    "skills": [
+      {
+        "name": "Incendiary Grenade",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tachak_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 20% ATK as Arts damage every second to enemies within; Tachanka ignores 100 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 20% ATK as Arts damage every second to enemies within; Tachanka ignores 110 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 20% ATK as Arts damage every second to enemies within; Tachanka ignores 120 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 30% ATK as Arts damage every second to enemies within; Tachanka ignores 130 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 30% ATK as Arts damage every second to enemies within; Tachanka ignores 140 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 30% ATK as Arts damage every second to enemies within; Tachanka ignores 150 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 40% ATK as Arts damage every second to enemies within; Tachanka ignores 160 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 50% ATK as Arts damage every second to enemies within; Tachanka ignores 170 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 60% ATK as Arts damage every second to enemies within; Tachanka ignores 180 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Fire an incendiary grenade at the target, creating a burning zone in the 4 adjacent tiles around the target that lasts for 6 seconds. The burning zone deals 70% ATK as Arts damage every second to enemies within; Tachanka ignores 200 DEF when attacking enemies within the burning zone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Spray and Pray",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tachak_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 5% chance to increase ATK to 130%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 6% chance to increase ATK to 140%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 7% chance to increase ATK to 140%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 8% chance to increase ATK to 150%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 9% chance to increase ATK to 160%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 10% chance to increase ATK to 160%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 11% chance to increase ATK to 170%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 12% chance to increase ATK to 180%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 13% chance to increase ATK to 190%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Interval is reduced significantly. Attack random targets within range, with every attack having 15% chance to increase ATK to 200%",
+            "skillType": 1,
+            "duration": 4,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_143_ghost": {
     "name": "Specter",
     "skills": [
@@ -28079,6 +28336,263 @@
       }
     ]
   },
+  "char_457_blitz": {
+    "name": "Blitz",
+    "skills": [
+      {
+        "name": "Flash Shield",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blitz_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Stun all enemies ahead and disable their special abilities for 2.5 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Stun all enemies ahead and disable their special abilities for 2.5 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Stun all enemies ahead and disable their special abilities for 2.5 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Stun all enemies ahead and disable their special abilities for 3 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Stun all enemies ahead and disable their special abilities for 3 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Stun all enemies ahead and disable their special abilities for 3 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Stun all enemies ahead and disable their special abilities for 3.5 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Stun all enemies ahead and disable their special abilities for 3.8 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Stun all enemies ahead and disable their special abilities for 4.1 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Stun all enemies ahead and disable their special abilities for 4.5 seconds; Can only be used 4 times every deployment",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Shield Bash",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blitz_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attacks all blocked enemies once, dealing 130% ATK as Physical damage and Stunning them for 5 seconds. ASPD +200 and Talent 1 effect increases to 1.2 times",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attacks all blocked enemies once, dealing 130% ATK as Physical damage and Stunning them for 5 seconds. ASPD +200 and Talent 1 effect increases to 1.2 times",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attacks all blocked enemies once, dealing 140% ATK as Physical damage and Stunning them for 5 seconds. ASPD +200 and Talent 1 effect increases to 1.2 times",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attacks all blocked enemies once, dealing 140% ATK as Physical damage and Stunning them for 5 seconds. ASPD +200 and Talent 1 effect increases to 1.3 times",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attacks all blocked enemies once, dealing 150% ATK as Physical damage and Stunning them for 5 seconds. ASPD +200 and Talent 1 effect increases to 1.3 times",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attacks all blocked enemies once, dealing 160% ATK as Physical damage and Stunning them for 5 seconds. ASPD +200 and Talent 1 effect increases to 1.3 times",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attacks all blocked enemies once, dealing 170% ATK as Physical damage and Stunning them for 6 seconds. ASPD +200 and Talent 1 effect increases to 1.4 times",
+            "skillType": 1,
+            "duration": 6,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attacks all blocked enemies once, dealing 180% ATK as Physical damage and Stunning them for 6 seconds. ASPD +200 and Talent 1 effect increases to 1.5 times",
+            "skillType": 1,
+            "duration": 6,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attacks all blocked enemies once, dealing 190% ATK as Physical damage and Stunning them for 6 seconds. ASPD +200 and Talent 1 effect increases to 1.5 times",
+            "skillType": 1,
+            "duration": 6,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attacks all blocked enemies once, dealing 200% ATK as Physical damage and Stunning them for 7 seconds. ASPD +200 and Talent 1 effect increases to 1.5 times",
+            "skillType": 1,
+            "duration": 7,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_145_prove": {
     "name": "Provence",
     "skills": [
@@ -31677,6 +32191,263 @@
       }
     ]
   },
+  "char_458_rfrost": {
+    "name": "Frost",
+    "skills": [
+      {
+        "name": "Trap Deployment",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rfrost_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 200% ATK as Physical damage and Stuns the target for 1 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 210% ATK as Physical damage and Stuns the target for 1 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 220% ATK as Physical damage and Stuns the target for 1 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 240% ATK as Physical damage and Stuns the target for 1 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 250% ATK as Physical damage and Stuns the target for 1 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 260% ATK as Physical damage and Stuns the target for 1 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 280% ATK as Physical damage and Stuns the target for 1 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 300% ATK as Physical damage and Stuns the target for 1.2 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 320% ATK as Physical damage and Stuns the target for 1.2 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 350% ATK as Physical damage and Stuns the target for 1.5 second(s)\nActive Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Incapacitated Prey",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rfrost_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 100% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 120% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 110% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 130% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 120% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 130% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 130% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 140% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 140% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 140% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 150% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 150% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 160% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 150% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 170% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 160% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 180% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 170% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive Effect: When a Welcome Mat is triggered, deals 200% ATK as Physical damage and Binds the target for 1.5 second(s); If the target is within range, immediately attack them 3 times, each dealing 180% ATK as Physical damage; Active Effect: Immediately gets 1 Welcome Mat",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_103_angel": {
     "name": "Exusiai",
     "skills": [
@@ -32436,6 +33207,389 @@
             "spType": 2,
             "initSp": 15,
             "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_456_ash": {
+    "name": "Ash",
+    "skills": [
+      {
+        "name": "Supporting Fire",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ash_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +5%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +6%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 54,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +7%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 53,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +8%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 52,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +9%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 51,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +10%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +11%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 49,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +12%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 48,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +13%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 47,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +15%, attacks hit 2 times in a row\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Assault Tactics",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ash_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 150% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 160% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 170% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 180% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 190% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 200% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 210% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 220% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 230% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately trigger the first talent. Attack Interval is reduced significantly and increase ATK to 250% when attacking Stunned targets\nSkill activation grants 31 bullets and the skill ends when all bullets are used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Breaching Rounds",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ash_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Fires a Breaching Round forwards, dealing 200% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 300% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 600% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Fires a Breaching Round forwards, dealing 210% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 310% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 620% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Fires a Breaching Round forwards, dealing 220% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 320% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 640% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Fires a Breaching Round forwards, dealing 230% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 330% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 660% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Fires a Breaching Round forwards, dealing 240% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 340% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 680% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Fires a Breaching Round forwards, dealing 250% ATK as Physical damage to enemies in the line of fire and pushing them backwards moderately; The Breaching Round will explode and deal 350% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 700% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Fires a Breaching Round forwards, dealing 260% ATK as Physical damage to enemies in the line of fire and pushing them backwards significantly; The Breaching Round will explode and deal 360% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 720% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Fires a Breaching Round forwards, dealing 270% ATK as Physical damage to enemies in the line of fire and pushing them backwards significantly; The Breaching Round will explode and deal 370% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 740% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Fires a Breaching Round forwards, dealing 280% ATK as Physical damage to enemies in the line of fire and pushing them backwards significantly; The Breaching Round will explode and deal 380% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 760% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Fires a Breaching Round forwards, dealing 300% ATK as Physical damage to enemies in the line of fire and pushing them backwards significantly; The Breaching Round will explode and deal 400% ATK as Physical damage to nearby enemies (If the Breaching Round hits a High Ground tile from a low tile, it will immediately explode and deal 800% ATK as Physical damage); Can only be used 2 times every deployment",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -47971,6 +49125,263 @@
     "name": "'Freeling'",
     "skills": []
   },
+  "token_10016_rfrost_mine": {
+    "name": "Welcome Mat",
+    "skills": [
+      {
+        "name": "Trap Deployment",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_rfrost_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "When triggered, deals 200% ATK as Physical damage and Stuns the target for 1 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "When triggered, deals 210% ATK as Physical damage and Stuns the target for 1 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "When triggered, deals 220% ATK as Physical damage and Stuns the target for 1 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "When triggered, deals 240% ATK as Physical damage and Stuns the target for 1 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "When triggered, deals 250% ATK as Physical damage and Stuns the target for 1 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "When triggered, deals 260% ATK as Physical damage and Stuns the target for 1 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "When triggered, deals 280% ATK as Physical damage and Stuns the target for 1 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "When triggered, deals 300% ATK as Physical damage and Stuns the target for 1.2 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "When triggered, deals 320% ATK as Physical damage and Stuns the target for 1.2 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "When triggered, deals 350% ATK as Physical damage and Stuns the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Incapacitated Prey",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_rfrost_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "When triggered, deals 100% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "When triggered, deals 110% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "When triggered, deals 120% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "When triggered, deals 130% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "When triggered, deals 140% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "When triggered, deals 150% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "When triggered, deals 160% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "When triggered, deals 170% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "When triggered, deals 180% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "When triggered, deals 200% ATK as Physical damage and binds the target for 1.5 second(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "trap_001_crate": {
     "name": "Roadblock",
     "skills": [
@@ -48551,6 +49962,268 @@
             "spCost": 0,
             "maxChargeTime": 0,
             "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "trap_028_cannon": {
+    "name": "Pulse Defense Module",
+    "skills": [
+      {
+        "name": "Pulse Beam",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_cannon_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Recover 1 SP every second for every neighboring allied unit; Neighboring allied units have 50% reduced DEF and become more likely to be attacked by enemies; Consumes 10 DP to deal 5000 True damage to enemies in the Lower Level Test Area and Stun them for 7 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-5",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 0
+          }
+        ]
+      },
+      {
+        "name": "Pulse Beam",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_cannon_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Consumes 10 DP to deal 5000 True damage to enemies within range and Stun them for 7seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "trap_029_poison": {
+    "name": "Teargas Control Valve",
+    "skills": [
+      {
+        "name": "Close Valve",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_poison_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "When activated, recover 1 SP every second for every neighboring allied unit; Neighboring allied units have 50% reduced DEF and become more likely to be attacked by enemies; Allied units in the corresponding area in the Lower Level Test Area receive 120True damage every second",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-5",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 0
+          }
+        ]
+      },
+      {
+        "name": "Open Valve",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_poison_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "When activated, allied units within range receive 120 True damage every second",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "trap_030_factory": {
+    "name": "Drone Factory",
+    "skills": [
+      {
+        "name": "Production Line",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_factory_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Recover 1 SP every second for every neighboring allied unit; Neighboring allied units have 50% reduced DEF and become more likely to be attacked by enemies; Consumes 10 DP to deploy a Second-hand Drone at the corresponding location in the Lower Level Test Area",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-5",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 0
+          }
+        ]
+      },
+      {
+        "name": "Production Line",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_factory_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Consumes 10 DP to deploy a Second-hand Drone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "2",
+            "description": "Consumes 10 DP to deploy a Second-hand Drone",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "trap_031_sleep": {
+    "name": "Snowsant's Safe Escape Crane",
+    "skills": [
+      {
+        "name": "Rescue Rope",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_sleep.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately retreat the targeted Operator and reduce their Redeployment Time by 80%",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "trap_032_mound": {
+    "name": "Dirt Mound",
+    "skills": [
+      {
+        "name": "Sandstorm Protection",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_mound.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Blocks the Sandstorm. When fortified, immediately recovers all HP, DEF +400 and no longer receives damage from the Sandstorm, but can still be instantly destroyed by <High-Energy Originium Bomb>.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "2",
+            "description": "Fortified state: Blocks the Sandstorm, no longer receives damage from the Sandstorm, but can still be instantly destroyed by <High-Energy Originium Bomb>.",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "trap_033_sbomb": {
+    "name": "High-Energy Originium Bomb",
+    "skills": [
+      {
+        "name": "Detonate",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_sbomb.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Deal 100% ATK as True damage to all enemies within range. Can instantly destroy <Dirt Mound>.",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "trap_034_machst": {
+    "name": "Reinforcement Device",
+    "skills": [
+      {
+        "name": "Strengthen and Reinforce",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_machst.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "After deployment, fortify a <Dirt Mound> in front and automatically retreat after 10 seconds. With construction materials at the ready, there will always be enthusiastic locals willing to lend a hand.",
+            "skillType": 2,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 99,
+            "spCost": 100,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "trap_036_storm": {
+    "name": "Sandstorm",
+    "skills": [
+      {
+        "name": "Sandstorm",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_storm.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "-",
+            "skillType": 2,
+            "duration": 1500,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
           }
         ]
       }
