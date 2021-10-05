@@ -52,11 +52,13 @@ async function init() {
                             MASTERY++;
                         }
 
+                        let duration = getDuration(level.duration, level.blackboard);
+
                         ARRAY_LEVELS.push({
                             level: name,
-                            description: getDescription(level.description, level.blackboard),
+                            description: getDescription(level.description, level.blackboard, duration),
                             skillType: level.skillType,
-                            duration: getDuration(level.duration, level.blackboard),
+                            duration: duration,
                             rangeId: level.rangeId,
                             spType: level.spData.spType,
                             initSp: level.spData.initSp,
@@ -96,13 +98,23 @@ async function init() {
     return 0;
 }
 
-function getDescription(text: string, blackboard: Array<any>) {
+function getDescription(text: string, blackboard: Array<any>, duration: number) {
     let result = text;
 
     if (blackboard) {
         result = result.replace(/<@ba.rem>/gi, EMPTY_STRING);
         result = result.replace(/<@ba.vdown>/gi, EMPTY_STRING);
         result = result.replace(/<@ba.vup>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.buffres>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.camou>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.cold>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.inspire>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.invisible>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.protect>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.root>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.sleep>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.sluggish>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.stun>/gi, EMPTY_STRING);
         result = result.replace(/<\/>/gi, EMPTY_STRING);
         //result = result.replace(REGEX_LINEBREAK, '. ');
 
@@ -121,18 +133,24 @@ function getDescription(text: string, blackboard: Array<any>) {
             }
 
             let data = blackboard.find(o => o.key.toLowerCase() == matcherKey);
-            let value = data['value'];
 
-            if (key.includes('%')) {
-                value = `${new Decimal((value * 100)).toSignificantDigits(2)}%`;
+            if (!data && matcherKey == 'duration') {
+                result.replace(`{duration}`, duration.toString());
+            } else {
+                let value = data['value'];
+
+                if (key.includes('%')) {
+                    value = `${new Decimal((value * 100)).toSignificantDigits(2)}%`;
+                }
+
+                result = result.replace(`{${key}}`, value);
             }
 
-            result = result.replace(`{${key}}`, value);
             result = result.replace('--', '-');
         }
     }
 
-    return result;
+    return result.trim();
 }
 
 function getDuration(duration: any, blackboard: Array<any>) {
