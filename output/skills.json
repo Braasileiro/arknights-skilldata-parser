@@ -18308,6 +18308,263 @@
       }
     ]
   },
+  "char_475_akafyu": {
+    "name": "Akafuyu",
+    "skills": [
+      {
+        "name": "Nobukage-ryu - Kaminari Gatana no Zei",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_akafyu_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Cannot block enemies, ATK +20%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Cannot block enemies, ATK +25%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Cannot block enemies, ATK +30%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Cannot block enemies, ATK +35%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Cannot block enemies, ATK +40%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Cannot block enemies, ATK +45%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Cannot block enemies, ATK +50%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Cannot block enemies, ATK +60%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Cannot block enemies, ATK +70%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Cannot block enemies, ATK +80%, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Nobukage-ryu - Juumonji Masaru",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_akafyu_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +50%, DEF +70%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +50%, DEF +70%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +50%, DEF +70%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +60%, DEF +80%",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +60%, DEF +80%",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +60%, DEF +80%",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +70%, DEF +90%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +80%, DEF +100%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +90%, DEF +110%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +100%, DEF +120%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_129_bluep": {
     "name": "Blue Poison",
     "skills": [
@@ -40239,6 +40496,389 @@
       }
     ]
   },
+  "char_1012_skadi2": {
+    "name": "Skadi the Corrupting Heart",
+    "skills": [
+      {
+        "name": "Chant of Returning by Varied Paths",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skadi2_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately restores all HP and gains Max HP +80%. The healing effect of this unit's Trait is increased to 40% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately restores all HP and gains Max HP +90%. The healing effect of this unit's Trait is increased to 40% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 59,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately restores all HP and gains Max HP +100%. The healing effect of this unit's Trait is increased to 40% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 58,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately restores all HP and gains Max HP +110%. The healing effect of this unit's Trait is increased to 50% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 57,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately restores all HP and gains Max HP +120%. The healing effect of this unit's Trait is increased to 50% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 56,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately restores all HP and gains Max HP +130%. The healing effect of this unit's Trait is increased to 50% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately restores all HP and gains Max HP +140%. The healing effect of this unit's Trait is increased to 60% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 54,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately restores all HP and gains Max HP +150%. The healing effect of this unit's Trait is increased to 70% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 53,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately restores all HP and gains Max HP +160%. The healing effect of this unit's Trait is increased to 70% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 52,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately restores all HP and gains Max HP +170%. The healing effect of this unit's Trait is increased to 80% and 50% of damage taken by all ally units within Attack Range is directly transferred to this unit (only the highest effect of this type is applied)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Wish of Burial Beyond the Light",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skadi2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 15% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 15%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 68,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 20% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 15%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 68,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 25% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 15%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 68,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 30% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 16%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 66,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 35% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 16%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 66,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 40% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 16%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 66,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 45% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 17%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 64,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 50% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 18%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 61,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 55% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 19%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 59,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "All other ally units within Attack Range gain Inspiration equal to 60% of this unit's ATK and DEF. The healing effect of this unit's Trait is increased to 20%\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 56,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "'The Tide Surges, The Tide Recedes'",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skadi2_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 25% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 50% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 30% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 55% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 35% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 60% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 40% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 65% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 45% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 70% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 50% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 75% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 55% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 80% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 60% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 90% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 65% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 100% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 36,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "This unit's Trait changes to losing 5% HP every second. Deals 70% ATK as True damage to all enemies within range every second (damage from this unit and the Seaborn stacks). All ally units within range gain Inspiration equal to 110% of this unit's ATK",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_250_phatom": {
     "name": "Phantom",
     "skills": [
@@ -41388,6 +42028,389 @@
       }
     ]
   },
+  "char_474_glady": {
+    "name": "Gladiia",
+    "skills": [
+      {
+        "name": "Waterless Parting of the Great Ocean",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glady_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack drags the target towards this unit slightly, dealing 120% ATK as Physical damage\nCan store 1 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack drags the target towards this unit slightly, dealing 130% ATK as Physical damage\nCan store 1 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack drags the target towards this unit slightly, dealing 140% ATK as Physical damage\nCan store 1 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack drags the target towards this unit moderately, dealing 150% ATK as Physical damage\nCan store 2 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack drags the target towards this unit moderately, dealing 160% ATK as Physical damage\nCan store 2 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack drags the target towards this unit moderately, dealing 170% ATK as Physical damage\nCan store 2 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack drags the target towards this unit moderately, dealing 180% ATK as Physical damage\nCan store 2 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack drags the target towards this unit moderately, dealing 190% ATK as Physical damage\nCan store 3 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack drags the target towards this unit moderately, dealing 200% ATK as Physical damage\nCan store 3 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack drags the target towards this unit significantly, dealing 210% ATK as Physical damage\nCan store 3 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 3,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Waterless Grasp of the Raging Seas",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glady_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 120% ATK as Physical damage and drags them towards this unit slightly",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 130% ATK as Physical damage and drags them towards this unit slightly",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 130% ATK as Physical damage and drags them towards this unit slightly",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 140% ATK as Physical damage and drags them towards this unit moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 140% ATK as Physical damage and drags them towards this unit moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 150% ATK as Physical damage and drags them towards this unit moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 150% ATK as Physical damage and drags them towards this unit moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 160% ATK as Physical damage and drags them towards this unit moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 170% ATK as Physical damage and drags them towards this unit moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Interval increases, Attack Range expands; Each attack targets 2 enemies, prioritizes blocked enemies, deals 180% ATK as Physical damage and drags them towards this unit significantly",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "3-14",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Waterless Dance of the Shattered Maelstrom",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glady_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 70% ATK as Arts damage and are dragged towards the center slightly once every 1.5 seconds. The target and nearby enemies are dragged towards this unit slightly after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 75% ATK as Arts damage and are dragged towards the center slightly once every 1.5 seconds. The target and nearby enemies are dragged towards this unit slightly after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 80% ATK as Arts damage and are dragged towards the center slightly once every 1.5 seconds. The target and nearby enemies are dragged towards this unit slightly after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 85% ATK as Arts damage and are dragged towards the center slightly once every 1.5 seconds. The target and nearby enemies are dragged towards this unit slightly after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 22,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 90% ATK as Arts damage and are dragged towards the center slightly once every 1.5 seconds. The target and nearby enemies are dragged towards this unit slightly after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 22,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 95% ATK as Arts damage and are dragged towards the center slightly once every 1.5 seconds. The target and nearby enemies are dragged towards this unit slightly after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 22,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 100% ATK as Arts damage and are dragged towards the center moderately once every 1.5 seconds. The target and nearby enemies are dragged towards this unit moderately after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 24,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 110% ATK as Arts damage and are dragged towards the center moderately once every 1.5 seconds. The target and nearby enemies are dragged towards this unit moderately after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 24,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 120% ATK as Arts damage and are dragged towards the center moderately once every 1.5 seconds. The target and nearby enemies are dragged towards this unit moderately after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 26,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Binds a faraway target and generates a tornado centered on it, inflicting -50% Movement Speed to nearby enemies. Enemies caught in the tornado receive 130% ATK as Arts damage and are dragged towards the center significantly once every 1.5 seconds. The target and nearby enemies are dragged towards this unit significantly after the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 26,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_147_shining": {
     "name": "Shining",
     "skills": [
@@ -42147,6 +43170,389 @@
             "spType": 1,
             "initSp": 115,
             "spCost": 120,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_003_kalts": {
+    "name": "Kal'tsit",
+    "skills": [
+      {
+        "name": "Command: Structural Fortification",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kalts_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "This unit and Mon3tr gains DEF +60%. This unit also gains 20% Physical resist",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "This unit and Mon3tr gains DEF +70%. This unit also gains 20% Physical resist",
+            "skillType": 1,
+            "duration": 31,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 1,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "This unit and Mon3tr gains DEF +80%. This unit also gains 20% Physical resist",
+            "skillType": 1,
+            "duration": 32,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 2,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "This unit and Mon3tr gains DEF +90%. This unit also gains 30% Physical resist",
+            "skillType": 1,
+            "duration": 33,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "This unit and Mon3tr gains DEF +100%. This unit also gains 30% Physical resist",
+            "skillType": 1,
+            "duration": 34,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "This unit and Mon3tr gains DEF +110%. This unit also gains 30% Physical resist",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "This unit and Mon3tr gains DEF +120%. This unit also gains 40% Physical resist",
+            "skillType": 1,
+            "duration": 36,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "This unit and Mon3tr gains DEF +130%. This unit also gains 40% Physical resist",
+            "skillType": 1,
+            "duration": 37,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "This unit and Mon3tr gains DEF +140%. This unit also gains 40% Physical resist",
+            "skillType": 1,
+            "duration": 38,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "This unit and Mon3tr gains DEF +150%. This unit also gains 50% Physical resist",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Command: Tactical Coordination",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kalts_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "This unit gains ASPD +30; Mon3tr gains ATK +20% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "This unit gains ASPD +35; Mon3tr gains ATK +25% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "This unit gains ASPD +40; Mon3tr gains ATK +30% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "This unit gains ASPD +45; Mon3tr gains ATK +35% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "This unit gains ASPD +50; Mon3tr gains ATK +40% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "This unit gains ASPD +55; Mon3tr gains ATK +45% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "This unit gains ASPD +60; Mon3tr gains ATK +50% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "This unit gains ASPD +70; Mon3tr gains ATK +60% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "This unit gains ASPD +80; Mon3tr gains ATK +75% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 19,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "This unit gains ASPD +100; Mon3tr gains ATK +90% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Command: Meltdown",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kalts_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Mon3tr gains DEF +100%, ATK +130% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Mon3tr gains DEF +100%, ATK +140% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Mon3tr gains DEF +100%, ATK +150% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Mon3tr gains DEF +120%, ATK +160% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Mon3tr gains DEF +120%, ATK +170% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Mon3tr gains DEF +120%, ATK +180% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Mon3tr gains DEF +140%, ATK +190% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Mon3tr gains DEF +160%, ATK +210% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Mon3tr gains DEF +180%, ATK +230% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 19,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Mon3tr gains DEF +200%, ATK +260% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -47178,6 +48584,10 @@
     "name": "Tentacle",
     "skills": []
   },
+  "token_10002_kalts_mon3tr": {
+    "name": "Mon3tr",
+    "skills": []
+  },
   "token_10003_cgbird_bird": {
     "name": "Mirage",
     "skills": []
@@ -50279,6 +51689,389 @@
       }
     ]
   },
+  "token_10017_skadi2_dedant": {
+    "name": "Skadi's Seaborn",
+    "skills": [
+      {
+        "name": "Resonance",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_skadi2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "2",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "3",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "4",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "5",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "6",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "7",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          }
+        ]
+      },
+      {
+        "name": "Resonance",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_skadi2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "2",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "3",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "4",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "5",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "6",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "7",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          }
+        ]
+      },
+      {
+        "name": "Resonance",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_skadi2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "2",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "3",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "4",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "5",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "6",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "7",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range is regarded as an extension of Skadi the Corrupting Heart's Attack Range",
+            "skillType": 0,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          }
+        ]
+      }
+    ]
+  },
   "trap_001_crate": {
     "name": "Roadblock",
     "skills": [
@@ -51143,6 +52936,52 @@
             "initSp": 0,
             "spCost": 0,
             "maxChargeTime": 0,
+            "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "trap_038_dsbell": {
+    "name": "Emergency Aid Building",
+    "skills": [
+      {
+        "name": "Emergency Medical Agreement",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_dsbell.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "When activated, continually recovers the <$ba.dt.neural>Nervous Impairment damage accumulated by ally units in a large area; When activated by <Automatic Maintenance Drone>, significantly increases recovery effect",
+            "skillType": 0,
+            "duration": 0,
+            "rangeId": "x-2",
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "trap_039_dstnta": {
+    "name": "Offspring",
+    "skills": [
+      {
+        "name": "Devour",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_sktok_dstnta.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Stuns the target and continually inflicts Physical damage and Nervous Impairment",
+            "skillType": 2,
+            "duration": 999999,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 1,
+            "maxChargeTime": 1,
             "increment": 0
           }
         ]
