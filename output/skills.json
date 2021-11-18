@@ -18443,7 +18443,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +50%, DEF +70%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +50%, DEF +70%",
             "skillType": 1,
             "duration": 16,
             "rangeId": null,
@@ -18455,7 +18455,7 @@
           },
           {
             "level": "2",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +50%, DEF +70%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +50%, DEF +70%",
             "skillType": 1,
             "duration": 16,
             "rangeId": null,
@@ -18467,7 +18467,7 @@
           },
           {
             "level": "3",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +50%, DEF +70%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +50%, DEF +70%",
             "skillType": 1,
             "duration": 16,
             "rangeId": null,
@@ -18479,7 +18479,7 @@
           },
           {
             "level": "4",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +60%, DEF +80%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +60%, DEF +80%",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -18491,7 +18491,7 @@
           },
           {
             "level": "5",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +60%, DEF +80%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +60%, DEF +80%",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -18503,7 +18503,7 @@
           },
           {
             "level": "6",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +60%, DEF +80%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +60%, DEF +80%",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -18515,7 +18515,7 @@
           },
           {
             "level": "7",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +70%, DEF +90%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +70%, DEF +90%",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -18527,7 +18527,7 @@
           },
           {
             "level": "M1",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +80%, DEF +100%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +80%, DEF +100%",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -18539,7 +18539,7 @@
           },
           {
             "level": "M2",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +90%, DEF +110%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +90%, DEF +110%",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -18551,7 +18551,7 @@
           },
           {
             "level": "M3",
-            "description": "Immediately loses 50% current HP and gain 1 <$ba.shield>Shield (disappears when the skill ends), ATK +100%, DEF +120%",
+            "description": "Immediately loses 50% current HP and gain 1 Shield (disappears when the skill ends), ATK +100%, DEF +120%",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -43312,7 +43312,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "This unit gains ASPD +30; Mon3tr gains ATK +20% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +30; Mon3tr gains ATK +20% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 15,
             "rangeId": null,
@@ -43324,7 +43324,7 @@
           },
           {
             "level": "2",
-            "description": "This unit gains ASPD +35; Mon3tr gains ATK +25% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +35; Mon3tr gains ATK +25% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 15,
             "rangeId": null,
@@ -43336,7 +43336,7 @@
           },
           {
             "level": "3",
-            "description": "This unit gains ASPD +40; Mon3tr gains ATK +30% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +40; Mon3tr gains ATK +30% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 15,
             "rangeId": null,
@@ -43348,7 +43348,7 @@
           },
           {
             "level": "4",
-            "description": "This unit gains ASPD +45; Mon3tr gains ATK +35% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +45; Mon3tr gains ATK +35% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 16,
             "rangeId": null,
@@ -43360,7 +43360,7 @@
           },
           {
             "level": "5",
-            "description": "This unit gains ASPD +50; Mon3tr gains ATK +40% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +50; Mon3tr gains ATK +40% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 16,
             "rangeId": null,
@@ -43372,7 +43372,7 @@
           },
           {
             "level": "6",
-            "description": "This unit gains ASPD +55; Mon3tr gains ATK +45% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +55; Mon3tr gains ATK +45% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 16,
             "rangeId": null,
@@ -43384,7 +43384,7 @@
           },
           {
             "level": "7",
-            "description": "This unit gains ASPD +60; Mon3tr gains ATK +50% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +60; Mon3tr gains ATK +50% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 17,
             "rangeId": null,
@@ -43396,7 +43396,7 @@
           },
           {
             "level": "M1",
-            "description": "This unit gains ASPD +70; Mon3tr gains ATK +60% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +70; Mon3tr gains ATK +60% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -43408,7 +43408,7 @@
           },
           {
             "level": "M2",
-            "description": "This unit gains ASPD +80; Mon3tr gains ATK +75% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +80; Mon3tr gains ATK +75% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 19,
             "rangeId": null,
@@ -43420,7 +43420,7 @@
           },
           {
             "level": "M3",
-            "description": "This unit gains ASPD +100; Mon3tr gains ATK +90% and attacks all blocked enemies\nThis skill is <$ba.binding>Tied to Mon3tr",
+            "description": "This unit gains ASPD +100; Mon3tr gains ATK +90% and attacks all blocked enemies\nThis skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -43438,7 +43438,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Mon3tr gains DEF +100%, ATK +130% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +100%, ATK +130% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -43450,7 +43450,7 @@
           },
           {
             "level": "2",
-            "description": "Mon3tr gains DEF +100%, ATK +140% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +100%, ATK +140% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -43462,7 +43462,7 @@
           },
           {
             "level": "3",
-            "description": "Mon3tr gains DEF +100%, ATK +150% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +100%, ATK +150% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -43474,7 +43474,7 @@
           },
           {
             "level": "4",
-            "description": "Mon3tr gains DEF +120%, ATK +160% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +120%, ATK +160% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -43486,7 +43486,7 @@
           },
           {
             "level": "5",
-            "description": "Mon3tr gains DEF +120%, ATK +170% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +120%, ATK +170% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -43498,7 +43498,7 @@
           },
           {
             "level": "6",
-            "description": "Mon3tr gains DEF +120%, ATK +180% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +120%, ATK +180% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -43510,7 +43510,7 @@
           },
           {
             "level": "7",
-            "description": "Mon3tr gains DEF +140%, ATK +190% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +140%, ATK +190% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -43522,7 +43522,7 @@
           },
           {
             "level": "M1",
-            "description": "Mon3tr gains DEF +160%, ATK +210% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +160%, ATK +210% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -43534,7 +43534,7 @@
           },
           {
             "level": "M2",
-            "description": "Mon3tr gains DEF +180%, ATK +230% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +180%, ATK +230% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 19,
             "rangeId": null,
@@ -43546,7 +43546,7 @@
           },
           {
             "level": "M3",
-            "description": "Mon3tr gains DEF +200%, ATK +260% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is <$ba.binding>Tied to Mon3tr",
+            "description": "Mon3tr gains DEF +200%, ATK +260% that gradually decays to +0% over the skill duration and deals True damage. If this skill ends without Mon3tr killing any enemies, Mon3tr loses 50% Max HP. This skill is Tied to Mon3tr",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -52951,7 +52951,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "When activated, continually recovers the <$ba.dt.neural>Nervous Impairment damage accumulated by ally units in a large area; When activated by <Automatic Maintenance Drone>, significantly increases recovery effect",
+            "description": "When activated, continually recovers the Nervous Impairment damage accumulated by ally units in a large area; When activated by <Automatic Maintenance Drone>, significantly increases recovery effect",
             "skillType": 0,
             "duration": 0,
             "rangeId": "x-2",
