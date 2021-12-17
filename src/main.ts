@@ -1,7 +1,9 @@
 import fs from 'fs';
 import got from 'got';
 import Decimal from 'decimal.js-light';
-const APP_PACKAGE = require('../package.json');
+
+// @ts-ignore
+import APP_PACKAGE from '../package.json';
 
 const EMPTY_STRING = '';
 

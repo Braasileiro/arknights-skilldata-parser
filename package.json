@@ -1,12 +1,13 @@
 {
   "name": "arknights-skilldata-parser",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple parser to extract the Arknights skill data on Dimbreath/ArknightsData | Kengxxiao/ArknightsGameData.",
   "main": "build/main.js",
+  "type": "module",
   "scripts": {
     "tsc": "tsc",
     "build": "npm run tsc",
-    "start": "npm run build && node ./build/main.js"
+    "start": "npm run build && node --experimental-json-modules ./build/main.js"
   },
   "repository": {
     "type": "git",
@@ -25,10 +26,11 @@
     "url": "https://github.com/Braasileiro/arknights-skilldata-parser/issues"
   },
   "devDependencies": {
-    "typescript": "^4.3.5"
+    "typescript": "^4.5.4",
+    "@tsconfig/node16": "^1.0.2"
   },
   "dependencies": {
-    "got": "^11.8.2",
+    "got": "^12.0.0",
     "decimal.js-light": "^2.5.1"
   }
 }
