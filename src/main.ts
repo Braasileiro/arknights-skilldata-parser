@@ -24,7 +24,7 @@ async function init() {
         if (!fs.existsSync('./output')) fs.mkdirSync('./output');
         
         // Datasets
-        let DATA: any = {};
+        let SKILL_DATA: any = {};
         let CHAR_TABLE = JSON.parse((await got(getDataset('char'))).body);
         let CHAR_PATCH_TABLE = JSON.parse((await got(getDataset('patch'))).body).patchChars;
         let SKILL_TABLE = JSON.parse((await got(getDataset('skill'))).body);
@@ -38,23 +38,30 @@ async function init() {
             (<any>CHAR_TABLE)[key] = CHAR_PATCH_TABLE[key]
         }
 
-        // Write parsed characters dataset
-        fs.writeFileSync('./output/characters.json', JSON.stringify(CHAR_TABLE, null, 2));
-
         // Get skills
         for (const key in CHAR_TABLE) {
-            console.log(`Retrieving ${key}...`);
-
             let character = CHAR_TABLE[key];
 
-            (<any>DATA)[key] = {
+            // Delete from object
+            if (
+                character.profession == 'TOKEN' ||
+                character.profession == 'TRAP'
+            ) {
+                delete CHAR_TABLE[key];
+                continue;
+            }
+
+            console.log(`Retrieving ${key}...`);
+
+            (<any>SKILL_DATA)[key] = {
                 name: character.name,
                 skills: getSkills(SKILL_TABLE, character)
             }
         }
 
-        // Write parsed skills dataset
-        fs.writeFileSync('./output/skills.json', JSON.stringify(DATA, null, 2));
+        // Write datasets
+        fs.writeFileSync('./output/characters.json', JSON.stringify(CHAR_TABLE, null, 2));
+        fs.writeFileSync('./output/skills.json', JSON.stringify(SKILL_DATA, null, 2));
 
         console.log(`All data retrieved! Please check the 'output' folder.`);
     } catch (e) {
