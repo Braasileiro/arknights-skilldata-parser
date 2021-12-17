@@ -55999,5 +55999,262 @@
         ]
       }
     ]
+  },
+  "char_1001_amiya2": {
+    "name": "Amiya (Guard)",
+    "skills": [
+      {
+        "name": "Ying Xiao - Fleeting Night",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amiya2_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +20%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +25%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +30%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +35%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +40%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +45%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +50%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 27,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +60%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 28,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +70%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 29,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +80%, 60% Arts Dodge, and attacks turn into double strikes",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Ying Xiao - Shadowless",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amiya2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 120% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +20% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 130% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +20% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 130% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +20% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 27,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 140% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +20% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 28,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 150% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +20% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 29,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 150% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +20% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 160% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +25% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 31,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 180% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +30% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 32,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 200% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +35% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 33,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately searches for the lowest HP target in front of this unit and attacks 10 times for 220% ATK as Arts damage (The last hit deals double damage as True damage); Each enemy defeated during these slashes will increase Amiya's ATK by +40% and RES by +20, stacking up to 3 times; Afterwards, Amiya will deal True damage; This skill can only be used once per battle",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": "x-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
   }
 }
