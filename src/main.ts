@@ -24,67 +24,29 @@ async function init() {
         
         let CHAR_TABLE = JSON.parse((await got(getDataset('char'))).body);
         let SKILL_TABLE = JSON.parse((await got(getDataset('skill'))).body);
+        let PATCH_TABLE = JSON.parse((await got(getDataset('patch'))).body).patchChars;
 
         for (const key in CHAR_TABLE) {
             console.log(`Retrieving ${key}...`);
 
-            let ARRAY_SKILLS: Array<any> = [];
-
             let character = CHAR_TABLE[key];
-
-            for (var i = 0; i < character['skills'].length; i++) {
-                let id = character['skills'][i].skillId;
-                let skill = SKILL_TABLE[id];
-
-                if (assert(skill)) {
-                    let iconId = skill.iconId;
-                    let ENTRY: any = {};
-                    let ARRAY_LEVELS: Array<any> = [];
-
-                    let MASTERY = 1;
-
-                    for (var j = 0; j < skill['levels'].length; j++) {
-                        var name = `${j + 1}`;
-                        let level = skill['levels'][j];
-
-                        if (j == 0) {
-                            (<any>ENTRY)['name'] = level['name'];
-                        } else if (j > 6) {
-                            name = `M${MASTERY}`;
-                            MASTERY++;
-                        }
-
-                        let duration = getDuration(level.duration, level.blackboard);
-
-                        ARRAY_LEVELS.push({
-                            level: name,
-                            description: getDescription(level.description, level.blackboard, duration),
-                            skillType: level.skillType,
-                            duration: duration,
-                            rangeId: level.rangeId,
-                            spType: level.spData.spType,
-                            initSp: level.spData.initSp,
-                            spCost: level.spData.spCost,
-                            maxChargeTime: level.spData.maxChargeTime,
-                            increment: level.spData.increment
-                        });
-                    }
-
-                    if (!assert(iconId) || iconId.trim() === "") {
-                        (<any>ENTRY)['icon'] = `https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_${id}.png`;
-                    } else {
-                        (<any>ENTRY)['icon'] = `https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_${iconId}.png`;
-                    }
-                    
-                    (<any>ENTRY)['levels'] = ARRAY_LEVELS;
-
-                    ARRAY_SKILLS.push(ENTRY);
-                }
-            }
 
             (<any>DATA)[key] = {
                 name: character.name,
-                skills: ARRAY_SKILLS
+                skills: getSkills(SKILL_TABLE, character)
+            }
+        }
+
+        for (const key in PATCH_TABLE) {
+            console.log(`Retrieving patch ${key}...`);
+
+            let character = PATCH_TABLE[key];
+
+            if (character.name === 'Amiya') character.name = 'Amiya (Guard)';
+
+            (<any>DATA)[key] = {
+                name: character.name,
+                skills: getSkills(SKILL_TABLE, character)
             }
         }
 
@@ -98,6 +60,62 @@ async function init() {
     }
 
     return 0;
+}
+
+function getSkills(table: any, character: any): Array<any> {
+    let ARRAY_SKILLS: Array<any> = [];
+
+    for (var i = 0; i < character['skills'].length; i++) {
+        let id = character['skills'][i].skillId;
+        let skill = table[id];
+
+        if (assert(skill)) {
+            let iconId = skill.iconId;
+            let ENTRY: any = {};
+            let ARRAY_LEVELS: Array<any> = [];
+
+            let MASTERY = 1;
+
+            for (var j = 0; j < skill['levels'].length; j++) {
+                var name = `${j + 1}`;
+                let level = skill['levels'][j];
+
+                if (j == 0) {
+                    (<any>ENTRY)['name'] = level['name'];
+                } else if (j > 6) {
+                    name = `M${MASTERY}`;
+                    MASTERY++;
+                }
+
+                let duration = getDuration(level.duration, level.blackboard);
+
+                ARRAY_LEVELS.push({
+                    level: name,
+                    description: getDescription(level.description, level.blackboard, duration),
+                    skillType: level.skillType,
+                    duration: duration,
+                    rangeId: level.rangeId,
+                    spType: level.spData.spType,
+                    initSp: level.spData.initSp,
+                    spCost: level.spData.spCost,
+                    maxChargeTime: level.spData.maxChargeTime,
+                    increment: level.spData.increment
+                });
+            }
+
+            if (!assert(iconId) || iconId.trim() === "") {
+                (<any>ENTRY)['icon'] = `https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_${id}.png`;
+            } else {
+                (<any>ENTRY)['icon'] = `https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_${iconId}.png`;
+            }
+            
+            (<any>ENTRY)['levels'] = ARRAY_LEVELS;
+
+            ARRAY_SKILLS.push(ENTRY);
+        }
+    }
+
+    return ARRAY_SKILLS;
 }
 
 function getDescription(text: string, blackboard: Array<any>, duration: number) {
@@ -197,6 +215,15 @@ function getDataset(type: string): string {
                 // Kengxxiao
                 case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/skill_table.json'
             }
+        
+            case 'patch':
+                switch (CURRENT_DATASET) {
+                    // Dimbreath
+                    case 1: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json';
+    
+                    // Kengxxiao
+                    case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json'
+                }
         break;
     }
 
