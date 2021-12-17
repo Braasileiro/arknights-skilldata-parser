@@ -220,7 +220,7 @@ function getDataset(type: string): string {
         case 'patch':
             switch (CURRENT_DATASET) {
                 // Dimbreath
-                case 1: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json';
+                case 1: return 'https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/char_patch_table.json';
 
                 // Kengxxiao
                 case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json'
