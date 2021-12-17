@@ -203,4 +203,5 @@ $RECYCLE.BIN/
 # Custom
 build/*
 output/*
+!output/characters.json
 !output/skills.json

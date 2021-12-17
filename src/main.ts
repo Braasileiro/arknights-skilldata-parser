@@ -20,12 +20,28 @@ async function init() {
     console.log(`${APP_PACKAGE.name} ${APP_PACKAGE.version} by ${APP_PACKAGE.author}\n`);
 
     try {
-        let DATA: any = {};
+        // Create output directory
+        if (!fs.existsSync('./output')) fs.mkdirSync('./output');
         
+        // Datasets
+        let DATA: any = {};
         let CHAR_TABLE = JSON.parse((await got(getDataset('char'))).body);
+        let CHAR_PATCH_TABLE = JSON.parse((await got(getDataset('patch'))).body).patchChars;
         let SKILL_TABLE = JSON.parse((await got(getDataset('skill'))).body);
-        let PATCH_TABLE = JSON.parse((await got(getDataset('patch'))).body).patchChars;
 
+        // Get characters
+        for (const key in CHAR_PATCH_TABLE) {
+
+            // Patch names
+            if (key == 'char_1001_amiya2') CHAR_PATCH_TABLE[key].name = 'Amiya (Guard)';
+
+            (<any>CHAR_TABLE)[key] = CHAR_PATCH_TABLE[key]
+        }
+
+        // Write parsed characters dataset
+        fs.writeFileSync('./output/characters.json', JSON.stringify(CHAR_TABLE, null, 2));
+
+        // Get skills
         for (const key in CHAR_TABLE) {
             console.log(`Retrieving ${key}...`);
 
@@ -37,21 +53,7 @@ async function init() {
             }
         }
 
-        for (const key in PATCH_TABLE) {
-            console.log(`Retrieving patch ${key}...`);
-
-            let character = PATCH_TABLE[key];
-
-            if (character.name === 'Amiya') character.name = 'Amiya (Guard)';
-
-            (<any>DATA)[key] = {
-                name: character.name,
-                skills: getSkills(SKILL_TABLE, character)
-            }
-        }
-
-        if (!fs.existsSync('./output')) fs.mkdirSync('./output');
-
+        // Write parsed skills dataset
         fs.writeFileSync('./output/skills.json', JSON.stringify(DATA, null, 2));
 
         console.log(`All data retrieved! Please check the 'output' folder.`);
