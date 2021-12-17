@@ -199,31 +199,22 @@ function getDataset(type: string): string {
     switch (type) {
         case 'char':
             switch (CURRENT_DATASET) {
-                // Dimbreath
                 case 1: return 'https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/character_table.json';
-
-                // Kengxxiao
-                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/character_table.json'
+                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/character_table.json';
             }
         break;
 
         case 'skill':
             switch (CURRENT_DATASET) {
-                // Dimbreath
-                case 1: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/character_table.json';
-
-                // Kengxxiao
-                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/skill_table.json'
+                case 1: return 'https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/skill_table.json';
+                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/skill_table.json';
             }
         break;
 
         case 'patch':
             switch (CURRENT_DATASET) {
-                // Dimbreath
                 case 1: return 'https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/char_patch_table.json';
-
-                // Kengxxiao
-                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json'
+                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json';
             }
         break;
     }
