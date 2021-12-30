@@ -49693,6 +49693,389 @@
       }
     ]
   },
+  "char_485_pallas": {
+    "name": "Pallas",
+    "skills": [
+      {
+        "name": "Strikes of Victory",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pallas_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack deals 110% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack deals 110% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack deals 120% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack deals 130% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack deals 130% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack deals 140% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack deals 150% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack deals 160% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack deals 170% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack deals 180% of ATK as Physical damage and attacks twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 2,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Whip of Conviction",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pallas_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range +1 tile, ATK +20% and every attack has 50% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range +1 tile, ATK +25% and every attack has 50% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range +1 tile, ATK +30% and every attack has 50% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range +1 tile, ATK +35% and every attack has 60% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range +1 tile, ATK +40% and every attack has 60% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range +1 tile, ATK +45% and every attack has 60% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range +1 tile, ATK +50% and every attack has 70% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range +1 tile, ATK +60% and every attack has 70% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range +1 tile, ATK +70% and every attack has 80% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range +1 tile, ATK +80% and every attack has 85% chance to Stun the target for 0.2 seconds",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Blessing of Heroism",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pallas_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +40% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +30% ATK when HP is above 80%, DEF +15%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +45% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +30% ATK when HP is above 80%, DEF +15%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +50% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +30% ATK when HP is above 80%, DEF +15%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +55% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +35% ATK when HP is above 80%, DEF +20%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +60% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +35% ATK when HP is above 80%, DEF +20%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +65% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +35% ATK when HP is above 80%, DEF +20%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +70% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +40% ATK when HP is above 80%, DEF +25%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +80% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +45% ATK when HP is above 80%, DEF +30%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +90% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +45% ATK when HP is above 80%, DEF +30%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 35,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +100% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +50% ATK when HP is above 80%, DEF +35%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 35,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_230_savage": {
     "name": "Savage",
     "skills": [
