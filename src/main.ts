@@ -148,6 +148,7 @@ function getDescription(text: string, blackboard: Array<any>, duration: number) 
         result = result.replace(/<\$ba.binding>/gi, EMPTY_STRING);
         result = result.replace(/<\$ba.dt.neural>/gi, EMPTY_STRING);
         result = result.replace(/<\$ba.charged>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.strong>/gi, EMPTY_STRING);
         result = result.replace(/<\/>/gi, EMPTY_STRING);
         //result = result.replace(REGEX_LINEBREAK, '. ');
 
