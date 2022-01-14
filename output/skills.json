@@ -18822,6 +18822,520 @@
       }
     ]
   },
+  "char_421_crow": {
+    "name": "La Pluma",
+    "skills": [
+      {
+        "name": "Rapid Slashing",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_crow_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The ATK of next attack increases to 110%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The ATK of next attack increases to 110%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The ATK of next attack increases to 110%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The ATK of next attack increases to 120%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The ATK of next attack increases to 130%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The ATK of next attack increases to 130%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The ATK of next attack increases to 140%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The ATK of next attack increases to 150%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The ATK of next attack increases to 160%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The ATK of next attack increases to 170%, attacking twice consecutively",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 2,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Reap",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_crow_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Interval reduces slightly, ATK +30%. ATK increases by an additional +30% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 21,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Interval reduces slightly, ATK +35%. ATK increases by an additional +30% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 21,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 49,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Interval reduces slightly, ATK +40%. ATK increases by an additional +30% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 21,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 48,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Interval reduces moderately, ATK +40%. ATK increases by an additional +30% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 23,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 47,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Interval reduces moderately, ATK +45%. ATK increases by an additional +40% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 23,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 46,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Interval reduces moderately, ATK +50%. ATK increases by an additional +40% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 23,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Interval reduces moderately, ATK +55%. ATK increases by an additional +40% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Interval reduces, ATK +60%. ATK increases by an additional +40% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Interval reduces, ATK +65%. ATK increases by an additional +40% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Interval reduces greatly, ATK +70%. ATK increases by an additional +50% against enemies with less than 50% HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_486_takila": {
+    "name": "Tequila",
+    "skills": [
+      {
+        "name": "Decisive Action",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_takila_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ASPD +20 and every attack deals 120% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ASPD +23 and every attack deals 130% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ASPD +26 and every attack deals 130% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ASPD +29 and every attack deals 140% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ASPD +32 and every attack deals 140% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ASPD +35 and every attack deals 150% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ASPD +38 and every attack deals 150% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ASPD +42 and every attack deals 160% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ASPD +46 and every attack deals 160% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ASPD +50 and every attack deals 170% of ATK as Physical damage",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Esoteric Bladework",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_takila_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 140% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 150% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 160% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 170% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 180% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 190% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 200% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 20,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 210% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 20,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 220% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 20,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range expands and attacks 2 enemies simultaneously. Every attack deals 230% of ATK as Physical damage. Charged effect: Changes to attacking 3 enemies simultaneously and skill duration is extended to 30 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "2-3",
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 20,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_129_bluep": {
     "name": "Blue Poison",
     "skills": [
@@ -36671,6 +37185,389 @@
       }
     ]
   },
+  "char_1013_chen2": {
+    "name": "Ch'en the Holungday",
+    "skills": [
+      {
+        "name": "High-Pressure Splash",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chen2_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +40%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +45%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +50%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +55%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +60%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +65%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +70%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +80%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +90%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +100%, attacks apply this unit's Trait effect to all enemies within range\nSkill activation grants 4 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "'Night of Violet'",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chen2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +35%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -10% and DEF -50 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +40%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -10% and DEF -50 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 29,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +45%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -10% and DEF -50 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 28,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +50%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 27,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +55%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 26,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +60%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +65%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 24,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +70%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 23,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +75%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -35% and DEF -170 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 22,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +80%, attacks create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -35% and DEF -170 (Does not stack). Charged effect: Changes to 20 ammo\nSkill activation grants 8 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 20,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "'Holiday Storm'",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chen2_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range expands, ATK +40%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range expands, ATK +45%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range expands, ATK +50%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -20% and DEF -100 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range expands, ATK +55%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 65,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range expands, ATK +60%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 65,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range expands, ATK +65%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -30% and DEF -150 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 65,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range expands, ATK +70%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -40% and DEF -200 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range expands, ATK +80%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -45% and DEF -220 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 27,
+            "spCost": 58,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range expands, ATK +90%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -45% and DEF -220 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 29,
+            "spCost": 56,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range expands, ATK +100%. Attacks deal damage twice, apply this unit's Trait effect to all enemies within range and create a layer of sticky liquid within Attack Range that lasts for 5 seconds. Ground enemies passing over the sticky liquid have Movement Speed -45% and DEF -220 (Does not stack). \nSkill activation grants 32 ammo (each attack consumes 2 ammo) and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-6",
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_112_siege": {
     "name": "Siege",
     "skills": [
@@ -39230,7 +40127,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Attack Range expands, ATK +100%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 2 seconds",
+            "description": "Attack Range expands, ATK +100%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2 seconds",
             "skillType": 1,
             "duration": 55,
             "rangeId": "3-3",
@@ -39242,7 +40139,7 @@
           },
           {
             "level": "2",
-            "description": "Attack Range expands, ATK +110%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 2 seconds",
+            "description": "Attack Range expands, ATK +110%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2 seconds",
             "skillType": 1,
             "duration": 55,
             "rangeId": "3-3",
@@ -39254,7 +40151,7 @@
           },
           {
             "level": "3",
-            "description": "Attack Range expands, ATK +120%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 2 seconds",
+            "description": "Attack Range expands, ATK +120%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2 seconds",
             "skillType": 1,
             "duration": 55,
             "rangeId": "3-3",
@@ -39266,7 +40163,7 @@
           },
           {
             "level": "4",
-            "description": "Attack Range expands, ATK +130%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 2.5 seconds",
+            "description": "Attack Range expands, ATK +130%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2.5 seconds",
             "skillType": 1,
             "duration": 56,
             "rangeId": "3-3",
@@ -39278,7 +40175,7 @@
           },
           {
             "level": "5",
-            "description": "Attack Range expands, ATK +140%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 2.5 seconds",
+            "description": "Attack Range expands, ATK +140%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2.5 seconds",
             "skillType": 1,
             "duration": 56,
             "rangeId": "3-3",
@@ -39290,7 +40187,7 @@
           },
           {
             "level": "6",
-            "description": "Attack Range expands, ATK +150%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 2.5 seconds",
+            "description": "Attack Range expands, ATK +150%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2.5 seconds",
             "skillType": 1,
             "duration": 56,
             "rangeId": "3-3",
@@ -39302,7 +40199,7 @@
           },
           {
             "level": "7",
-            "description": "Attack Range expands, ATK +160%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 3 seconds",
+            "description": "Attack Range expands, ATK +160%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 3 seconds",
             "skillType": 1,
             "duration": 57,
             "rangeId": "3-3",
@@ -39314,7 +40211,7 @@
           },
           {
             "level": "M1",
-            "description": "Attack Range expands, ATK +180%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 3.5 seconds",
+            "description": "Attack Range expands, ATK +180%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 3.5 seconds",
             "skillType": 1,
             "duration": 58,
             "rangeId": "3-3",
@@ -39326,7 +40223,7 @@
           },
           {
             "level": "M2",
-            "description": "Attack Range expands, ATK +190%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 4 seconds",
+            "description": "Attack Range expands, ATK +190%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 4 seconds",
             "skillType": 1,
             "duration": 59,
             "rangeId": "3-3",
@@ -39338,7 +40235,7 @@
           },
           {
             "level": "M3",
-            "description": "Attack Range expands, ATK +210%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets  for 5 seconds",
+            "description": "Attack Range expands, ATK +210%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 5 seconds",
             "skillType": 1,
             "duration": 60,
             "rangeId": "3-3",
@@ -42551,7 +43448,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Attack Interval increases,  ATK +110%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away very slightly\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +110%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away very slightly\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -42563,7 +43460,7 @@
           },
           {
             "level": "2",
-            "description": "Attack Interval increases,  ATK +120%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away very slightly\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +120%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away very slightly\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -42575,7 +43472,7 @@
           },
           {
             "level": "3",
-            "description": "Attack Interval increases,  ATK +130%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away very slightly\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +130%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away very slightly\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -42587,7 +43484,7 @@
           },
           {
             "level": "4",
-            "description": "Attack Interval increases,  ATK +140%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +140%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -42599,7 +43496,7 @@
           },
           {
             "level": "5",
-            "description": "Attack Interval increases,  ATK +150%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +150%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -42611,7 +43508,7 @@
           },
           {
             "level": "6",
-            "description": "Attack Interval increases,  ATK +160%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +160%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -42623,7 +43520,7 @@
           },
           {
             "level": "7",
-            "description": "Attack Interval increases,  ATK +170%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +170%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -42635,7 +43532,7 @@
           },
           {
             "level": "M1",
-            "description": "Attack Interval increases,  ATK +180%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +180%, Attack Range extends by +1 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -42647,7 +43544,7 @@
           },
           {
             "level": "M2",
-            "description": "Attack Interval increases,  ATK +190%, Attack Range extends by +2 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +190%, Attack Range extends by +2 and becomes a long-range AoE attack, attacks now push enemies away slightly\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -42659,7 +43556,7 @@
           },
           {
             "level": "M3",
-            "description": "Attack Interval increases,  ATK +200%, Attack Range extends by +2 and becomes a long-range AoE attack, attacks now push enemies away moderately\nUnlimited duration",
+            "description": "Attack Interval increases, ATK +200%, Attack Range extends by +2 and becomes a long-range AoE attack, attacks now push enemies away moderately\nUnlimited duration",
             "skillType": 2,
             "duration": 0,
             "rangeId": null,
@@ -43558,6 +44455,389 @@
             "spType": 1,
             "initSp": 26,
             "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_437_mizuki": {
+    "name": "Mizuki",
+    "skills": [
+      {
+        "name": "Awaken",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mizuki_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack deals 170% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 1.7 times\nCan store 1 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack deals 180% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 1.7 times\nCan store 1 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack deals 190% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 1.7 times\nCan store 1 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack deals 200% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2 times\nCan store 2 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack deals 210% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2 times\nCan store 2 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack deals 220% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2 times\nCan store 2 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack deals 230% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2.3 times\nCan store 2 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack deals 250% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2.5 times\nCan store 3 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack deals 270% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 2.7 times\nCan store 3 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack deals 300% of ATK as Physical damage and increases the damage multiplier of Mizuki's first Talent to 3 times\nCan store 3 charge(s)",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 3,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Prisoner's Dilemma",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mizuki_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Interval reduces slightly, ATK +10%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.6 seconds",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Interval reduces slightly, ATK +11%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.6 seconds",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Interval reduces slightly, ATK +12%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.6 seconds",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Interval reduces slightly, ATK +15%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.8 seconds",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Interval reduces slightly, ATK +16%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.8 seconds",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Interval reduces slightly, ATK +17%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 0.8 seconds",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Interval reduces, ATK +20%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 1 seconds",
+            "skillType": 1,
+            "duration": 19,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Interval reduces, ATK +23%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 1.1 seconds",
+            "skillType": 1,
+            "duration": 19,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Interval reduces, ATK +26%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 1.2 seconds",
+            "skillType": 1,
+            "duration": 19,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Interval reduces greatly, ATK +30%. Mizuki's first Talent targets 1 additional enemy and inflicts Bind for 1.3 seconds",
+            "skillType": 1,
+            "duration": 21,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Moon in the Water",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mizuki_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range expands, ATK +75%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.5 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range expands, ATK +80%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.5 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range expands, ATK +85%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.5 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range expands, ATK +90%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.7 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 75,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range expands, ATK +95%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.7 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 75,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range expands, ATK +100%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 0.7 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 75,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range expands, ATK +110%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 1 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range expands, ATK +120%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 1 seconds; When attacks hit less than 3 enemies, Mizuki loses 15% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 65,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range expands, ATK +140%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 1 seconds; When attacks hit less than 3 enemies, Mizuki loses 12% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 65,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range expands, ATK +150%. Mizuki's first Talent targets 2 additional enemies and inflicts Stun for 1 seconds; When attacks hit less than 3 enemies, Mizuki loses 12% Max HP",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "y-4",
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 60,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -49954,7 +51234,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "ATK +40% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +30% ATK when HP is above 80%, DEF +15%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +40% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +30% ATK when HP is above 80%, DEF +15%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -49966,7 +51246,7 @@
           },
           {
             "level": "2",
-            "description": "ATK +45% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +30% ATK when HP is above 80%, DEF +15%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +45% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +30% ATK when HP is above 80%, DEF +15%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -49978,7 +51258,7 @@
           },
           {
             "level": "3",
-            "description": "ATK +50% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +30% ATK when HP is above 80%, DEF +15%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +50% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +30% ATK when HP is above 80%, DEF +15%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -49990,7 +51270,7 @@
           },
           {
             "level": "4",
-            "description": "ATK +55% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +35% ATK when HP is above 80%, DEF +20%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +55% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +35% ATK when HP is above 80%, DEF +20%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -50002,7 +51282,7 @@
           },
           {
             "level": "5",
-            "description": "ATK +60% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +35% ATK when HP is above 80%, DEF +20%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +60% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +35% ATK when HP is above 80%, DEF +20%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -50014,7 +51294,7 @@
           },
           {
             "level": "6",
-            "description": "ATK +65% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +35% ATK when HP is above 80%, DEF +20%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +65% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +35% ATK when HP is above 80%, DEF +20%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -50026,7 +51306,7 @@
           },
           {
             "level": "7",
-            "description": "ATK +70% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +40% ATK when HP is above 80%, DEF +25%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +70% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +40% ATK when HP is above 80%, DEF +25%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -50038,7 +51318,7 @@
           },
           {
             "level": "M1",
-            "description": "ATK +80% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +45% ATK when HP is above 80%, DEF +30%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +80% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +45% ATK when HP is above 80%, DEF +30%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -50050,7 +51330,7 @@
           },
           {
             "level": "M2",
-            "description": "ATK +90% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +45% ATK when HP is above 80%, DEF +30%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +90% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +45% ATK when HP is above 80%, DEF +30%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -50062,7 +51342,7 @@
           },
           {
             "level": "M3",
-            "description": "ATK +100% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain <$ba.strong>Vigor effect of +50% ATK when HP is above 80%, DEF +35%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
+            "description": "ATK +100% and attacks two additional targets. If there is an allied Melee Operator in the tile ahead, grant them the following effects: Gain Vigor effect of +50% ATK when HP is above 80%, DEF +35%, Block +1 (If there are no Operators or they are not Melee, grant the effect to self instead)",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
