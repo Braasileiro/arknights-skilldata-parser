@@ -1188,7 +1188,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Range +1 grids; ATK +5%",
+            "description": "Range +1 tiles; ATK +5%",
             "skillType": 1,
             "duration": 19,
             "rangeId": null,
@@ -1200,7 +1200,7 @@
           },
           {
             "level": "2",
-            "description": "Range +1 grids; ATK +10%",
+            "description": "Range +1 tiles; ATK +10%",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -1212,7 +1212,7 @@
           },
           {
             "level": "3",
-            "description": "Range +1 grids; ATK +15%",
+            "description": "Range +1 tiles; ATK +15%",
             "skillType": 1,
             "duration": 21,
             "rangeId": null,
@@ -1224,7 +1224,7 @@
           },
           {
             "level": "4",
-            "description": "Range +2 grids; ATK +20%",
+            "description": "Range +2 tiles; ATK +20%",
             "skillType": 1,
             "duration": 22,
             "rangeId": null,
@@ -1236,7 +1236,7 @@
           },
           {
             "level": "5",
-            "description": "Range +2 grids; ATK +25%",
+            "description": "Range +2 tiles; ATK +25%",
             "skillType": 1,
             "duration": 23,
             "rangeId": null,
@@ -1248,7 +1248,7 @@
           },
           {
             "level": "6",
-            "description": "Range +2 grids; ATK +30%",
+            "description": "Range +2 tiles; ATK +30%",
             "skillType": 1,
             "duration": 24,
             "rangeId": null,
@@ -1260,7 +1260,7 @@
           },
           {
             "level": "7",
-            "description": "Range +2 grids; ATK +40%",
+            "description": "Range +2 tiles; ATK +40%",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3794,7 +3794,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3806,7 +3806,7 @@
           },
           {
             "level": "2",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3818,7 +3818,7 @@
           },
           {
             "level": "3",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3830,7 +3830,7 @@
           },
           {
             "level": "4",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3842,7 +3842,7 @@
           },
           {
             "level": "5",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3854,7 +3854,7 @@
           },
           {
             "level": "6",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3866,7 +3866,7 @@
           },
           {
             "level": "7",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3878,7 +3878,7 @@
           },
           {
             "level": "M1",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3890,7 +3890,7 @@
           },
           {
             "level": "M2",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -3902,7 +3902,7 @@
           },
           {
             "level": "M3",
-            "description": "Range +2 grids",
+            "description": "Range +2 tiles",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -12523,6 +12523,263 @@
       }
     ]
   },
+  "char_484_robrta": {
+    "name": "Roberta",
+    "skills": [
+      {
+        "name": "Siracusan-Style Makeup",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_robrta_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK+10%, DEF+10%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK+14%, DEF+14%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK+18%, DEF+18%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK+22%, DEF+22%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK+26%, DEF+26%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK+30%, DEF+30%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK+35%, DEF+35%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK+40%, DEF+40%",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK+45%, DEF+45%",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK+50%, DEF+50%",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Full Auto Modeler",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_robrta_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Stops attacking; Block +1, DEF +20%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Stops attacking; Block +1, DEF +25%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Stops attacking; Block +1, DEF +30%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Stops attacking; Block +1, DEF +35%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Stops attacking; Block +1, DEF +40%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Stops attacking; Block +1, DEF +45%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Stops attacking; Block +1, DEF +50%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Stops attacking; Block +1, DEF +60%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Stops attacking; Block +1, DEF +70%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Stops attacking; Block +1, DEF +80%; When the skill ends, obtain 1 Modeler",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_355_ethan": {
     "name": "Ethan",
     "skills": [
@@ -12915,7 +13172,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction slightly, dealing 180% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction slightly, dealing 180% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -12927,7 +13184,7 @@
           },
           {
             "level": "2",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction slightly, dealing 190% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction slightly, dealing 190% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -12939,7 +13196,7 @@
           },
           {
             "level": "3",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction slightly, dealing 200% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction slightly, dealing 200% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -12951,7 +13208,7 @@
           },
           {
             "level": "4",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction moderately, dealing 210% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction moderately, dealing 210% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -12963,7 +13220,7 @@
           },
           {
             "level": "5",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction moderately, dealing 220% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction moderately, dealing 220% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -12975,7 +13232,7 @@
           },
           {
             "level": "6",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction moderately, dealing 230% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction moderately, dealing 230% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -12987,7 +13244,7 @@
           },
           {
             "level": "7",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction significantly, dealing 240% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction significantly, dealing 240% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -12999,7 +13256,7 @@
           },
           {
             "level": "M1",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction significantly, dealing 260% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction significantly, dealing 260% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -13011,7 +13268,7 @@
           },
           {
             "level": "M2",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction significantly, dealing 280% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction significantly, dealing 280% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -13023,7 +13280,7 @@
           },
           {
             "level": "M3",
-            "description": "Immediately pushes all enemies in the two frontal grids towards the attack direction significantly, dealing 300% of ATK Physical damage to them",
+            "description": "Immediately pushes all enemies in the two frontal tiles towards the attack direction significantly, dealing 300% of ATK Physical damage to them",
             "skillType": 1,
             "duration": 0,
             "rangeId": "2-2",
@@ -25387,7 +25644,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Range +1 grids; ATK +20%",
+            "description": "Range +1 tiles; ATK +20%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -25399,7 +25656,7 @@
           },
           {
             "level": "2",
-            "description": "Range +1 grids; ATK +25%",
+            "description": "Range +1 tiles; ATK +25%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -25411,7 +25668,7 @@
           },
           {
             "level": "3",
-            "description": "Range +1 grids; ATK +30%",
+            "description": "Range +1 tiles; ATK +30%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -25423,7 +25680,7 @@
           },
           {
             "level": "4",
-            "description": "Range +1 grids; ATK +35%",
+            "description": "Range +1 tiles; ATK +35%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -25435,7 +25692,7 @@
           },
           {
             "level": "5",
-            "description": "Range +1 grids; ATK +40%",
+            "description": "Range +1 tiles; ATK +40%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -25447,7 +25704,7 @@
           },
           {
             "level": "6",
-            "description": "Range +1 grids; ATK +45%",
+            "description": "Range +1 tiles; ATK +45%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -25459,7 +25716,7 @@
           },
           {
             "level": "7",
-            "description": "Range +1 grids; ATK +50%",
+            "description": "Range +1 tiles; ATK +50%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -25471,7 +25728,7 @@
           },
           {
             "level": "M1",
-            "description": "Range +2 grids; ATK +60%",
+            "description": "Range +2 tiles; ATK +60%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -25483,7 +25740,7 @@
           },
           {
             "level": "M2",
-            "description": "Range +2 grids; ATK +70%",
+            "description": "Range +2 tiles; ATK +70%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -25495,7 +25752,7 @@
           },
           {
             "level": "M3",
-            "description": "Range +2 grids; ATK +80%",
+            "description": "Range +2 tiles; ATK +80%",
             "skillType": 1,
             "duration": 40,
             "rangeId": null,
@@ -26530,6 +26787,263 @@
             "spType": 1,
             "initSp": 20,
             "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_473_mberry": {
+    "name": "Mulberry",
+    "skills": [
+      {
+        "name": "Healing Haze",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mberry_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 120% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 130% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 130% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 140% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 140% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 150% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 150% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 160% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 2 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 170% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 2 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Increases the next heal's healing effect and Elemental Damage recovery to 180% and prioritizes the target with the highest Elemental Damage taken\nCan store up to 2 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Safe Zone",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mberry_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Interval reduces and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 15% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Interval reduces and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 17% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 79,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Interval reduces and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 19% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 78,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Interval reduces greatly and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 21% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 76,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Interval reduces greatly and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 23% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 75,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Interval reduces greatly and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 25% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 74,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Interval reduces greatly and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 28% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 72,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Interval reduces greatly and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 30% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Interval reduces significantly and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 32% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 68,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Interval reduces significantly and prioritizes the target with the highest Elemental Damage taken. All allied units within Attack Range receive 35% less Elemental Damage",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 50,
+            "spCost": 66,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -38717,6 +39231,389 @@
       }
     ]
   },
+  "char_479_sleach": {
+    "name": "Saileach",
+    "skills": [
+      {
+        "name": "Support γ",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_assist_cost[3].png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 13,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 14,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Stops attacking and recovers 18 DP over the skill duration",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Inheritance of Faith",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sleach_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +10% and restoring their HP equal to 10% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +14% and restoring their HP equal to 14% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +18% and restoring their HP equal to 18% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 36,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +22% and restoring their HP equal to 22% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +26% and restoring their HP equal to 26% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +30% and restoring their HP equal to 30% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +35% and restoring their HP equal to 35% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +40% and restoring their HP equal to 40% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 13,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +45% and restoring their HP equal to 45% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 14,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Stops attacking and generates a total of 20 DP over the skill duration. Throws the banner to the location of the allied unit with the lowest HP percentage within range, granting them DEF +50% and restoring their HP equal to 50% of Saileach's ATK every second. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Glorious Banner",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sleach_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 170% Physical damage and Stunning them for 2.5 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 15% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 180% Physical damage and Stunning them for 2.5 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 15% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 190% Physical damage and Stunning them for 2.5 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 15% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 200% Physical damage and Stunning them for 3 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 20% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 210% Physical damage and Stunning them for 3 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 20% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 220% Physical damage and Stunning them for 3 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 20% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 240% Physical damage and Stunning them for 3 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 25% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 260% Physical damage and Stunning them for 3.5 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 25% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 280% Physical damage and Stunning them for 3.5 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 27% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Stops attacking and immediately gains 10 DP. Throws the banner to the location of ground enemies, dealing 300% Physical damage and Stunning them for 3.5 seconds. Enemies within the surrounding 8 tiles of the banner are inflicted with Slow and 30% Fragile effect. When the skill ends, retrieve the banner",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_134_ifrit": {
     "name": "Ifrit",
     "skills": [
@@ -40127,7 +41024,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Attack Range expands, ATK +100%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2 seconds",
+            "description": "Attack Range expands, ATK +100%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2 seconds",
             "skillType": 1,
             "duration": 55,
             "rangeId": "3-3",
@@ -40139,7 +41036,7 @@
           },
           {
             "level": "2",
-            "description": "Attack Range expands, ATK +110%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2 seconds",
+            "description": "Attack Range expands, ATK +110%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2 seconds",
             "skillType": 1,
             "duration": 55,
             "rangeId": "3-3",
@@ -40151,7 +41048,7 @@
           },
           {
             "level": "3",
-            "description": "Attack Range expands, ATK +120%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2 seconds",
+            "description": "Attack Range expands, ATK +120%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2 seconds",
             "skillType": 1,
             "duration": 55,
             "rangeId": "3-3",
@@ -40163,7 +41060,7 @@
           },
           {
             "level": "4",
-            "description": "Attack Range expands, ATK +130%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2.5 seconds",
+            "description": "Attack Range expands, ATK +130%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2.5 seconds",
             "skillType": 1,
             "duration": 56,
             "rangeId": "3-3",
@@ -40175,7 +41072,7 @@
           },
           {
             "level": "5",
-            "description": "Attack Range expands, ATK +140%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2.5 seconds",
+            "description": "Attack Range expands, ATK +140%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2.5 seconds",
             "skillType": 1,
             "duration": 56,
             "rangeId": "3-3",
@@ -40187,7 +41084,7 @@
           },
           {
             "level": "6",
-            "description": "Attack Range expands, ATK +150%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 2.5 seconds",
+            "description": "Attack Range expands, ATK +150%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 2.5 seconds",
             "skillType": 1,
             "duration": 56,
             "rangeId": "3-3",
@@ -40199,7 +41096,7 @@
           },
           {
             "level": "7",
-            "description": "Attack Range expands, ATK +160%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 3 seconds",
+            "description": "Attack Range expands, ATK +160%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 3 seconds",
             "skillType": 1,
             "duration": 57,
             "rangeId": "3-3",
@@ -40211,7 +41108,7 @@
           },
           {
             "level": "M1",
-            "description": "Attack Range expands, ATK +180%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 3.5 seconds",
+            "description": "Attack Range expands, ATK +180%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 3.5 seconds",
             "skillType": 1,
             "duration": 58,
             "rangeId": "3-3",
@@ -40223,7 +41120,7 @@
           },
           {
             "level": "M2",
-            "description": "Attack Range expands, ATK +190%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 4 seconds",
+            "description": "Attack Range expands, ATK +190%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 4 seconds",
             "skillType": 1,
             "duration": 59,
             "rangeId": "3-3",
@@ -40235,7 +41132,7 @@
           },
           {
             "level": "M3",
-            "description": "Attack Range expands, ATK +210%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silences targets for 5 seconds",
+            "description": "Attack Range expands, ATK +210%, attacks now deal Physical damage, prioritize enemies with the lowest defense, and silence targets for 5 seconds",
             "skillType": 1,
             "duration": 60,
             "rangeId": "3-3",
@@ -46255,7 +47152,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "ATK +65%; DEF +40%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +65%; DEF +40%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -46267,7 +47164,7 @@
           },
           {
             "level": "2",
-            "description": "ATK +70%; DEF +40%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +70%; DEF +40%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -46279,7 +47176,7 @@
           },
           {
             "level": "3",
-            "description": "ATK +75%; DEF +40%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +75%; DEF +40%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -46291,7 +47188,7 @@
           },
           {
             "level": "4",
-            "description": "ATK +80%; DEF +50%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +80%; DEF +50%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -46303,7 +47200,7 @@
           },
           {
             "level": "5",
-            "description": "ATK +85%; DEF +50%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +85%; DEF +50%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -46315,7 +47212,7 @@
           },
           {
             "level": "6",
-            "description": "ATK +90%; DEF +50%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +90%; DEF +50%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -46327,7 +47224,7 @@
           },
           {
             "level": "7",
-            "description": "ATK +95%; DEF +60%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +95%; DEF +60%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -46339,7 +47236,7 @@
           },
           {
             "level": "M1",
-            "description": "ATK +110%; DEF +70%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +110%; DEF +70%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -46351,7 +47248,7 @@
           },
           {
             "level": "M2",
-            "description": "ATK +130%; DEF +80%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +130%; DEF +80%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -46363,7 +47260,7 @@
           },
           {
             "level": "M3",
-            "description": "ATK +140%; DEF +90%; Cuts all targets in the frontal grid with the shield",
+            "description": "ATK +140%; DEF +90%; Cuts all targets in the frontal tile with the shield",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -51491,7 +52388,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Deals 300% of ATK Physical damage to at most 3 enemies within three grids ahead",
+            "description": "Deals 300% of ATK Physical damage to at most 3 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
@@ -51503,7 +52400,7 @@
           },
           {
             "level": "2",
-            "description": "Deals 310% of ATK Physical damage to at most 3 enemies within three grids ahead",
+            "description": "Deals 310% of ATK Physical damage to at most 3 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
@@ -51515,7 +52412,7 @@
           },
           {
             "level": "3",
-            "description": "Deals 320% of ATK Physical damage to at most 3 enemies within three grids ahead",
+            "description": "Deals 320% of ATK Physical damage to at most 3 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
@@ -51527,7 +52424,7 @@
           },
           {
             "level": "4",
-            "description": "Deals 330% of ATK Physical damage to at most 4 enemies within three grids ahead",
+            "description": "Deals 330% of ATK Physical damage to at most 4 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
@@ -51539,7 +52436,7 @@
           },
           {
             "level": "5",
-            "description": "Deals 340% of ATK Physical damage to at most 4 enemies within three grids ahead",
+            "description": "Deals 340% of ATK Physical damage to at most 4 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
@@ -51551,7 +52448,7 @@
           },
           {
             "level": "6",
-            "description": "Deals 350% of ATK Physical damage to at most 4 enemies within three grids ahead",
+            "description": "Deals 350% of ATK Physical damage to at most 4 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
@@ -51563,7 +52460,7 @@
           },
           {
             "level": "7",
-            "description": "Deals 360% of ATK Physical damage to at most 4 enemies within three grids ahead",
+            "description": "Deals 360% of ATK Physical damage to at most 4 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
@@ -51575,7 +52472,7 @@
           },
           {
             "level": "M1",
-            "description": "Deals 370% of ATK Physical damage to at most 5 enemies within three grids ahead",
+            "description": "Deals 370% of ATK Physical damage to at most 5 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
@@ -51587,7 +52484,7 @@
           },
           {
             "level": "M2",
-            "description": "Deals 380% of ATK Physical damage to at most 5 enemies within three grids ahead",
+            "description": "Deals 380% of ATK Physical damage to at most 5 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
@@ -51599,7 +52496,7 @@
           },
           {
             "level": "M3",
-            "description": "Deals 400% of ATK Physical damage to at most 5 enemies within three grids ahead",
+            "description": "Deals 400% of ATK Physical damage to at most 5 enemies within three tiles ahead",
             "skillType": 1,
             "duration": 0,
             "rangeId": "3-2",
