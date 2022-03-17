@@ -3,7 +3,7 @@ import got from 'got';
 import Decimal from 'decimal.js-light';
 
 // @ts-ignore
-import APP_PACKAGE from '../package.json';
+import APP_PACKAGE from '../package.json' assert { type: "json" };
 
 const EMPTY_STRING = '';
 
@@ -149,6 +149,8 @@ function getDescription(text: string, blackboard: Array<any>, duration: number) 
         result = result.replace(/<\$ba.dt.neural>/gi, EMPTY_STRING);
         result = result.replace(/<\$ba.charged>/gi, EMPTY_STRING);
         result = result.replace(/<\$ba.strong>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.dt.element>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.fragile>/gi, EMPTY_STRING);
         result = result.replace(/<\/>/gi, EMPTY_STRING);
         //result = result.replace(REGEX_LINEBREAK, '. ');
 
