@@ -30392,6 +30392,263 @@
       }
     ]
   },
+  "char_431_ashlok": {
+    "name": "Ashlock",
+    "skills": [
+      {
+        "name": "ATK Up γ",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +30%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +35%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +40%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +45%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +50%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +55%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +60%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +75%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +90%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +100%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Focused Bombardment",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ashlok_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces slightly, ATK +10%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces slightly, ATK +15%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces slightly, ATK +20%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces moderately, ATK +25%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces moderately, ATK +30%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces moderately, ATK +35%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces, ATK +40%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces, ATK +45%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces, ATK +50%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Cannot block enemies and only carry out ranged attacks. Attack Interval reduces significantly, ATK +55%",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_145_prove": {
     "name": "Provence",
     "skills": [
@@ -34107,7 +34364,7 @@
           },
           {
             "level": "M3",
-            "description": "The next attack pushes enemies towards the attack direction significantly and their Movement Speed -30% for 5 seconds",
+            "description": "The next attack pushes enemies towards the attack direction significantly and their Movement Speed -30% for 5seconds",
             "skillType": 2,
             "duration": 5,
             "rangeId": null,
@@ -36543,6 +36800,389 @@
             "spType": 1,
             "initSp": 12,
             "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_430_fartth": {
+    "name": "Fartooth",
+    "skills": [
+      {
+        "name": "Swift Strike γ",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_quickattack[3].png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +20%; ASPD +20",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +22%; ASPD +20",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +24%; ASPD +20",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +27%; ASPD +25",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +29%; ASPD +25",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +31%; ASPD +25",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +34%; ASPD +35",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +37%; ASPD +35",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +40%; ASPD +35",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +45%; ASPD +45",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Ally Support",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_fartth_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +60",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +65",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +70",
+            "skillType": 1,
+            "duration": 27,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +75",
+            "skillType": 1,
+            "duration": 28,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +80",
+            "skillType": 1,
+            "duration": 29,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +85",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +90",
+            "skillType": 1,
+            "duration": 31,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 21,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +95",
+            "skillType": 1,
+            "duration": 32,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 22,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +100",
+            "skillType": 1,
+            "duration": 33,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 23,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Can attack blocked enemies outside of Attack Range. ASPD +110",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Feathershine Arrows",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_fartth_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +60%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 120%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +65%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 120%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +70%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 120%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +80%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 130%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +85%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 130%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +90%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 130%",
+            "skillType": 1,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +100%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 130%",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +110%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 130%",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +120%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 130%",
+            "skillType": 1,
+            "duration": 19,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range changes to an infinitely long straight line ahead, ATK +140%. When attacking an enemy outside of the normal Attack Range, damage dealt increases to 140%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 20,
             "maxChargeTime": 1,
             "increment": 1
           }
