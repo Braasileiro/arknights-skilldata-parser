@@ -11,6 +11,10 @@
     "name": "THRM-EX",
     "skills": []
   },
+  "char_4000_jnight": {
+    "name": "'Justice Knight'",
+    "skills": []
+  },
   "char_502_nblade": {
     "name": "Yato",
     "skills": []
@@ -2750,6 +2754,263 @@
             "spType": 1,
             "initSp": 20,
             "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_4004_pudd": {
+    "name": "Pudding",
+    "skills": [
+      {
+        "name": "Tactical Chant β",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_magic_rage[2].png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ASPD +15",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ASPD +20",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ASPD +25",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ASPD +30",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ASPD +35",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ASPD +40",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ASPD +45",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ASPD +55",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ASPD +65",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ASPD +75",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Diffusion Current",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pudd_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +30%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +35%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +45%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +50%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +55%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +60%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +80%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +90%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +100%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +110%, attacks can jump between enemies up to 4 times",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 35,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -14836,6 +15097,263 @@
       }
     ]
   },
+  "char_496_wildmn": {
+    "name": "Wild Mane",
+    "skills": [
+      {
+        "name": "Stabbing Lance",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_wildmn_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "After deployment, ASPD +60",
+            "skillType": 0,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "2",
+            "description": "After deployment, ASPD +65",
+            "skillType": 0,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "3",
+            "description": "After deployment, ASPD +70",
+            "skillType": 0,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "4",
+            "description": "After deployment, ASPD +80",
+            "skillType": 0,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "5",
+            "description": "After deployment, ASPD +85",
+            "skillType": 0,
+            "duration": 21,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "6",
+            "description": "After deployment, ASPD +90",
+            "skillType": 0,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "7",
+            "description": "After deployment, ASPD +100",
+            "skillType": 0,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M1",
+            "description": "After deployment, ASPD +110",
+            "skillType": 0,
+            "duration": 27,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M2",
+            "description": "After deployment, ASPD +120",
+            "skillType": 0,
+            "duration": 28,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          },
+          {
+            "level": "M3",
+            "description": "After deployment, ASPD +135",
+            "skillType": 0,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 0,
+            "increment": 0
+          }
+        ]
+      },
+      {
+        "name": "Lance Charge",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_wildmn_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range expands, ATK +30%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range expands, ATK +35%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 16,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range expands, ATK +40%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range expands, ATK +45%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range expands, ATK +50%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 21,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range expands, ATK +55%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 22,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range expands, ATK +60%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range expands, ATK +65%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 27,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range expands, ATK +70%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 28,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range expands, ATK +80%. Attacks will push the target towards the attack direction moderately",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_401_elysm": {
     "name": "Elysium",
     "skills": [
@@ -24607,6 +25125,263 @@
       }
     ]
   },
+  "char_489_serum": {
+    "name": "Corroserum",
+    "skills": [
+      {
+        "name": "Focus Overload",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_serum_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +50%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +55%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +60%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +70%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +80%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +90%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +100%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +110%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +120%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +140%. Corroserum is Stunned for 10 seconds after skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Conductive Corrosive Blast",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_serum_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +25% and attacks silence the targets for 3 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +30% and attacks silence the targets for 3 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +35% and attacks silence the targets for 3 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +45% and attacks silence the targets for 3.2 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +50% and attacks silence the targets for 3.2 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +60% and attacks silence the targets for 3.2 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +70% and attacks silence the targets for 3.5 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +80% and attacks silence the targets for 4 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +90% and attacks silence the targets for 4.5 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +100% and attacks silence the targets for 5 seconds\nCan manually deactivate skill (skill can be deactivated at will)",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_242_otter": {
     "name": "Mayer",
     "skills": [
@@ -27044,6 +27819,263 @@
             "spType": 1,
             "initSp": 50,
             "spCost": 66,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_449_glider": {
+    "name": "Honeyberry",
+    "skills": [
+      {
+        "name": "Spiritual Care",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glider_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 10% of Honeyberry's ATK every second for 2 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 20% of Honeyberry's ATK every second for 2 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 30% of Honeyberry's ATK every second for 2 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 40% of Honeyberry's ATK every second for 2 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 50% of Honeyberry's ATK every second for 2 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 60% of Honeyberry's ATK every second for 2 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 70% of Honeyberry's ATK every second for 3 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 80% of Honeyberry's ATK every second for 3 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 90% of Honeyberry's ATK every second for 3 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next heal targets 2 Operators with the highest Elemental Damage taken, and additionally recovers their Elemental Damage by 100% of Honeyberry's ATK every second for 3 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Rouse",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glider_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +15%. Every heal prioritizes 2 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +18%. Every heal prioritizes 2 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 54,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +21%. Every heal prioritizes 2 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 53,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +25%. Every heal prioritizes 2 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 52,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +28%. Every heal prioritizes 2 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 51,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +31%. Every heal prioritizes 2 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +35%. Every heal prioritizes 3 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 49,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +40%. Every heal prioritizes 3 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 48,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +45%. Every heal prioritizes 3 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 47,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +50%. Every heal prioritizes 3 Operators with the highest Elemental Damage taken",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 45,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -34364,7 +35396,7 @@
           },
           {
             "level": "M3",
-            "description": "The next attack pushes enemies towards the attack direction significantly and their Movement Speed -30% for 5seconds",
+            "description": "The next attack pushes enemies towards the attack direction significantly and their Movement Speed -30% for 5 seconds",
             "skillType": 2,
             "duration": 5,
             "rangeId": null,
@@ -40247,6 +41279,389 @@
             "spType": 1,
             "initSp": 7,
             "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_420_flamtl": {
+    "name": "Flametail",
+    "skills": [
+      {
+        "name": "Quick Intuition",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flamtl_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 1,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 2,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately gains 6 DP and dodge the next Physical attack",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "'Pinus Sylvestris'",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flamtl_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately gains 10 DP; Deals 150% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 35% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately gains 10 DP; Deals 160% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 35% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 21,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately gains 10 DP; Deals 170% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 35% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 22,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately gains 11 DP; Deals 180% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 40% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 23,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately gains 11 DP; Deals 190% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 40% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 24,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately gains 11 DP; Deals 200% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 40% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately gains 12 DP; Deals 210% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 45% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 26,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately gains 12 DP; Deals 220% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 45% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 27,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately gains 12 DP; Deals 230% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 50% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 28,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately gains 13 DP; Deals 240% ATK as Physical damage twice to up to 6 nearby enemies and Stuns them for 0.5 seconds. Allied units within Attack Range gain 50% Physical Dodge for 10 seconds",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Flameheart",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flamtl_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +30%, Block +1 and gain 60% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +35%, Block +1 and gain 60% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 1,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +40%, Block +1 and gain 60% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 1,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +45%, Block +1 and gain 60% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 2,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +50%, Block +1 and gain 60% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 2,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +55%, Block +1 and gain 60% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +60%, Block +1 and gain 80% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +70%, Block +1 and gain 80% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +80%, Block +1 and gain 80% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Gradually gains 8 DP over the skill duration. Attack Interval reduces, ATK +90%, Block +1 and gain 80% Physical and Arts Dodge",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 16,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -52886,6 +54301,389 @@
             "spType": 1,
             "initSp": 35,
             "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_1014_nearl2": {
+    "name": "Nearl the Radiant Knight",
+    "skills": [
+      {
+        "name": "Flaming Edge",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nearl2_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range expands, ATK +25% and ASPD +14\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range expands, ATK +30% and ASPD +18\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range expands, ATK +35% and ASPD +22\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range expands, ATK +40% and ASPD +26\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 65,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range expands, ATK +45% and ASPD +30\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 65,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range expands, ATK +50% and ASPD +34\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 65,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range expands, ATK +55% and ASPD +38\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range expands, ATK +60% and ASPD +42\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range expands, ATK +65% and ASPD +46\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range expands, ATK +70% and ASPD +50\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Night-Scouring Gleam",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nearl2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +60% and gain 2 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "2",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +70% and gain 2 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "3",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +80% and gain 2 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "4",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +90% and gain 3 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "5",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +100% and gain 3 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "6",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +110% and gain 3 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "7",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +120% and gain 3 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "M1",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +130% and gain 4 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "M2",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +150% and gain 4 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          },
+          {
+            "level": "M3",
+            "description": "Passive Effect: Deployment does not consume deployment slots. \nAfter deployment, ATK +160% and gain 4 Shields. After the skill duration, automatically retreat and extend Redeployment Time by 25%. If the previously deployed Operator is from Kazimierz, the Redeployment Time will not be extended",
+            "skillType": 0,
+            "duration": 27,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 0
+          }
+        ]
+      },
+      {
+        "name": "Blazing Sun's Obeisance",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nearl2_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 80% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +40%, DEF +20% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 80% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +50%, DEF +25% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 80% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +60%, DEF +30% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 90% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +70%, DEF +40% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 90% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +80%, DEF +50% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 90% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +90%, DEF +60% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 100% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +100%, DEF +70% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 110% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +110%, DEF +80% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 47,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 110% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +130%, DEF +90% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Summons a 'Blazing Sun' on a deployable ground tile within the four adjacent tiles, dealing 110% ATK as True damage to nearby enemies and Stunning them for 3 seconds. Attack Range expands, ATK +140%, DEF +100% and damage type changes to True damage when attacking enemies blocked by self or the 'Blazing Sun'",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "2-1",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
             "maxChargeTime": 1,
             "increment": 1
           }
