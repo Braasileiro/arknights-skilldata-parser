@@ -8,12 +8,6 @@ import APP_PACKAGE from '../package.json' assert { type: "json" };
 const EMPTY_STRING = '';
 
 /*
-* 1: Dimbreath
-* 2: Kengxxiao
-*/
-var CURRENT_DATASET = 2;
-
-/*
 * Init
 */
 async function init() {
@@ -211,24 +205,15 @@ function getDuration(duration: any, blackboard: Array<any>) {
 function getDataset(type: string): string {
     switch (type) {
         case 'char':
-            switch (CURRENT_DATASET) {
-                case 1: return 'https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/character_table.json';
-                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/character_table.json';
-            }
+            return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/character_table.json';
         break;
 
         case 'skill':
-            switch (CURRENT_DATASET) {
-                case 1: return 'https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/skill_table.json';
-                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/skill_table.json';
-            }
+            'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/skill_table.json';
         break;
 
         case 'patch':
-            switch (CURRENT_DATASET) {
-                case 1: return 'https://raw.githubusercontent.com/Dimbreath/ArknightsData/master/en-US/gamedata/excel/char_patch_table.json';
-                case 2: return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json';
-            }
+            'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json';
         break;
     }
 
