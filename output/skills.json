@@ -32461,7 +32461,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Attack Interval increases slightly, ATK +30%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 200% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +30%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 200% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -32473,7 +32473,7 @@
           },
           {
             "level": "2",
-            "description": "Attack Interval increases slightly, ATK +35%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 200% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +35%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 200% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -32485,7 +32485,7 @@
           },
           {
             "level": "3",
-            "description": "Attack Interval increases slightly, ATK +40%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 200% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +40%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 200% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -32497,7 +32497,7 @@
           },
           {
             "level": "4",
-            "description": "Attack Interval increases slightly, ATK +45%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 250% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +45%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 250% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -32509,7 +32509,7 @@
           },
           {
             "level": "5",
-            "description": "Attack Interval increases slightly, ATK +50%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 250% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +50%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 250% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -32521,7 +32521,7 @@
           },
           {
             "level": "6",
-            "description": "Attack Interval increases slightly, ATK +55%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 250% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +55%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 250% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -32533,7 +32533,7 @@
           },
           {
             "level": "7",
-            "description": "Attack Interval increases slightly, ATK +60%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 300% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +60%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 300% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -32545,7 +32545,7 @@
           },
           {
             "level": "M1",
-            "description": "Attack Interval increases slightly, ATK +65%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 310% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +65%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 310% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -32557,7 +32557,7 @@
           },
           {
             "level": "M2",
-            "description": "Attack Interval increases slightly, ATK +70%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 320% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +70%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 320% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -32569,7 +32569,7 @@
           },
           {
             "level": "M3",
-            "description": "Attack Interval increases slightly, ATK +75%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already <$ba.frozen>Frozen, the attack will instead deal 330% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "description": "Attack Interval increases slightly, ATK +75%. Attacks inflict Cold for 2.5 seconds to the target; If the target is already Frozen, the attack will instead deal 330% of ATK as damage\nSkill activation grants 9 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
             "skillType": 1,
             "duration": 0,
             "rangeId": null,
@@ -45770,7 +45770,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 200% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 200% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 9,
             "rangeId": null,
@@ -45782,7 +45782,7 @@
           },
           {
             "level": "2",
-            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 230% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 230% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 9,
             "rangeId": null,
@@ -45794,7 +45794,7 @@
           },
           {
             "level": "3",
-            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 270% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 270% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 9,
             "rangeId": null,
@@ -45806,7 +45806,7 @@
           },
           {
             "level": "4",
-            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 300% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 300% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 9,
             "rangeId": null,
@@ -45818,7 +45818,7 @@
           },
           {
             "level": "5",
-            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 330% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 330% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 9,
             "rangeId": null,
@@ -45830,7 +45830,7 @@
           },
           {
             "level": "6",
-            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 370% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +120 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 370% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 9,
             "rangeId": null,
@@ -45842,7 +45842,7 @@
           },
           {
             "level": "7",
-            "description": "ASPD +122 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 400% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +122 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 400% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 10,
             "rangeId": null,
@@ -45854,7 +45854,7 @@
           },
           {
             "level": "M1",
-            "description": "ASPD +124 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 450% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +124 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 450% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 11,
             "rangeId": null,
@@ -45866,7 +45866,7 @@
           },
           {
             "level": "M2",
-            "description": "ASPD +126 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 500% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +126 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 500% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 12,
             "rangeId": null,
@@ -45878,7 +45878,7 @@
           },
           {
             "level": "M3",
-            "description": "ASPD +130 and attacks 2 enemies simultaneously; Extend the effect duration of <$ba.frozen>Frozen enemies within Attack Range until the skill ends, then deal 600% ATK as Arts damage to all <$ba.frozen>Frozen enemies and remove the <$ba.frozen>Frozen effect when the skill ends; Prioritizes enemies that are not <$ba.frozen>Frozen",
+            "description": "ASPD +130 and attacks 2 enemies simultaneously; Extend the effect duration of Frozen enemies within Attack Range until the skill ends, then deal 600% ATK as Arts damage to all Frozen enemies and remove the Frozen effect when the skill ends; Prioritizes enemies that are not Frozen",
             "skillType": 1,
             "duration": 13,
             "rangeId": null,
