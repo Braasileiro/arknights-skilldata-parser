@@ -15611,6 +15611,263 @@
       }
     ]
   },
+  "char_476_blkngt": {
+    "name": "Blacknight",
+    "skills": [
+      {
+        "name": "Drowsy",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blkngt_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 7% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +20% and ASPD +20% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 8% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +23% and ASPD +23% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 9% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +26% and ASPD +26% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 10% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +30% and ASPD +30% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 11% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +33% and ASPD +33% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 12% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +36% and ASPD +36% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 13% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +40% and ASPD +40% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 14,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 14% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +45% and ASPD +45% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 14% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +50% and ASPD +50% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 16,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately gains 11 DP. The Slumberfoot falls asleep and recovers 14% Max HP every second; Upon receiving damage, the Slumberfoot wakes up, gaining ATK +55% and ASPD +55% for 10 seconds",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Peaceful Slumber",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blkngt_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 4 seconds; For the next 4 seconds, the Slumberfoot uses AoE Arts attacks that deal 120% damage against Sleeping enemies\nCan store 1 charge",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 4 seconds; For the next 4 seconds, the Slumberfoot uses AoE Arts attacks that deal 130% damage against Sleeping enemies\nCan store 1 charge",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 4 seconds; For the next 4 seconds, the Slumberfoot uses AoE Arts attacks that deal 130% damage against Sleeping enemies\nCan store 1 charge",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 4 seconds; For the next 4 seconds, the Slumberfoot uses AoE Arts attacks that deal 140% damage against Sleeping enemies\nCan store 1 charge",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 4 seconds; For the next 4 seconds, the Slumberfoot uses AoE Arts attacks that deal 140% damage against Sleeping enemies\nCan store 1 charge",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 4 seconds; For the next 4 seconds, the Slumberfoot uses AoE Arts attacks that deal 150% damage against Sleeping enemies\nCan store 1 charge",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 5 seconds; For the next 5 seconds, the Slumberfoot uses AoE Arts attacks that deal 150% damage against Sleeping enemies\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 17,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 5 seconds; For the next 5 seconds, the Slumberfoot uses AoE Arts attacks that deal 170% damage against Sleeping enemies\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 17,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 5 seconds; For the next 5 seconds, the Slumberfoot uses AoE Arts attacks that deal 190% damage against Sleeping enemies\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 16,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately gains 4 DP and all ground enemies around the Tactical Point are put to Sleep for 6 seconds; For the next 6 seconds, the Slumberfoot uses AoE Arts attacks that deal 210% damage against Sleeping enemies\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 16,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_308_swire": {
     "name": "Swire",
     "skills": [
@@ -21265,6 +21522,263 @@
             "spCost": 0,
             "maxChargeTime": 1,
             "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "char_1021_kroos2": {
+    "name": "Kroos the Keen Glint",
+    "skills": [
+      {
+        "name": "Traceless",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kroos2_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +10%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 11,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 3,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +13%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 11,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 3,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +16%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 11,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 3,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +20%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +23%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +26%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 12,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +30%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 7,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +33%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 14,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 8,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +36%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 14,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 9,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +40%, attacks hit 2 times in a row and gain Camouflage",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 10,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Silencer",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kroos2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Interval reduces slightly and attacks hit 2 times in a row. After hitting a target 40 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Interval reduces slightly and attacks hit 2 times in a row. After hitting a target 40 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 49,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Interval reduces slightly and attacks hit 2 times in a row. After hitting a target 40 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 22,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 48,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Interval reduces and attacks hit 2 times in a row. After hitting a target 40 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Interval reduces and attacks hit 2 times in a row. After hitting a target 40 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 16,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Interval reduces and attacks hit 2 times in a row. After hitting a target 40 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Interval reduces moderately and attacks hit 2 times in a row. After hitting a target 40 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Interval reduces moderately and attacks hit 2 times in a row. After hitting a target 36 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 28,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Interval reduces moderately and attacks hit 2 times in a row. After hitting a target 32 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 28,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Interval reduces greatly and attacks hit 2 times in a row. After hitting a target 32 times, attacks hit 4 times in a row for the remainder of the skill duration",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
           }
         ]
       }
@@ -35924,6 +36438,263 @@
       }
     ]
   },
+  "char_492_quercu": {
+    "name": "Quercus",
+    "skills": [
+      {
+        "name": "Earth's Benevolence",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_quercu_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +10%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 54,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +13%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 53,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +16%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 52,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +20%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +23%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 49,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +26%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 48,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +30%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 46,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +33%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +36%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +40%\nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Echo of Life",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_quercu_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ASPD +25, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 36,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ASPD +28, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ASPD +31, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ASPD +36, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ASPD +39, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ASPD +42, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ASPD +45, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 13,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ASPD +50, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 13,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ASPD +55, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 13,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ASPD +60, restores 1 SP to the ally being healed",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_215_mantic": {
     "name": "Manticore",
     "skills": [
@@ -45509,6 +46280,389 @@
       }
     ]
   },
+  "char_377_gdglow": {
+    "name": "Goldenglow",
+    "skills": [
+      {
+        "name": "Scattering Sparks",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gdglow_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Drone +1, ATK +20% and ASPD +20. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Drone +1, ATK +22% and ASPD +23. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Drone +1, ATK +24% and ASPD +26. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Drone +1, ATK +26% and ASPD +29. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Drone +1, ATK +28% and ASPD +32. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Drone +1, ATK +30% and ASPD +35. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Drone +1, ATK +32% and ASPD +38. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Drone +1, ATK +34% and ASPD +42. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Drone +1, ATK +36% and ASPD +46. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Drone +1, ATK +40% and ASPD +50. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Surging Current",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gdglow_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Drone +1, ATK +20% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Drone +1, ATK +24% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Drone +1, ATK +28% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Drone +1, ATK +32% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 75,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Drone +1, ATK +36% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 75,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Drone +1, ATK +40% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 75,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Drone +1, ATK +45% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Drone +1, ATK +50% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Drone +1, ATK +55% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Drone +1, ATK +60% and Attack Range expands. Releases Drones to attack enemies\nThe Drone locks onto an enemy until the enemy is defeated or the Drone self-destructs, then returns to the Operator\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "3-18",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Crystalline Shine",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gdglow_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Stops attacking; Drone +2, ATK +25% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Stops attacking; Drone +2, ATK +30% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Stops attacking; Drone +2, ATK +35% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Stops attacking; Drone +2, ATK +40% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Stops attacking; Drone +2, ATK +45% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Stops attacking; Drone +2, ATK +50% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Stops attacking; Drone +2, ATK +55% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Stops attacking; Drone +2, ATK +60% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Stops attacking; Drone +2, ATK +70% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Stops attacking; Drone +2, ATK +80% and Attack Range becomes global. Releases Drones to attack enemies and the Drones' attacks Slow the target for 0.5 seconds\nThe Drone locks onto an enemy until the enemy is defeated, the Drone self-destructs or until the skill is over, then returns to the Operator",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_206_gnosis": {
     "name": "Gnosis",
     "skills": [
@@ -47424,6 +48578,389 @@
       }
     ]
   },
+  "char_2023_ling": {
+    "name": "Ling",
+    "skills": [
+      {
+        "name": "Sips of Wine",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ling_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +20% ATK and +20 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +23% ATK and +23 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +26% ATK and +26 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +29% ATK and +29 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +32% ATK and +32 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +35% ATK and +35 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +38% ATK and +38 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +42% ATK and +42 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +46% ATK and +46 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive: Summons may be deployed on melee tiles\nActive: Ling and her summons gain +50% ATK and +50 ASPD. The summons deal Arts damage\nImmediately gain 1 summon when the skill is activated",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Amidst Pleasant Melodies",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ling_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 250% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 1.5 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 1 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 270% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 1.5 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 1 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 290% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 1.5 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 1 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 310% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 2 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 330% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 2 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 350% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 2 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 370% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 2.5 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 16,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 390% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 2.5 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 15,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 420% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 2.5 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 14,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive: Summons may be deployed on ranged tiles and deal Arts damage\nActive: Ling and her summons deal 450% ATK as Arts damage to 2 enemies within Attack Range and Bind them for 3 seconds\nAfter the skill ends, retrieve all summons with less than 50% HP. Can store 2 charge(s)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 13,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "To Remain Oneself",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ling_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +40% ATK and +40% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +45% ATK and +40% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +50% ATK and +40% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +55% ATK and +50% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +60% ATK and +50% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +65% ATK and +50% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +70% ATK and +60% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +80% ATK and +70% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +90% ATK and +85% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive: Summons may be deployed on melee tiles. If there are other summons within their Attack Range, combines with them into a Higher form\nActive: Ling and her summons gain +100% ATK and +100% DEF. Each summon deals 20% of Ling's ATK as Arts damage to enemies in the four adjacent tiles every 0.5 seconds\nAfter the skill ends, gain 1 summon",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_250_phatom": {
     "name": "Phantom",
     "skills": [
@@ -47802,6 +49339,389 @@
             "spCost": 0,
             "maxChargeTime": 0,
             "increment": 0
+          }
+        ]
+      }
+    ]
+  },
+  "char_322_lmlee": {
+    "name": "Lee",
+    "skills": [
+      {
+        "name": "Stern Admonishment",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lmlee_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +10% and gain 15% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +15% and gain 15% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +20% and gain 15% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +25% and gain 20% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +30% and gain 20% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +35% and gain 20% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +40% and gain 25% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +45% and gain 30% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +50% and gain 35% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +60% and gain 40% Arts Dodge\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Exorcise Evil",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lmlee_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive Effect: ASPD +10; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 200% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 5% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive Effect: ASPD +10; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 210% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 5% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive Effect: ASPD +10; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 220% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 5% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive Effect: ASPD +15; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 230% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 10% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive Effect: ASPD +15; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 240% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 10% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive Effect: ASPD +15; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 250% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 10% of Lee's ATK (increases up to 20 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive Effect: ASPD +20; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 260% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 15% of Lee's ATK (increases up to 25 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive Effect: ASPD +20; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 270% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 15% of Lee's ATK (increases up to 25 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive Effect: ASPD +20; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 280% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 15% of Lee's ATK (increases up to 25 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive Effect: ASPD +30; Active Effect: Marks the target and makes them easier to be targeted by allies. The mark explodes after 5 seconds, dealing 300% Arts damage to nearby enemies. Every hit on the marked target by allies increases the explosion damage by 20% of Lee's ATK (increases up to 30 times, and prematurely explodes if the limit is reached or the target is defeated)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Honored Guest",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lmlee_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Expands Attack Range, ATK and DEF +25%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 50% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Expands Attack Range, ATK and DEF +27%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 50% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Expands Attack Range, ATK and DEF +29%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 50% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Expands Attack Range, ATK and DEF +31%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 55% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Expands Attack Range, ATK and DEF +33%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 55% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Expands Attack Range, ATK and DEF +35%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 55% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Expands Attack Range, ATK and DEF +37%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 60% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Expands Attack Range, ATK and DEF +40%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 60% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Expands Attack Range, ATK and DEF +45%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 60% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Expands Attack Range, ATK and DEF +50%; Besides the current target, all enemies within range are pushed away slightly every time Lee attacks. Increases the likelihood of being targeted by enemy attacks and gains a 70% chance to dodge Physical or Arts attacks coming from outside his Attack Range\nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
           }
         ]
       }
