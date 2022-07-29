@@ -206,18 +206,15 @@ function getDataset(type: string): string {
     switch (type) {
         case 'char':
             return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/character_table.json';
-        break;
 
         case 'skill':
-            'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/skill_table.json';
-        break;
+            return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/skill_table.json';
 
         case 'patch':
-            'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json';
-        break;
+            return 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/en_US/gamedata/excel/char_patch_table.json';
     }
 
-    return '';
+    return EMPTY_STRING;
 }
 
 function assert(object: any): boolean {
