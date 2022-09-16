@@ -37466,6 +37466,263 @@
       }
     ]
   },
+  "char_4036_forcer": {
+    "name": "Enforcer",
+    "skills": [
+      {
+        "name": "Deterring Shot",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_forcer_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack pushes the target towards the attack direction slightly, stunning it for 1.2 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack pushes the target towards the attack direction slightly, stunning it for 1.3 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack pushes the target towards the attack direction slightly, stunning it for 1.4 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack pushes the target towards the attack direction moderately, stunning it for 1.4 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack pushes the target towards the attack direction moderately, stunning it for 1.5 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack pushes the target towards the attack direction moderately, stunning it for 1.6 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack pushes the target towards the attack direction moderately, stunning it for 1.7 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack pushes the target towards the attack direction moderately, stunning it for 1.8 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack pushes the target towards the attack direction moderately, stunning it for 1.9 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack pushes the target towards the attack direction significantly, stunning it for 2 seconds if the target collides with High Ground.",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Staggering Shot",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_forcer_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately pushes back all enemies within range moderately in the direction this unit is facing, additionally stunning them for 1.6 seconds (the stun duration is increased to 2.7 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 1.6 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately pushes back all enemies within range moderately in the direction this unit is facing, additionally stunning them for 1.7 seconds (the stun duration is increased to 2.8 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 1.7 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately pushes back all enemies within range moderately in the direction this unit is facing, additionally stunning them for 1.8 seconds (the stun duration is increased to 2.9 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 1.8 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately pushes back all enemies within range moderately in the direction this unit is facing, additionally stunning them for 1.9 seconds (the stun duration is increased to 3 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 1.9 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately pushes back all enemies within range moderately in the direction this unit is facing, additionally stunning them for 2 seconds (the stun duration is increased to 3.1 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 2 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately pushes back all enemies within range moderately in the direction this unit is facing, additionally stunning them for 2.1 seconds (the stun duration is increased to 3.2 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 2.1 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately pushes back all enemies within range significantly in the direction this unit is facing, additionally stunning them for 2.2 seconds (the stun duration is increased to 3.4 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 2.2 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately pushes back all enemies within range significantly in the direction this unit is facing, additionally stunning them for 2.3 seconds (the stun duration is increased to 3.6 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 2.3 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately pushes back all enemies within range significantly in the direction this unit is facing, additionally stunning them for 2.4 seconds (the stun duration is increased to 3.8 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 2.4 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately pushes back all enemies within range greatly in the direction this unit is facing, additionally stunning them for 2.5 seconds (the stun duration is increased to 4 seconds if the target collides with High Ground). If the target collides with another enemy, the enemy will also be stunned for 2.5 seconds.",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "2-2",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_451_robin": {
     "name": "Robin",
     "skills": [
@@ -38230,6 +38487,263 @@
             "spType": 1,
             "initSp": 18,
             "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_4016_kazema": {
+    "name": "Kazemaru",
+    "skills": [
+      {
+        "name": "Origami Art - Swift Strike",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kazema_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Increases the ATK of the next attack to 200%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Increases the ATK of the next attack to 210%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Increases the ATK of the next attack to 220%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Increases the ATK of the next attack to 240%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Increases the ATK of the next attack to 250%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Increases the ATK of the next attack to 260%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Increases the ATK of the next attack to 280%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Increases the ATK of the next attack to 300%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Increases the ATK of the next attack to 330%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Increases the ATK of the next attack to 350%, and sacrifices 10% of this unit's HP",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 2,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Origami Art - Twin Shadows",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kazema_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +50% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +55% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +60% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +70% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +75% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +80% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +90% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +100% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +110% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 13,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Immediately sacrifices 50% of this unit's current HP, gaining +120% ATK and summoning a <Substitute> on a surrounding melee tile to assist in combat",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 20,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -40528,6 +41042,389 @@
             "spType": 1,
             "initSp": 20,
             "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_300_phenxi": {
+    "name": "Fiammetta",
+    "skills": [
+      {
+        "name": "'Provocate'",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_phenxi_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack range +1, ATK +30%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack range +1, ATK +35%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack range +1, ATK +40%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack range +1, ATK +45%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack range +1, ATK +50%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack range +1, ATK +55%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack range +1, ATK +60%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack range +1, ATK +75%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack range +1, ATK +90%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack range +1, ATK +100%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 5,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "'Paenitete'",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_phenxi_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 200% Physical Damage and causing incendiary marks to explode in sequence, dealing 100% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 220% Physical Damage and causing incendiary marks to explode in sequence, dealing 110% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 240% Physical Damage and causing incendiary marks to explode in sequence, dealing 120% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 260% Physical Damage and causing incendiary marks to explode in sequence, dealing 130% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 280% Physical Damage and causing incendiary marks to explode in sequence, dealing 140% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 300% Physical Damage and causing incendiary marks to explode in sequence, dealing 150% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 320% Physical Damage and causing incendiary marks to explode in sequence, dealing 160% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 340% Physical Damage and causing incendiary marks to explode in sequence, dealing 170% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 360% Physical Damage and causing incendiary marks to explode in sequence, dealing 180% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Fires scorching bullets that leave incendiary marks at fixed distances as they travel. The bullets explode upon reaching maximum attack range, dealing 400% Physical Damage and causing incendiary marks to explode in sequence, dealing 200% Physical Damage",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "'Reponite'",
+        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_phenxi_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 150% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 160% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 160% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 170% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 180% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 180% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 190% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 190% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 110%. Enemies closer to the impact site in a smaller area will instead take 200% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Continuously barrages a fixed area in front of this unit at max range, expanding explosion area and increasing ATK to 130%. Enemies closer to the impact site in a smaller area will instead take 220% ATK as damage. \nUnlimited duration, can manually deactivate skill",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 15,
             "maxChargeTime": 1,
             "increment": 1
           }
