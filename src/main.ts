@@ -6,6 +6,7 @@ import Decimal from 'decimal.js-light';
 import APP_PACKAGE from '../package.json' assert { type: "json" };
 
 const EMPTY_STRING = '';
+const IMAGES_URL = 'https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills'
 
 /*
 * Init
@@ -107,9 +108,9 @@ function getSkills(table: any, character: any): Array<any> {
             }
 
             if (!assert(iconId) || iconId.trim() === "") {
-                (<any>ENTRY)['icon'] = `https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_${id}.png`;
+                (<any>ENTRY)['icon'] = `${IMAGES_URL}/skill_icon_${id}.png`;
             } else {
-                (<any>ENTRY)['icon'] = `https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_${iconId}.png`;
+                (<any>ENTRY)['icon'] = `${IMAGES_URL}/skill_icon_${iconId}.png`;
             }
             
             (<any>ENTRY)['levels'] = ARRAY_LEVELS;
