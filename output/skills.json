@@ -40,7 +40,7 @@
     "skills": [
       {
         "name": "Charge α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_charge_cost[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_charge_cost[1].png",
         "levels": [
           {
             "level": "1",
@@ -135,7 +135,7 @@
     "skills": [
       {
         "name": "Command - Reinforcement",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_wyvern_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_wyvern_1.png",
         "levels": [
           {
             "level": "1",
@@ -234,7 +234,7 @@
     "skills": [
       {
         "name": "Swift Strike α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_quickattack[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[1].png",
         "levels": [
           {
             "level": "1",
@@ -329,7 +329,7 @@
     "skills": [
       {
         "name": "ATK Up α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[1].png",
         "levels": [
           {
             "level": "1",
@@ -424,7 +424,7 @@
     "skills": [
       {
         "name": "ATK Up α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[1].png",
         "levels": [
           {
             "level": "1",
@@ -519,7 +519,7 @@
     "skills": [
       {
         "name": "Regeneration α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_heal_self[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_heal_self[1].png",
         "levels": [
           {
             "level": "1",
@@ -614,7 +614,7 @@
     "skills": [
       {
         "name": "DEF Up α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_def_up[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_def_up[1].png",
         "levels": [
           {
             "level": "1",
@@ -709,7 +709,7 @@
     "skills": [
       {
         "name": "Secondary Healing Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_spot_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_spot_1.png",
         "levels": [
           {
             "level": "1",
@@ -804,7 +804,7 @@
     "skills": [
       {
         "name": "Double Tap - Auto",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kroos_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kroos_1.png",
         "levels": [
           {
             "level": "1",
@@ -899,7 +899,7 @@
     "skills": [
       {
         "name": "ATK Up α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[1].png",
         "levels": [
           {
             "level": "1",
@@ -998,7 +998,7 @@
     "skills": [
       {
         "name": "Tactical Chant α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_magic_rage[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_magic_rage[1].png",
         "levels": [
           {
             "level": "1",
@@ -1093,7 +1093,7 @@
     "skills": [
       {
         "name": "Healing Up α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_heal_up[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_heal_up[1].png",
         "levels": [
           {
             "level": "1",
@@ -1188,7 +1188,7 @@
     "skills": [
       {
         "name": "Healing Range Up",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_range_extend.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_range_extend.png",
         "levels": [
           {
             "level": "1",
@@ -1287,7 +1287,7 @@
     "skills": [
       {
         "name": "Power Strike α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_powerstrike[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_powerstrike[1].png",
         "levels": [
           {
             "level": "1",
@@ -1386,7 +1386,7 @@
     "skills": [
       {
         "name": "Swift Strike α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_quickattack[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[1].png",
         "levels": [
           {
             "level": "1",
@@ -1481,7 +1481,7 @@
     "skills": [
       {
         "name": "ATK Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -1607,7 +1607,7 @@
       },
       {
         "name": "Crimson Eyes",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nights_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nights_2.png",
         "levels": [
           {
             "level": "1",
@@ -1738,7 +1738,7 @@
     "skills": [
       {
         "name": "Tactical Chant β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_magic_rage[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_magic_rage[2].png",
         "levels": [
           {
             "level": "1",
@@ -1864,7 +1864,7 @@
       },
       {
         "name": "Destiny",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_fmout_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_fmout_2.png",
         "levels": [
           {
             "level": "1",
@@ -1995,7 +1995,7 @@
     "skills": [
       {
         "name": "Tactical Chant β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_magic_rage[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_magic_rage[2].png",
         "levels": [
           {
             "level": "1",
@@ -2121,7 +2121,7 @@
       },
       {
         "name": "Electrostatic Discharge",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_greyy_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_greyy_2.png",
         "levels": [
           {
             "level": "1",
@@ -2252,7 +2252,7 @@
     "skills": [
       {
         "name": "ATK Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -2378,7 +2378,7 @@
       },
       {
         "name": "Synchronized Attack",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cammou_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cammou_2.png",
         "levels": [
           {
             "level": "1",
@@ -2509,7 +2509,7 @@
     "skills": [
       {
         "name": "Lighthouse Guardian",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_indigo_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_indigo_1.png",
         "levels": [
           {
             "level": "1",
@@ -2635,7 +2635,7 @@
       },
       {
         "name": "Labyrinth of Light",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_indigo_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_indigo_2.png",
         "levels": [
           {
             "level": "1",
@@ -2766,7 +2766,7 @@
     "skills": [
       {
         "name": "Tactical Chant β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_magic_rage[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_magic_rage[2].png",
         "levels": [
           {
             "level": "1",
@@ -2892,7 +2892,7 @@
       },
       {
         "name": "Diffusion Current",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pudd_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pudd_2.png",
         "levels": [
           {
             "level": "1",
@@ -3023,7 +3023,7 @@
     "skills": [
       {
         "name": "Power Strike β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_powerstrike[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_powerstrike[2].png",
         "levels": [
           {
             "level": "1",
@@ -3149,7 +3149,7 @@
       },
       {
         "name": "Smokescreen",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_jesica_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_jesica_2.png",
         "levels": [
           {
             "level": "1",
@@ -3280,7 +3280,7 @@
     "skills": [
       {
         "name": "Armor Breaker",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_shotst_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_shotst_1.png",
         "levels": [
           {
             "level": "1",
@@ -3406,7 +3406,7 @@
       },
       {
         "name": "Armor Breaker - Spread",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_shotst_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_shotst_2.png",
         "levels": [
           {
             "level": "1",
@@ -3537,7 +3537,7 @@
     "skills": [
       {
         "name": "ATK Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -3663,7 +3663,7 @@
       },
       {
         "name": "Double Shot",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_clour_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_clour_2.png",
         "levels": [
           {
             "level": "1",
@@ -3794,7 +3794,7 @@
     "skills": [
       {
         "name": "Paralyzing Shell",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mm_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mm_1.png",
         "levels": [
           {
             "level": "1",
@@ -3920,7 +3920,7 @@
       },
       {
         "name": "Binding Shock",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mm_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mm_2.png",
         "levels": [
           {
             "level": "1",
@@ -4051,7 +4051,7 @@
     "skills": [
       {
         "name": "Shuriken",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_yuki_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_yuki_1.png",
         "levels": [
           {
             "level": "1",
@@ -4177,7 +4177,7 @@
       },
       {
         "name": "Fatal Shuriken",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_yuki_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_yuki_2.png",
         "levels": [
           {
             "level": "1",
@@ -4308,7 +4308,7 @@
     "skills": [
       {
         "name": "RMA Spikes",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pinecn_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pinecn_1.png",
         "levels": [
           {
             "level": "1",
@@ -4434,7 +4434,7 @@
       },
       {
         "name": "Electrical Overcharge",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pinecn_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pinecn_2.png",
         "levels": [
           {
             "level": "1",
@@ -4565,7 +4565,7 @@
     "skills": [
       {
         "name": "Snaring Shell",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glaze_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glaze_1.png",
         "levels": [
           {
             "level": "1",
@@ -4691,7 +4691,7 @@
       },
       {
         "name": "Radar Sweep",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glaze_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glaze_2.png",
         "levels": [
           {
             "level": "1",
@@ -4822,7 +4822,7 @@
     "skills": [
       {
         "name": "Fancy Shot",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_acdrop_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_acdrop_1.png",
         "levels": [
           {
             "level": "1",
@@ -4948,7 +4948,7 @@
       },
       {
         "name": "Trigger Time",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_acdrop_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_acdrop_2.png",
         "levels": [
           {
             "level": "1",
@@ -5079,7 +5079,7 @@
     "skills": [
       {
         "name": "Charge β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_charge_cost[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_charge_cost[2].png",
         "levels": [
           {
             "level": "1",
@@ -5205,7 +5205,7 @@
       },
       {
         "name": "Command - Defense",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blackd_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_blackd_2.png",
         "levels": [
           {
             "level": "1",
@@ -5336,7 +5336,7 @@
     "skills": [
       {
         "name": "Charge β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_charge_cost[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_charge_cost[2].png",
         "levels": [
           {
             "level": "1",
@@ -5462,7 +5462,7 @@
       },
       {
         "name": "Command - Attack",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_scave_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_scave_2.png",
         "levels": [
           {
             "level": "1",
@@ -5593,7 +5593,7 @@
     "skills": [
       {
         "name": "ATK Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -5719,7 +5719,7 @@
       },
       {
         "name": "Hammer-On",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_vigna_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_vigna_2.png",
         "levels": [
           {
             "level": "1",
@@ -5850,7 +5850,7 @@
     "skills": [
       {
         "name": "Support β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_assist_cost[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_assist_cost[2].png",
         "levels": [
           {
             "level": "1",
@@ -5976,7 +5976,7 @@
       },
       {
         "name": "Healing Wings",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_myrtle_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_myrtle_2.png",
         "levels": [
           {
             "level": "1",
@@ -6107,7 +6107,7 @@
     "skills": [
       {
         "name": "Sentinel Command",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bstalk_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bstalk_1.png",
         "levels": [
           {
             "level": "1",
@@ -6233,7 +6233,7 @@
       },
       {
         "name": "'Everyone Together!'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bstalk_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bstalk_2.png",
         "levels": [
           {
             "level": "1",
@@ -6364,7 +6364,7 @@
     "skills": [
       {
         "name": "Power Strike β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_powerstrike[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_powerstrike[2].png",
         "levels": [
           {
             "level": "1",
@@ -6490,7 +6490,7 @@
       },
       {
         "name": "Spur",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_doberm_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_doberm_2.png",
         "levels": [
           {
             "level": "1",
@@ -6621,7 +6621,7 @@
     "skills": [
       {
         "name": "Regeneration β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_heal_self[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_heal_self[2].png",
         "levels": [
           {
             "level": "1",
@@ -6747,7 +6747,7 @@
       },
       {
         "name": "Demonic Power",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gyuki_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gyuki_2.png",
         "levels": [
           {
             "level": "1",
@@ -6878,7 +6878,7 @@
     "skills": [
       {
         "name": "Judgment",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_peacok_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_peacok_1.png",
         "levels": [
           {
             "level": "1",
@@ -7004,7 +7004,7 @@
       },
       {
         "name": "Genesis",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_peacok_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_peacok_2.png",
         "levels": [
           {
             "level": "1",
@@ -7135,7 +7135,7 @@
     "skills": [
       {
         "name": "Frost Tomahawk",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_frostl_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_frostl_1.png",
         "levels": [
           {
             "level": "1",
@@ -7261,7 +7261,7 @@
       },
       {
         "name": "Ice Tomahawk",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_frostl_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_frostl_2.png",
         "levels": [
           {
             "level": "1",
@@ -7392,7 +7392,7 @@
     "skills": [
       {
         "name": "ATK Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -7518,7 +7518,7 @@
       },
       {
         "name": "Sacrificial Strike",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_estell_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_estell_2.png",
         "levels": [
           {
             "level": "1",
@@ -7649,7 +7649,7 @@
     "skills": [
       {
         "name": "Scratch",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_frncat_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_frncat_1.png",
         "levels": [
           {
             "level": "1",
@@ -7775,7 +7775,7 @@
       },
       {
         "name": "Fury",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_frncat_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_frncat_2.png",
         "levels": [
           {
             "level": "1",
@@ -7906,7 +7906,7 @@
     "skills": [
       {
         "name": "Redshift",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cutter_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cutter_1.png",
         "levels": [
           {
             "level": "1",
@@ -8032,7 +8032,7 @@
       },
       {
         "name": "Crimson Crescent",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cutter_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cutter_2.png",
         "levels": [
           {
             "level": "1",
@@ -8163,7 +8163,7 @@
     "skills": [
       {
         "name": "Space Out",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_utage_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_utage_1.png",
         "levels": [
           {
             "level": "1",
@@ -8289,7 +8289,7 @@
       },
       {
         "name": "Descending Strike - Earth Splitter",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_utage_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_utage_2.png",
         "levels": [
           {
             "level": "1",
@@ -8420,7 +8420,7 @@
     "skills": [
       {
         "name": "Just Kidding",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_spikes_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_spikes_1.png",
         "levels": [
           {
             "level": "1",
@@ -8546,7 +8546,7 @@
       },
       {
         "name": "Deadly Prank",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_spikes_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_spikes_2.png",
         "levels": [
           {
             "level": "1",
@@ -8677,7 +8677,7 @@
     "skills": [
       {
         "name": "Shadow Assault",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gravel_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gravel_1.png",
         "levels": [
           {
             "level": "1",
@@ -8803,7 +8803,7 @@
       },
       {
         "name": "Rat Swarm",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gravel_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gravel_2.png",
         "levels": [
           {
             "level": "1",
@@ -8934,7 +8934,7 @@
     "skills": [
       {
         "name": "Shell Splitter",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_strong_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_strong_1.png",
         "levels": [
           {
             "level": "1",
@@ -9060,7 +9060,7 @@
       },
       {
         "name": "Sashimi Platter",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_strong_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_strong_2.png",
         "levels": [
           {
             "level": "1",
@@ -9191,7 +9191,7 @@
     "skills": [
       {
         "name": "Hook Shot",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rope_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_rope_1.png",
         "levels": [
           {
             "level": "1",
@@ -9317,7 +9317,7 @@
       },
       {
         "name": "Double Hook",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rope_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_rope_2.png",
         "levels": [
           {
             "level": "1",
@@ -9448,7 +9448,7 @@
     "skills": [
       {
         "name": "Dual Healing",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_myrrh_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_myrrh_1.png",
         "levels": [
           {
             "level": "1",
@@ -9574,7 +9574,7 @@
       },
       {
         "name": "Medic Field",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_myrrh_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_myrrh_2.png",
         "levels": [
           {
             "level": "1",
@@ -9705,7 +9705,7 @@
     "skills": [
       {
         "name": "Vitality Restoration",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ccheal_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ccheal_1.png",
         "levels": [
           {
             "level": "1",
@@ -9831,7 +9831,7 @@
       },
       {
         "name": "Vitality Restoration - Wide Range",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ccheal_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ccheal_2.png",
         "levels": [
           {
             "level": "1",
@@ -9962,7 +9962,7 @@
     "skills": [
       {
         "name": "Healing Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_heal_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_heal_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -10088,7 +10088,7 @@
       },
       {
         "name": "Deep Healing",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_susuro_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_susuro_2.png",
         "levels": [
           {
             "level": "1",
@@ -10219,7 +10219,7 @@
     "skills": [
       {
         "name": "Healing Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_heal_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_heal_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -10345,7 +10345,7 @@
       },
       {
         "name": "Fine Blending",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flower_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_flower_2.png",
         "levels": [
           {
             "level": "1",
@@ -10476,7 +10476,7 @@
     "skills": [
       {
         "name": "Healing Waves",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_finlpp_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_finlpp_1.png",
         "levels": [
           {
             "level": "1",
@@ -10602,7 +10602,7 @@
       },
       {
         "name": "Lifespring",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_finlpp_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_finlpp_2.png",
         "levels": [
           {
             "level": "1",
@@ -10733,7 +10733,7 @@
     "skills": [
       {
         "name": "Stamina Enhancement",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_yak_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_yak_1.png",
         "levels": [
           {
             "level": "1",
@@ -10859,7 +10859,7 @@
       },
       {
         "name": "Cold Resistance",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_yak_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_yak_2.png",
         "levels": [
           {
             "level": "1",
@@ -10990,7 +10990,7 @@
     "skills": [
       {
         "name": "DEF Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_def_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_def_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -11116,7 +11116,7 @@
       },
       {
         "name": "Shell Defense",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_snakek_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_snakek_2.png",
         "levels": [
           {
             "level": "1",
@@ -11247,7 +11247,7 @@
     "skills": [
       {
         "name": "DEF Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_def_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_def_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -11373,7 +11373,7 @@
       },
       {
         "name": "'Beaten Up'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bubble_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bubble_2.png",
         "levels": [
           {
             "level": "1",
@@ -11504,7 +11504,7 @@
     "skills": [
       {
         "name": "Provisions",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sunbr_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sunbr_1.png",
         "levels": [
           {
             "level": "1",
@@ -11630,7 +11630,7 @@
       },
       {
         "name": "Cooking",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sunbr_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sunbr_2.png",
         "levels": [
           {
             "level": "1",
@@ -11761,7 +11761,7 @@
     "skills": [
       {
         "name": "ATK Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -11887,7 +11887,7 @@
       },
       {
         "name": "Shielded Counterattack",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_durnar_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_durnar_2.png",
         "levels": [
           {
             "level": "1",
@@ -12018,7 +12018,7 @@
     "skills": [
       {
         "name": "Shadow Tentacle",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_deepcl_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_deepcl_1.png",
         "levels": [
           {
             "level": "1",
@@ -12144,7 +12144,7 @@
       },
       {
         "name": "Visual Trap",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_deepcl_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_deepcl_2.png",
         "levels": [
           {
             "level": "1",
@@ -12275,7 +12275,7 @@
     "skills": [
       {
         "name": "ATK Up β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[2].png",
         "levels": [
           {
             "level": "1",
@@ -12401,7 +12401,7 @@
       },
       {
         "name": "Quicksand Conversion",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skgoat_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_skgoat_2.png",
         "levels": [
           {
             "level": "1",
@@ -12532,7 +12532,7 @@
     "skills": [
       {
         "name": "Aromatherapy",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_podego_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_podego_1.png",
         "levels": [
           {
             "level": "1",
@@ -12658,7 +12658,7 @@
       },
       {
         "name": "Spread Spores",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_podego_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_podego_2.png",
         "levels": [
           {
             "level": "1",
@@ -12789,7 +12789,7 @@
     "skills": [
       {
         "name": "Siracusan-Style Makeup",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_robrta_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_robrta_1.png",
         "levels": [
           {
             "level": "1",
@@ -12915,7 +12915,7 @@
       },
       {
         "name": "Full Auto Modeler",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_robrta_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_robrta_2.png",
         "levels": [
           {
             "level": "1",
@@ -13046,7 +13046,7 @@
     "skills": [
       {
         "name": "Fancy Maneuvers",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ethan_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ethan_1.png",
         "levels": [
           {
             "level": "1",
@@ -13172,7 +13172,7 @@
       },
       {
         "name": "Suspended Cross",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ethan_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ethan_2.png",
         "levels": [
           {
             "level": "1",
@@ -13303,7 +13303,7 @@
     "skills": [
       {
         "name": "Steam Pump",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sqrrel_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sqrrel_1.png",
         "levels": [
           {
             "level": "1",
@@ -13429,7 +13429,7 @@
       },
       {
         "name": "High-Pressure Water Cannon",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sqrrel_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sqrrel_2.png",
         "levels": [
           {
             "level": "1",
@@ -13560,7 +13560,7 @@
     "skills": [
       {
         "name": "Healing Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_heal_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_heal_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -13686,7 +13686,7 @@
       },
       {
         "name": "Enkephalin",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_plosis_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_plosis_2.png",
         "levels": [
           {
             "level": "1",
@@ -13817,7 +13817,7 @@
     "skills": [
       {
         "name": "Cluster Therapy",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_breeze_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_breeze_1.png",
         "levels": [
           {
             "level": "1",
@@ -13943,7 +13943,7 @@
       },
       {
         "name": "Widespread Therapy",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_breeze_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_breeze_2.png",
         "levels": [
           {
             "level": "1",
@@ -14074,7 +14074,7 @@
     "skills": [
       {
         "name": "Charge γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_charge_cost[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_charge_cost[3].png",
         "levels": [
           {
             "level": "1",
@@ -14200,7 +14200,7 @@
       },
       {
         "name": "Ursus's Roar",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_headbr_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_headbr_2.png",
         "levels": [
           {
             "level": "1",
@@ -14331,7 +14331,7 @@
     "skills": [
       {
         "name": "Charge γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_charge_cost[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_charge_cost[3].png",
         "levels": [
           {
             "level": "1",
@@ -14457,7 +14457,7 @@
       },
       {
         "name": "Sword Rain",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_texas_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_texas_2.png",
         "levels": [
           {
             "level": "1",
@@ -14588,7 +14588,7 @@
     "skills": [
       {
         "name": "Charge γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_charge_cost[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_charge_cost[3].png",
         "levels": [
           {
             "level": "1",
@@ -14714,7 +14714,7 @@
       },
       {
         "name": "Blazing Wire Stripper",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chiave_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_chiave_2.png",
         "levels": [
           {
             "level": "1",
@@ -14845,7 +14845,7 @@
     "skills": [
       {
         "name": "Swift Strike γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_quickattack[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[3].png",
         "levels": [
           {
             "level": "1",
@@ -14971,7 +14971,7 @@
       },
       {
         "name": "Soul Spark",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sddrag_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sddrag_2.png",
         "levels": [
           {
             "level": "1",
@@ -15102,7 +15102,7 @@
     "skills": [
       {
         "name": "Stabbing Lance",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_wildmn_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_wildmn_1.png",
         "levels": [
           {
             "level": "1",
@@ -15228,7 +15228,7 @@
       },
       {
         "name": "Lance Charge",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_wildmn_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_wildmn_2.png",
         "levels": [
           {
             "level": "1",
@@ -15359,7 +15359,7 @@
     "skills": [
       {
         "name": "Support γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_assist_cost[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_assist_cost[3].png",
         "levels": [
           {
             "level": "1",
@@ -15485,7 +15485,7 @@
       },
       {
         "name": "Monitor",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_elysm_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_elysm_2.png",
         "levels": [
           {
             "level": "1",
@@ -15616,7 +15616,7 @@
     "skills": [
       {
         "name": "Drowsy",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blkngt_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_blkngt_1.png",
         "levels": [
           {
             "level": "1",
@@ -15742,7 +15742,7 @@
       },
       {
         "name": "Peaceful Slumber",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blkngt_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_blkngt_2.png",
         "levels": [
           {
             "level": "1",
@@ -15873,7 +15873,7 @@
     "skills": [
       {
         "name": "Command and Dispatch",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_swire_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_swire_1.png",
         "levels": [
           {
             "level": "1",
@@ -15999,7 +15999,7 @@
       },
       {
         "name": "Cooperative Combat",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_swire_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_swire_2.png",
         "levels": [
           {
             "level": "1",
@@ -16130,7 +16130,7 @@
     "skills": [
       {
         "name": "Motivational Skills",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sophia_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sophia_1.png",
         "levels": [
           {
             "level": "1",
@@ -16256,7 +16256,7 @@
       },
       {
         "name": "Whip Sword",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sophia_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sophia_2.png",
         "levels": [
           {
             "level": "1",
@@ -16387,7 +16387,7 @@
     "skills": [
       {
         "name": "Swift Strike γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_quickattack[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[3].png",
         "levels": [
           {
             "level": "1",
@@ -16513,7 +16513,7 @@
       },
       {
         "name": "Vorpal Edge",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_franka_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_franka_2.png",
         "levels": [
           {
             "level": "1",
@@ -16644,7 +16644,7 @@
     "skills": [
       {
         "name": "Blood Pact",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flameb_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_flameb_1.png",
         "levels": [
           {
             "level": "1",
@@ -16770,7 +16770,7 @@
       },
       {
         "name": "Blade Demon",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flameb_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_flameb_2.png",
         "levels": [
           {
             "level": "1",
@@ -16901,7 +16901,7 @@
     "skills": [
       {
         "name": "Drawing Sword",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aguard_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aguard_1.png",
         "levels": [
           {
             "level": "1",
@@ -17032,7 +17032,7 @@
     "skills": [
       {
         "name": "Armorcrusher",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tiger_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tiger_1.png",
         "levels": [
           {
             "level": "1",
@@ -17158,7 +17158,7 @@
       },
       {
         "name": "Sundered Soul",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tiger_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tiger_2.png",
         "levels": [
           {
             "level": "1",
@@ -17289,7 +17289,7 @@
     "skills": [
       {
         "name": "Relentless",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flint_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_flint_1.png",
         "levels": [
           {
             "level": "1",
@@ -17415,7 +17415,7 @@
       },
       {
         "name": "Display of Might",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flint_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_flint_2.png",
         "levels": [
           {
             "level": "1",
@@ -17546,7 +17546,7 @@
     "skills": [
       {
         "name": "Sundial",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_whitew_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_whitew_1.png",
         "levels": [
           {
             "level": "1",
@@ -17672,7 +17672,7 @@
       },
       {
         "name": "Wolf Spirit",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_whitew_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_whitew_2.png",
         "levels": [
           {
             "level": "1",
@@ -17803,7 +17803,7 @@
     "skills": [
       {
         "name": "Shrapnel Burst",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ayer_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ayer_1.png",
         "levels": [
           {
             "level": "1",
@@ -17929,7 +17929,7 @@
       },
       {
         "name": "Activate Phase Blades",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ayer_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ayer_2.png",
         "levels": [
           {
             "level": "1",
@@ -18060,7 +18060,7 @@
     "skills": [
       {
         "name": "Plumage Pins",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bibeak_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bibeak_1.png",
         "levels": [
           {
             "level": "1",
@@ -18186,7 +18186,7 @@
       },
       {
         "name": "Blade Swap",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bibeak_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bibeak_2.png",
         "levels": [
           {
             "level": "1",
@@ -18317,7 +18317,7 @@
     "skills": [
       {
         "name": "Incendiary Grenade",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tachak_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tachak_1.png",
         "levels": [
           {
             "level": "1",
@@ -18443,7 +18443,7 @@
       },
       {
         "name": "Spray and Pray",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tachak_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tachak_2.png",
         "levels": [
           {
             "level": "1",
@@ -18574,7 +18574,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -18700,7 +18700,7 @@
       },
       {
         "name": "Bone Fracture",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ghost_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ghost_2.png",
         "levels": [
           {
             "level": "1",
@@ -18831,7 +18831,7 @@
     "skills": [
       {
         "name": "Galvanize",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_broca_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_broca_1.png",
         "levels": [
           {
             "level": "1",
@@ -18957,7 +18957,7 @@
       },
       {
         "name": "High-Voltage Current",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_broca_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_broca_2.png",
         "levels": [
           {
             "level": "1",
@@ -19088,7 +19088,7 @@
     "skills": [
       {
         "name": "Astral Protection",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_astesi_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_astesi_1.png",
         "levels": [
           {
             "level": "1",
@@ -19214,7 +19214,7 @@
       },
       {
         "name": "Astral Sword",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_astesi_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_astesi_2.png",
         "levels": [
           {
             "level": "1",
@@ -19345,7 +19345,7 @@
     "skills": [
       {
         "name": "Regeneration γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_heal_self[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_heal_self[3].png",
         "levels": [
           {
             "level": "1",
@@ -19471,7 +19471,7 @@
       },
       {
         "name": "Restorative Surge",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sidero_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sidero_2.png",
         "levels": [
           {
             "level": "1",
@@ -19602,7 +19602,7 @@
     "skills": [
       {
         "name": "Nobukage-ryu - Kaminari Gatana no Zei",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_akafyu_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_akafyu_1.png",
         "levels": [
           {
             "level": "1",
@@ -19728,7 +19728,7 @@
       },
       {
         "name": "Nobukage-ryu - Juumonji Masaru",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_akafyu_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_akafyu_2.png",
         "levels": [
           {
             "level": "1",
@@ -19859,7 +19859,7 @@
     "skills": [
       {
         "name": "Rapid Slashing",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_crow_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_crow_1.png",
         "levels": [
           {
             "level": "1",
@@ -19985,7 +19985,7 @@
       },
       {
         "name": "Reap",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_crow_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_crow_2.png",
         "levels": [
           {
             "level": "1",
@@ -20116,7 +20116,7 @@
     "skills": [
       {
         "name": "Decisive Action",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_takila_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_takila_1.png",
         "levels": [
           {
             "level": "1",
@@ -20242,7 +20242,7 @@
       },
       {
         "name": "Esoteric Bladework",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_takila_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_takila_2.png",
         "levels": [
           {
             "level": "1",
@@ -20373,7 +20373,7 @@
     "skills": [
       {
         "name": "Twinshot - Auto",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bluep_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bluep_1.png",
         "levels": [
           {
             "level": "1",
@@ -20499,7 +20499,7 @@
       },
       {
         "name": "Venom Spray",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bluep_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bluep_2.png",
         "levels": [
           {
             "level": "1",
@@ -20630,7 +20630,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -20756,7 +20756,7 @@
       },
       {
         "name": "Pegasian Sight",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_platnm_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_platnm_2.png",
         "levels": [
           {
             "level": "1",
@@ -20887,7 +20887,7 @@
     "skills": [
       {
         "name": "Flying Feathers",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_swllow_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_swllow_1.png",
         "levels": [
           {
             "level": "1",
@@ -21013,7 +21013,7 @@
       },
       {
         "name": "Counterflow",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_swllow_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_swllow_2.png",
         "levels": [
           {
             "level": "1",
@@ -21144,7 +21144,7 @@
     "skills": [
       {
         "name": "Spiral Arm",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_asnipe_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_asnipe_1.png",
         "levels": [
           {
             "level": "1",
@@ -21275,7 +21275,7 @@
     "skills": [
       {
         "name": "Precise Shooting",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aprl_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aprl_1.png",
         "levels": [
           {
             "level": "1",
@@ -21401,7 +21401,7 @@
       },
       {
         "name": "Flexible Camouflage",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aprl_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aprl_2.png",
         "levels": [
           {
             "level": "1",
@@ -21532,7 +21532,7 @@
     "skills": [
       {
         "name": "Traceless",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kroos2_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kroos2_1.png",
         "levels": [
           {
             "level": "1",
@@ -21658,7 +21658,7 @@
       },
       {
         "name": "Silencer",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kroos2_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kroos2_2.png",
         "levels": [
           {
             "level": "1",
@@ -21789,7 +21789,7 @@
     "skills": [
       {
         "name": "Buckshot",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_meteo_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_meteo_1.png",
         "levels": [
           {
             "level": "1",
@@ -21915,7 +21915,7 @@
       },
       {
         "name": "High-Explosive Shell",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_meteo_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_meteo_2.png",
         "levels": [
           {
             "level": "1",
@@ -22046,7 +22046,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -22172,7 +22172,7 @@
       },
       {
         "name": "Delayed Concussive Parts",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sesa_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sesa_2.png",
         "levels": [
           {
             "level": "1",
@@ -22303,7 +22303,7 @@
     "skills": [
       {
         "name": "Muzzle's Elegy",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_excu_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_excu_1.png",
         "levels": [
           {
             "level": "1",
@@ -22429,7 +22429,7 @@
       },
       {
         "name": "Final Journey",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_excu_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_excu_2.png",
         "levels": [
           {
             "level": "1",
@@ -22560,7 +22560,7 @@
     "skills": [
       {
         "name": "Swift Strike γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_quickattack[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[3].png",
         "levels": [
           {
             "level": "1",
@@ -22686,7 +22686,7 @@
       },
       {
         "name": "Shadow Nails",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aosta_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aosta_2.png",
         "levels": [
           {
             "level": "1",
@@ -22817,7 +22817,7 @@
     "skills": [
       {
         "name": "Tactical Chant γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_magic_rage[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_magic_rage[3].png",
         "levels": [
           {
             "level": "1",
@@ -22943,7 +22943,7 @@
       },
       {
         "name": "Spirit Burst",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amiya_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_amiya_2.png",
         "levels": [
           {
             "level": "1",
@@ -23069,7 +23069,7 @@
       },
       {
         "name": "Chimera",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amiya_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_amiya_3.png",
         "levels": [
           {
             "level": "1",
@@ -23200,7 +23200,7 @@
     "skills": [
       {
         "name": "Enforcement Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_absin_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_absin_1.png",
         "levels": [
           {
             "level": "1",
@@ -23326,7 +23326,7 @@
       },
       {
         "name": "Ultimatum",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_absin_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_absin_2.png",
         "levels": [
           {
             "level": "1",
@@ -23457,7 +23457,7 @@
     "skills": [
       {
         "name": "Tribal Techniques",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tomimi_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tomimi_1.png",
         "levels": [
           {
             "level": "1",
@@ -23583,7 +23583,7 @@
       },
       {
         "name": "Gavial's Protection Plan",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tomimi_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tomimi_2.png",
         "levels": [
           {
             "level": "1",
@@ -23714,7 +23714,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -23840,7 +23840,7 @@
       },
       {
         "name": "Fire of Heaven",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skfire_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_skfire_2.png",
         "levels": [
           {
             "level": "1",
@@ -23971,7 +23971,7 @@
     "skills": [
       {
         "name": "'All For Me'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_acast_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_acast_1.png",
         "levels": [
           {
             "level": "1",
@@ -24102,7 +24102,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -24228,7 +24228,7 @@
       },
       {
         "name": "Thunderclap",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_leizi_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_leizi_2.png",
         "levels": [
           {
             "level": "1",
@@ -24359,7 +24359,7 @@
     "skills": [
       {
         "name": "Growing Sandstorm",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_beewax_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_beewax_1.png",
         "levels": [
           {
             "level": "1",
@@ -24485,7 +24485,7 @@
       },
       {
         "name": "Guardian Obelisk",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_beewax_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_beewax_2.png",
         "levels": [
           {
             "level": "1",
@@ -24616,7 +24616,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -24742,7 +24742,7 @@
       },
       {
         "name": "Deconstruct and Detonate",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lionhd_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lionhd_2.png",
         "levels": [
           {
             "level": "1",
@@ -24873,7 +24873,7 @@
     "skills": [
       {
         "name": "Wind Whispers",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mint_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mint_1.png",
         "levels": [
           {
             "level": "1",
@@ -24999,7 +24999,7 @@
       },
       {
         "name": "Swirling Vortex",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mint_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mint_2.png",
         "levels": [
           {
             "level": "1",
@@ -25130,7 +25130,7 @@
     "skills": [
       {
         "name": "Fairytale Guardian",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_iris_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_iris_1.png",
         "levels": [
           {
             "level": "1",
@@ -25256,7 +25256,7 @@
       },
       {
         "name": "Dreamland's Cradle",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_iris_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_iris_2.png",
         "levels": [
           {
             "level": "1",
@@ -25387,7 +25387,7 @@
     "skills": [
       {
         "name": "Flame Quenched Dagger",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lava2_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lava2_1.png",
         "levels": [
           {
             "level": "1",
@@ -25513,7 +25513,7 @@
       },
       {
         "name": "Ring of Hellfire",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lava2_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lava2_2.png",
         "levels": [
           {
             "level": "1",
@@ -25644,7 +25644,7 @@
     "skills": [
       {
         "name": "Focus Overload",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_serum_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_serum_1.png",
         "levels": [
           {
             "level": "1",
@@ -25770,7 +25770,7 @@
       },
       {
         "name": "Conductive Corrosive Blast",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_serum_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_serum_2.png",
         "levels": [
           {
             "level": "1",
@@ -25901,7 +25901,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -26027,7 +26027,7 @@
       },
       {
         "name": "Unrestrained Heart",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kjera_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kjera_2.png",
         "levels": [
           {
             "level": "1",
@@ -26158,7 +26158,7 @@
     "skills": [
       {
         "name": "Bionic Device",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_otter_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_otter_1.png",
         "levels": [
           {
             "level": "1",
@@ -26284,7 +26284,7 @@
       },
       {
         "name": "Detonate and Recycle",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_otter_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_otter_2.png",
         "levels": [
           {
             "level": "1",
@@ -26415,7 +26415,7 @@
     "skills": [
       {
         "name": "Protective Camouflage",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_folivo_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_folivo_1.png",
         "levels": [
           {
             "level": "1",
@@ -26541,7 +26541,7 @@
       },
       {
         "name": "Panoramic Overload",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_folivo_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_folivo_2.png",
         "levels": [
           {
             "level": "1",
@@ -26672,7 +26672,7 @@
     "skills": [
       {
         "name": "Healing Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_heal_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_heal_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -26798,7 +26798,7 @@
       },
       {
         "name": "Medical Drone",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_silent_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_silent_2.png",
         "levels": [
           {
             "level": "1",
@@ -26929,7 +26929,7 @@
     "skills": [
       {
         "name": "Emergency Triage",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bldsk_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bldsk_1.png",
         "levels": [
           {
             "level": "1",
@@ -27055,7 +27055,7 @@
       },
       {
         "name": "Unstable Plasma",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bldsk_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bldsk_2.png",
         "levels": [
           {
             "level": "1",
@@ -27186,7 +27186,7 @@
     "skills": [
       {
         "name": "Max-Dosage Infusion",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_folnic_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_folnic_1.png",
         "levels": [
           {
             "level": "1",
@@ -27312,7 +27312,7 @@
       },
       {
         "name": "Compound Drug Shell",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_folnic_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_folnic_2.png",
         "levels": [
           {
             "level": "1",
@@ -27443,7 +27443,7 @@
     "skills": [
       {
         "name": "Apocalyptic Scene",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amedic_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_amedic_1.png",
         "levels": [
           {
             "level": "1",
@@ -27574,7 +27574,7 @@
     "skills": [
       {
         "name": "Concentrated Hydrotherapy",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ceylon_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ceylon_1.png",
         "levels": [
           {
             "level": "1",
@@ -27700,7 +27700,7 @@
       },
       {
         "name": "Water Blessing",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ceylon_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ceylon_2.png",
         "levels": [
           {
             "level": "1",
@@ -27831,7 +27831,7 @@
     "skills": [
       {
         "name": "Oriented Diagnosis",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_whispr_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_whispr_1.png",
         "levels": [
           {
             "level": "1",
@@ -27957,7 +27957,7 @@
       },
       {
         "name": "Pain Suppression",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_whispr_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_whispr_2.png",
         "levels": [
           {
             "level": "1",
@@ -28088,7 +28088,7 @@
     "skills": [
       {
         "name": "Aqua Loop",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tuye_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tuye_1.png",
         "levels": [
           {
             "level": "1",
@@ -28214,7 +28214,7 @@
       },
       {
         "name": "Cardiac Stimulant",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tuye_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tuye_2.png",
         "levels": [
           {
             "level": "1",
@@ -28345,7 +28345,7 @@
     "skills": [
       {
         "name": "Healing Haze",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mberry_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mberry_1.png",
         "levels": [
           {
             "level": "1",
@@ -28471,7 +28471,7 @@
       },
       {
         "name": "Safe Zone",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mberry_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mberry_2.png",
         "levels": [
           {
             "level": "1",
@@ -28602,7 +28602,7 @@
     "skills": [
       {
         "name": "Spiritual Care",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glider_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glider_1.png",
         "levels": [
           {
             "level": "1",
@@ -28728,7 +28728,7 @@
       },
       {
         "name": "Rouse",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glider_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glider_2.png",
         "levels": [
           {
             "level": "1",
@@ -28859,7 +28859,7 @@
     "skills": [
       {
         "name": "First Aid",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nearl_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nearl_1.png",
         "levels": [
           {
             "level": "1",
@@ -28985,7 +28985,7 @@
       },
       {
         "name": "First Aid Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nearl_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nearl_2.png",
         "levels": [
           {
             "level": "1",
@@ -29116,7 +29116,7 @@
     "skills": [
       {
         "name": "Treatment Countermeasure",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_hmau_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_hmau_1.png",
         "levels": [
           {
             "level": "1",
@@ -29242,7 +29242,7 @@
       },
       {
         "name": "Medical Mode Countermeasure",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_hmau_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_hmau_2.png",
         "levels": [
           {
             "level": "1",
@@ -29373,7 +29373,7 @@
     "skills": [
       {
         "name": "Execution Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_red_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_red_1.png",
         "levels": [
           {
             "level": "1",
@@ -29499,7 +29499,7 @@
       },
       {
         "name": "Wolfpack",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_red_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_red_2.png",
         "levels": [
           {
             "level": "1",
@@ -29630,7 +29630,7 @@
     "skills": [
       {
         "name": "One-inch Punch",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_waaifu_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_waaifu_1.png",
         "levels": [
           {
             "level": "1",
@@ -29756,7 +29756,7 @@
       },
       {
         "name": "Seven-styles Kick",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_waaifu_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_waaifu_2.png",
         "levels": [
           {
             "level": "1",
@@ -29887,7 +29887,7 @@
     "skills": [
       {
         "name": "Cube of Absurdism",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kafka_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kafka_1.png",
         "levels": [
           {
             "level": "1",
@@ -30013,7 +30013,7 @@
       },
       {
         "name": "Shears of Surrealism",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kafka_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kafka_2.png",
         "levels": [
           {
             "level": "1",
@@ -30144,7 +30144,7 @@
     "skills": [
       {
         "name": "Cautious Retreat",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nothin_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nothin_1.png",
         "levels": [
           {
             "level": "1",
@@ -30270,7 +30270,7 @@
       },
       {
         "name": "Wax and Wane",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nothin_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nothin_2.png",
         "levels": [
           {
             "level": "1",
@@ -30401,7 +30401,7 @@
     "skills": [
       {
         "name": "Charged Defense",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_liskam_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_liskam_1.png",
         "levels": [
           {
             "level": "1",
@@ -30527,7 +30527,7 @@
       },
       {
         "name": "Counter Arc",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_liskam_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_liskam_2.png",
         "levels": [
           {
             "level": "1",
@@ -30658,7 +30658,7 @@
     "skills": [
       {
         "name": "Auto Defense",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_moeshd_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_moeshd_1.png",
         "levels": [
           {
             "level": "1",
@@ -30784,7 +30784,7 @@
       },
       {
         "name": "Magnetic Hammer",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_moeshd_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_moeshd_2.png",
         "levels": [
           {
             "level": "1",
@@ -30915,7 +30915,7 @@
     "skills": [
       {
         "name": "DEF Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_def_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_def_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -31041,7 +31041,7 @@
       },
       {
         "name": "Intensified Defense",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bison_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bison_2.png",
         "levels": [
           {
             "level": "1",
@@ -31172,7 +31172,7 @@
     "skills": [
       {
         "name": "Guardian Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_hpsts_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_hpsts_1.png",
         "levels": [
           {
             "level": "1",
@@ -31298,7 +31298,7 @@
       },
       {
         "name": "Combat Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_hpsts_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_hpsts_2.png",
         "levels": [
           {
             "level": "1",
@@ -31429,7 +31429,7 @@
     "skills": [
       {
         "name": "Resilient Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_asbest_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_asbest_1.png",
         "levels": [
           {
             "level": "1",
@@ -31555,7 +31555,7 @@
       },
       {
         "name": "Thermal Power Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_asbest_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_asbest_2.png",
         "levels": [
           {
             "level": "1",
@@ -31686,7 +31686,7 @@
     "skills": [
       {
         "name": "Rapid Onslaught",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aprot_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aprot_1.png",
         "levels": [
           {
             "level": "1",
@@ -31817,7 +31817,7 @@
     "skills": [
       {
         "name": "Rapid Onslaught",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aprot2_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aprot2_1.png",
         "levels": [
           {
             "level": "1",
@@ -31943,7 +31943,7 @@
       },
       {
         "name": "Carnival of Self-Immolation",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aprot2_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aprot2_2.png",
         "levels": [
           {
             "level": "1",
@@ -32074,7 +32074,7 @@
     "skills": [
       {
         "name": "Flash Shield",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blitz_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_blitz_1.png",
         "levels": [
           {
             "level": "1",
@@ -32200,7 +32200,7 @@
       },
       {
         "name": "Shield Bash",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blitz_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_blitz_2.png",
         "levels": [
           {
             "level": "1",
@@ -32331,7 +32331,7 @@
     "skills": [
       {
         "name": "Emergency Camouflage",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_zebra_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_zebra_1.png",
         "levels": [
           {
             "level": "1",
@@ -32457,7 +32457,7 @@
       },
       {
         "name": "Group Camouflage",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_zebra_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_zebra_2.png",
         "levels": [
           {
             "level": "1",
@@ -32588,7 +32588,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -32714,7 +32714,7 @@
       },
       {
         "name": "Focused Bombardment",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ashlok_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ashlok_2.png",
         "levels": [
           {
             "level": "1",
@@ -32845,7 +32845,7 @@
     "skills": [
       {
         "name": "Homeland Protector",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aurora_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aurora_1.png",
         "levels": [
           {
             "level": "1",
@@ -32971,7 +32971,7 @@
       },
       {
         "name": "Artificial Snowfall",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aurora_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aurora_2.png",
         "levels": [
           {
             "level": "1",
@@ -33102,7 +33102,7 @@
     "skills": [
       {
         "name": "Wolf's Eye",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_prove_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_prove_1.png",
         "levels": [
           {
             "level": "1",
@@ -33228,7 +33228,7 @@
       },
       {
         "name": "Prey Seeker",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_prove_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_prove_2.png",
         "levels": [
           {
             "level": "1",
@@ -33359,7 +33359,7 @@
     "skills": [
       {
         "name": "Camouflage",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_milu_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_milu_1.png",
         "levels": [
           {
             "level": "1",
@@ -33485,7 +33485,7 @@
       },
       {
         "name": "Tactical Transceiver",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_milu_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_milu_2.png",
         "levels": [
           {
             "level": "1",
@@ -33616,7 +33616,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -33742,7 +33742,7 @@
       },
       {
         "name": "Interdictive Sniping Tactics",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cuttle_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cuttle_2.png",
         "levels": [
           {
             "level": "1",
@@ -33873,7 +33873,7 @@
     "skills": [
       {
         "name": "Signal Arrow",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_toddi_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_toddi_1.png",
         "levels": [
           {
             "level": "1",
@@ -33999,7 +33999,7 @@
       },
       {
         "name": "Portable Fortcracker Arrows",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_toddi_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_toddi_2.png",
         "levels": [
           {
             "level": "1",
@@ -34130,7 +34130,7 @@
     "skills": [
       {
         "name": "Chain Hook",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_slchan_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_slchan_1.png",
         "levels": [
           {
             "level": "1",
@@ -34256,7 +34256,7 @@
       },
       {
         "name": "Binding Chains",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_slchan_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_slchan_2.png",
         "levels": [
           {
             "level": "1",
@@ -34387,7 +34387,7 @@
     "skills": [
       {
         "name": "Barbed Clawhook",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_snsant_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_snsant_1.png",
         "levels": [
           {
             "level": "1",
@@ -34513,7 +34513,7 @@
       },
       {
         "name": "Telescoping Electric Net",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_snsant_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_snsant_2.png",
         "levels": [
           {
             "level": "1",
@@ -34644,7 +34644,7 @@
     "skills": [
       {
         "name": "Echolocation",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_slbell_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_slbell_1.png",
         "levels": [
           {
             "level": "1",
@@ -34770,7 +34770,7 @@
       },
       {
         "name": "Natural Deterrent",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_slbell_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_slbell_2.png",
         "levels": [
           {
             "level": "1",
@@ -34901,7 +34901,7 @@
     "skills": [
       {
         "name": "Malediction",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_vodfox_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_vodfox_1.png",
         "levels": [
           {
             "level": "1",
@@ -35027,7 +35027,7 @@
       },
       {
         "name": "Cursed Doll",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_vodfox_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_vodfox_2.png",
         "levels": [
           {
             "level": "1",
@@ -35158,7 +35158,7 @@
     "skills": [
       {
         "name": "Concentration",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glassb_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glassb_1.png",
         "levels": [
           {
             "level": "1",
@@ -35284,7 +35284,7 @@
       },
       {
         "name": "Literature Storm",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glassb_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glassb_2.png",
         "levels": [
           {
             "level": "1",
@@ -35415,7 +35415,7 @@
     "skills": [
       {
         "name": "Binary Reload",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glacus_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glacus_1.png",
         "levels": [
           {
             "level": "1",
@@ -35541,7 +35541,7 @@
       },
       {
         "name": "Counter EMP",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glacus_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glacus_2.png",
         "levels": [
           {
             "level": "1",
@@ -35672,7 +35672,7 @@
     "skills": [
       {
         "name": "Hymn of Respite",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sora_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sora_1.png",
         "levels": [
           {
             "level": "1",
@@ -35798,7 +35798,7 @@
       },
       {
         "name": "Hymn of Battle",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sora_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sora_2.png",
         "levels": [
           {
             "level": "1",
@@ -35929,7 +35929,7 @@
     "skills": [
       {
         "name": "Without a Trace",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tknogi_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tknogi_1.png",
         "levels": [
           {
             "level": "1",
@@ -36055,7 +36055,7 @@
       },
       {
         "name": "Forest's Embrace",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_tknogi_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_tknogi_2.png",
         "levels": [
           {
             "level": "1",
@@ -36186,7 +36186,7 @@
     "skills": [
       {
         "name": "Fortune Bringer of the Mortal Realm",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ncdeer_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ncdeer_1.png",
         "levels": [
           {
             "level": "1",
@@ -36312,7 +36312,7 @@
       },
       {
         "name": "Return to the Immortal Mountain",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ncdeer_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ncdeer_2.png",
         "levels": [
           {
             "level": "1",
@@ -36443,7 +36443,7 @@
     "skills": [
       {
         "name": "Earth's Benevolence",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_quercu_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_quercu_1.png",
         "levels": [
           {
             "level": "1",
@@ -36569,7 +36569,7 @@
       },
       {
         "name": "Echo of Life",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_quercu_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_quercu_2.png",
         "levels": [
           {
             "level": "1",
@@ -36700,7 +36700,7 @@
     "skills": [
       {
         "name": "Scorpion Venom",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mantic_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mantic_1.png",
         "levels": [
           {
             "level": "1",
@@ -36826,7 +36826,7 @@
       },
       {
         "name": "Toxic Overload",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mantic_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mantic_2.png",
         "levels": [
           {
             "level": "1",
@@ -36957,7 +36957,7 @@
     "skills": [
       {
         "name": "Anchor Strike",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kirara_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kirara_1.png",
         "levels": [
           {
             "level": "1",
@@ -37083,7 +37083,7 @@
       },
       {
         "name": "Anchor Point Snap",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kirara_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kirara_2.png",
         "levels": [
           {
             "level": "1",
@@ -37214,7 +37214,7 @@
     "skills": [
       {
         "name": "Raging Iron Fist",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_panda_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_panda_1.png",
         "levels": [
           {
             "level": "1",
@@ -37340,7 +37340,7 @@
       },
       {
         "name": "Destructive Fist",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_panda_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_panda_2.png",
         "levels": [
           {
             "level": "1",
@@ -37471,7 +37471,7 @@
     "skills": [
       {
         "name": "Deterring Shot",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_forcer_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_forcer_1.png",
         "levels": [
           {
             "level": "1",
@@ -37597,7 +37597,7 @@
       },
       {
         "name": "Staggering Shot",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_forcer_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_forcer_2.png",
         "levels": [
           {
             "level": "1",
@@ -37728,7 +37728,7 @@
     "skills": [
       {
         "name": "Binding 'Clip'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_robin_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_robin_1.png",
         "levels": [
           {
             "level": "1",
@@ -37854,7 +37854,7 @@
       },
       {
         "name": "Launching 'Clip'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_robin_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_robin_2.png",
         "levels": [
           {
             "level": "1",
@@ -37985,7 +37985,7 @@
     "skills": [
       {
         "name": "Trap Deployment",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rfrost_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_rfrost_1.png",
         "levels": [
           {
             "level": "1",
@@ -38111,7 +38111,7 @@
       },
       {
         "name": "Incapacitated Prey",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rfrost_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_rfrost_2.png",
         "levels": [
           {
             "level": "1",
@@ -38242,7 +38242,7 @@
     "skills": [
       {
         "name": "Fervent Trimming",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bena_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bena_1.png",
         "levels": [
           {
             "level": "1",
@@ -38368,7 +38368,7 @@
       },
       {
         "name": "Rapid Trimming",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bena_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bena_2.png",
         "levels": [
           {
             "level": "1",
@@ -38499,7 +38499,7 @@
     "skills": [
       {
         "name": "Origami Art - Swift Strike",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kazema_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kazema_1.png",
         "levels": [
           {
             "level": "1",
@@ -38625,7 +38625,7 @@
       },
       {
         "name": "Origami Art - Twin Shadows",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kazema_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kazema_2.png",
         "levels": [
           {
             "level": "1",
@@ -38756,7 +38756,7 @@
     "skills": [
       {
         "name": "Charging Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_angel_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_angel_1.png",
         "levels": [
           {
             "level": "1",
@@ -38882,7 +38882,7 @@
       },
       {
         "name": "Shooting Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_angel_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_angel_2.png",
         "levels": [
           {
             "level": "1",
@@ -39008,7 +39008,7 @@
       },
       {
         "name": "Overloading Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_angel_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_angel_3.png",
         "levels": [
           {
             "level": "1",
@@ -39139,7 +39139,7 @@
     "skills": [
       {
         "name": "Dispersing Arrows",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_archet_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_archet_1.png",
         "levels": [
           {
             "level": "1",
@@ -39265,7 +39265,7 @@
       },
       {
         "name": "Pursuing Arrows",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_archet_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_archet_2.png",
         "levels": [
           {
             "level": "1",
@@ -39391,7 +39391,7 @@
       },
       {
         "name": "Thundering Arrows",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_archet_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_archet_3.png",
         "levels": [
           {
             "level": "1",
@@ -39522,7 +39522,7 @@
     "skills": [
       {
         "name": "Supporting Fire",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ash_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ash_1.png",
         "levels": [
           {
             "level": "1",
@@ -39648,7 +39648,7 @@
       },
       {
         "name": "Assault Tactics",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ash_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ash_2.png",
         "levels": [
           {
             "level": "1",
@@ -39774,7 +39774,7 @@
       },
       {
         "name": "Breaching Rounds",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ash_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ash_3.png",
         "levels": [
           {
             "level": "1",
@@ -39905,7 +39905,7 @@
     "skills": [
       {
         "name": "Charged Shot",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_shwaz_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_shwaz_1.png",
         "levels": [
           {
             "level": "1",
@@ -40031,7 +40031,7 @@
       },
       {
         "name": "Sharp Eye",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_shwaz_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_shwaz_2.png",
         "levels": [
           {
             "level": "1",
@@ -40157,7 +40157,7 @@
       },
       {
         "name": "Final Tactics",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_shwaz_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_shwaz_3.png",
         "levels": [
           {
             "level": "1",
@@ -40288,7 +40288,7 @@
     "skills": [
       {
         "name": "Swift Strike γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_quickattack[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[3].png",
         "levels": [
           {
             "level": "1",
@@ -40414,7 +40414,7 @@
       },
       {
         "name": "Ally Support",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_fartth_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_fartth_2.png",
         "levels": [
           {
             "level": "1",
@@ -40540,7 +40540,7 @@
       },
       {
         "name": "Feathershine Arrows",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_fartth_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_fartth_3.png",
         "levels": [
           {
             "level": "1",
@@ -40671,7 +40671,7 @@
     "skills": [
       {
         "name": "King of Hearts",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cqbw_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cqbw_1.png",
         "levels": [
           {
             "level": "1",
@@ -40797,7 +40797,7 @@
       },
       {
         "name": "Jack in the Box",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cqbw_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cqbw_2.png",
         "levels": [
           {
             "level": "1",
@@ -40923,7 +40923,7 @@
       },
       {
         "name": "D12",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cqbw_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cqbw_3.png",
         "levels": [
           {
             "level": "1",
@@ -41054,7 +41054,7 @@
     "skills": [
       {
         "name": "'Provocate'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_phenxi_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_phenxi_1.png",
         "levels": [
           {
             "level": "1",
@@ -41180,7 +41180,7 @@
       },
       {
         "name": "'Paenitete'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_phenxi_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_phenxi_2.png",
         "levels": [
           {
             "level": "1",
@@ -41306,7 +41306,7 @@
       },
       {
         "name": "'Reponite'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_phenxi_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_phenxi_3.png",
         "levels": [
           {
             "level": "1",
@@ -41437,7 +41437,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -41563,7 +41563,7 @@
       },
       {
         "name": "Split Shot",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_poca_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_poca_2.png",
         "levels": [
           {
             "level": "1",
@@ -41689,7 +41689,7 @@
       },
       {
         "name": "Avalanche Breaker",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_poca_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_poca_3.png",
         "levels": [
           {
             "level": "1",
@@ -41820,7 +41820,7 @@
     "skills": [
       {
         "name": "Expanded Cognition",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rosmon_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_rosmon_1.png",
         "levels": [
           {
             "level": "1",
@@ -41946,7 +41946,7 @@
       },
       {
         "name": "Nociceptor Inhibition",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rosmon_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_rosmon_2.png",
         "levels": [
           {
             "level": "1",
@@ -42072,7 +42072,7 @@
       },
       {
         "name": "'As You Wish'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_rosmon_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_rosmon_3.png",
         "levels": [
           {
             "level": "1",
@@ -42203,7 +42203,7 @@
     "skills": [
       {
         "name": "High-Pressure Splash",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chen2_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_chen2_1.png",
         "levels": [
           {
             "level": "1",
@@ -42329,7 +42329,7 @@
       },
       {
         "name": "'Night of Violet'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chen2_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_chen2_2.png",
         "levels": [
           {
             "level": "1",
@@ -42455,7 +42455,7 @@
       },
       {
         "name": "'Holiday Storm'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chen2_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_chen2_3.png",
         "levels": [
           {
             "level": "1",
@@ -42586,7 +42586,7 @@
     "skills": [
       {
         "name": "Charge γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_charge_cost[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_charge_cost[3].png",
         "levels": [
           {
             "level": "1",
@@ -42712,7 +42712,7 @@
       },
       {
         "name": "Aerial Hammer",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_siege_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_siege_2.png",
         "levels": [
           {
             "level": "1",
@@ -42838,7 +42838,7 @@
       },
       {
         "name": "Skull Breaker",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_siege_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_siege_3.png",
         "levels": [
           {
             "level": "1",
@@ -42969,7 +42969,7 @@
     "skills": [
       {
         "name": "Swift Strike γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_quickattack[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[3].png",
         "levels": [
           {
             "level": "1",
@@ -43095,7 +43095,7 @@
       },
       {
         "name": "High-Impact Assault",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bpipe_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bpipe_2.png",
         "levels": [
           {
             "level": "1",
@@ -43221,7 +43221,7 @@
       },
       {
         "name": "Locked Breech Burst",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_bpipe_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bpipe_3.png",
         "levels": [
           {
             "level": "1",
@@ -43352,7 +43352,7 @@
     "skills": [
       {
         "name": "Charge γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_charge_cost[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_charge_cost[3].png",
         "levels": [
           {
             "level": "1",
@@ -43478,7 +43478,7 @@
       },
       {
         "name": "Cleansing Evil",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_saga_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_saga_2.png",
         "levels": [
           {
             "level": "1",
@@ -43604,7 +43604,7 @@
       },
       {
         "name": "Fierce Glare",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_saga_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_saga_3.png",
         "levels": [
           {
             "level": "1",
@@ -43735,7 +43735,7 @@
     "skills": [
       {
         "name": "Support γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_assist_cost[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_assist_cost[3].png",
         "levels": [
           {
             "level": "1",
@@ -43861,7 +43861,7 @@
       },
       {
         "name": "Inheritance of Faith",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sleach_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sleach_2.png",
         "levels": [
           {
             "level": "1",
@@ -43987,7 +43987,7 @@
       },
       {
         "name": "Glorious Banner",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_sleach_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_sleach_3.png",
         "levels": [
           {
             "level": "1",
@@ -44118,7 +44118,7 @@
     "skills": [
       {
         "name": "Quick Intuition",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flamtl_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_flamtl_1.png",
         "levels": [
           {
             "level": "1",
@@ -44244,7 +44244,7 @@
       },
       {
         "name": "'Pinus Sylvestris'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flamtl_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_flamtl_2.png",
         "levels": [
           {
             "level": "1",
@@ -44370,7 +44370,7 @@
       },
       {
         "name": "Flameheart",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_flamtl_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_flamtl_3.png",
         "levels": [
           {
             "level": "1",
@@ -44501,7 +44501,7 @@
     "skills": [
       {
         "name": "Fanaticism",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ifrit_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ifrit_1.png",
         "levels": [
           {
             "level": "1",
@@ -44627,7 +44627,7 @@
       },
       {
         "name": "Pyroclasm",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ifrit_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ifrit_2.png",
         "levels": [
           {
             "level": "1",
@@ -44753,7 +44753,7 @@
       },
       {
         "name": "Scorched Earth",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ifrit_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ifrit_3.png",
         "levels": [
           {
             "level": "1",
@@ -44884,7 +44884,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -45010,7 +45010,7 @@
       },
       {
         "name": "Lock of Shattered Time",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mostma_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mostma_2.png",
         "levels": [
           {
             "level": "1",
@@ -45136,7 +45136,7 @@
       },
       {
         "name": "Key of Chronology",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mostma_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mostma_3.png",
         "levels": [
           {
             "level": "1",
@@ -45267,7 +45267,7 @@
     "skills": [
       {
         "name": "Duetto",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amgoat_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_amgoat_1.png",
         "levels": [
           {
             "level": "1",
@@ -45393,7 +45393,7 @@
       },
       {
         "name": "Ignition",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amgoat_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_amgoat_2.png",
         "levels": [
           {
             "level": "1",
@@ -45519,7 +45519,7 @@
       },
       {
         "name": "Volcano",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amgoat_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_amgoat_3.png",
         "levels": [
           {
             "level": "1",
@@ -45650,7 +45650,7 @@
     "skills": [
       {
         "name": "'Really Cold Axe'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cerber_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cerber_1.png",
         "levels": [
           {
             "level": "1",
@@ -45776,7 +45776,7 @@
       },
       {
         "name": "'Really Hot Knives'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cerber_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cerber_2.png",
         "levels": [
           {
             "level": "1",
@@ -45902,7 +45902,7 @@
       },
       {
         "name": "'Really Heavy Spear'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cerber_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cerber_3.png",
         "levels": [
           {
             "level": "1",
@@ -46033,7 +46033,7 @@
     "skills": [
       {
         "name": "Transcendental Stroke",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_dusk_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_dusk_1.png",
         "levels": [
           {
             "level": "1",
@@ -46159,7 +46159,7 @@
       },
       {
         "name": "Flowing Ink",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_dusk_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_dusk_2.png",
         "levels": [
           {
             "level": "1",
@@ -46285,7 +46285,7 @@
       },
       {
         "name": "Image over Form",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_dusk_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_dusk_3.png",
         "levels": [
           {
             "level": "1",
@@ -46416,7 +46416,7 @@
     "skills": [
       {
         "name": "Touch of Static",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pasngr_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pasngr_1.png",
         "levels": [
           {
             "level": "1",
@@ -46542,7 +46542,7 @@
       },
       {
         "name": "Focus Command",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pasngr_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pasngr_2.png",
         "levels": [
           {
             "level": "1",
@@ -46668,7 +46668,7 @@
       },
       {
         "name": "Glorious Shards",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pasngr_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pasngr_3.png",
         "levels": [
           {
             "level": "1",
@@ -46799,7 +46799,7 @@
     "skills": [
       {
         "name": "Sandstorm Guardian",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_billro_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_billro_1.png",
         "levels": [
           {
             "level": "1",
@@ -46925,7 +46925,7 @@
       },
       {
         "name": "Sand Fetters",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_billro_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_billro_2.png",
         "levels": [
           {
             "level": "1",
@@ -47051,7 +47051,7 @@
       },
       {
         "name": "Mark of Gluttony",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_billro_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_billro_3.png",
         "levels": [
           {
             "level": "1",
@@ -47182,7 +47182,7 @@
     "skills": [
       {
         "name": "Scattering Sparks",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gdglow_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gdglow_1.png",
         "levels": [
           {
             "level": "1",
@@ -47308,7 +47308,7 @@
       },
       {
         "name": "Surging Current",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gdglow_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gdglow_2.png",
         "levels": [
           {
             "level": "1",
@@ -47434,7 +47434,7 @@
       },
       {
         "name": "Crystalline Shine",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gdglow_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gdglow_3.png",
         "levels": [
           {
             "level": "1",
@@ -47565,7 +47565,7 @@
     "skills": [
       {
         "name": "High-Speed Cogitation",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gnosis_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gnosis_1.png",
         "levels": [
           {
             "level": "1",
@@ -47691,7 +47691,7 @@
       },
       {
         "name": "Zero-Point Burst",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gnosis_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gnosis_2.png",
         "levels": [
           {
             "level": "1",
@@ -47817,7 +47817,7 @@
       },
       {
         "name": "Hypothermia",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_gnosis_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gnosis_3.png",
         "levels": [
           {
             "level": "1",
@@ -47948,7 +47948,7 @@
     "skills": [
       {
         "name": "Arcane Staff - Quick Charge Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aglina_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aglina_1.png",
         "levels": [
           {
             "level": "1",
@@ -48074,7 +48074,7 @@
       },
       {
         "name": "Arcane Staff - Particle Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aglina_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aglina_2.png",
         "levels": [
           {
             "level": "1",
@@ -48200,7 +48200,7 @@
       },
       {
         "name": "Arcane Staff - Anti-Gravity Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_aglina_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_aglina_3.png",
         "levels": [
           {
             "level": "1",
@@ -48331,7 +48331,7 @@
     "skills": [
       {
         "name": "I'll Do My Best",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lisa_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lisa_1.png",
         "levels": [
           {
             "level": "1",
@@ -48457,7 +48457,7 @@
       },
       {
         "name": "Childhood Frolic",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lisa_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lisa_2.png",
         "levels": [
           {
             "level": "1",
@@ -48583,7 +48583,7 @@
       },
       {
         "name": "Foxfire Haze",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lisa_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lisa_3.png",
         "levels": [
           {
             "level": "1",
@@ -48714,7 +48714,7 @@
     "skills": [
       {
         "name": "High-Efficiency Freezing Module",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mgllan_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mgllan_1.png",
         "levels": [
           {
             "level": "1",
@@ -48840,7 +48840,7 @@
       },
       {
         "name": "Laser Mining Module",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mgllan_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mgllan_2.png",
         "levels": [
           {
             "level": "1",
@@ -48966,7 +48966,7 @@
       },
       {
         "name": "Armed Combat Module",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mgllan_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mgllan_3.png",
         "levels": [
           {
             "level": "1",
@@ -49097,7 +49097,7 @@
     "skills": [
       {
         "name": "Chant of Returning by Varied Paths",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skadi2_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_skadi2_1.png",
         "levels": [
           {
             "level": "1",
@@ -49223,7 +49223,7 @@
       },
       {
         "name": "Wish of Burial Beyond the Light",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skadi2_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_skadi2_2.png",
         "levels": [
           {
             "level": "1",
@@ -49349,7 +49349,7 @@
       },
       {
         "name": "'The Tide Surges, The Tide Recedes'",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skadi2_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_skadi2_3.png",
         "levels": [
           {
             "level": "1",
@@ -49480,7 +49480,7 @@
     "skills": [
       {
         "name": "Sips of Wine",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ling_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ling_1.png",
         "levels": [
           {
             "level": "1",
@@ -49606,7 +49606,7 @@
       },
       {
         "name": "Amidst Pleasant Melodies",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ling_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ling_2.png",
         "levels": [
           {
             "level": "1",
@@ -49732,7 +49732,7 @@
       },
       {
         "name": "To Remain Oneself",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_ling_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ling_3.png",
         "levels": [
           {
             "level": "1",
@@ -49863,7 +49863,7 @@
     "skills": [
       {
         "name": "Phantom of the Night",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_phatom_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_phatom_1.png",
         "levels": [
           {
             "level": "1",
@@ -49989,7 +49989,7 @@
       },
       {
         "name": "Bloody Opus",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_phatom_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_phatom_2.png",
         "levels": [
           {
             "level": "1",
@@ -50115,7 +50115,7 @@
       },
       {
         "name": "Night Raid",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_phatom_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_phatom_3.png",
         "levels": [
           {
             "level": "1",
@@ -50246,7 +50246,7 @@
     "skills": [
       {
         "name": "Stern Admonishment",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lmlee_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lmlee_1.png",
         "levels": [
           {
             "level": "1",
@@ -50372,7 +50372,7 @@
       },
       {
         "name": "Exorcise Evil",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lmlee_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lmlee_2.png",
         "levels": [
           {
             "level": "1",
@@ -50498,7 +50498,7 @@
       },
       {
         "name": "Honored Guest",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_lmlee_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lmlee_3.png",
         "levels": [
           {
             "level": "1",
@@ -50629,7 +50629,7 @@
     "skills": [
       {
         "name": "Barrel Burst",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_weedy_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_weedy_1.png",
         "levels": [
           {
             "level": "1",
@@ -50755,7 +50755,7 @@
       },
       {
         "name": "Hydraulics Mode",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_weedy_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_weedy_2.png",
         "levels": [
           {
             "level": "1",
@@ -50881,7 +50881,7 @@
       },
       {
         "name": "Liquid Nitrogen Cannon",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_weedy_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_weedy_3.png",
         "levels": [
           {
             "level": "1",
@@ -51012,7 +51012,7 @@
     "skills": [
       {
         "name": "Rapid Fire",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_haak_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_haak_1.png",
         "levels": [
           {
             "level": "1",
@@ -51138,7 +51138,7 @@
       },
       {
         "name": "Type-γ Stimpack",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_haak_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_haak_2.png",
         "levels": [
           {
             "level": "1",
@@ -51264,7 +51264,7 @@
       },
       {
         "name": "Durian-Flavored Stimpack",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_haak_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_haak_3.png",
         "levels": [
           {
             "level": "1",
@@ -51395,7 +51395,7 @@
     "skills": [
       {
         "name": "Waterless Parting of the Great Ocean",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glady_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glady_1.png",
         "levels": [
           {
             "level": "1",
@@ -51521,7 +51521,7 @@
       },
       {
         "name": "Waterless Grasp of the Raging Seas",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glady_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glady_2.png",
         "levels": [
           {
             "level": "1",
@@ -51647,7 +51647,7 @@
       },
       {
         "name": "Waterless Dance of the Shattered Maelstrom",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_glady_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_glady_3.png",
         "levels": [
           {
             "level": "1",
@@ -51778,7 +51778,7 @@
     "skills": [
       {
         "name": "Awaken",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mizuki_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mizuki_1.png",
         "levels": [
           {
             "level": "1",
@@ -51904,7 +51904,7 @@
       },
       {
         "name": "Prisoner's Dilemma",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mizuki_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mizuki_2.png",
         "levels": [
           {
             "level": "1",
@@ -52030,7 +52030,7 @@
       },
       {
         "name": "Moon in the Water",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mizuki_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mizuki_3.png",
         "levels": [
           {
             "level": "1",
@@ -52161,7 +52161,7 @@
     "skills": [
       {
         "name": "Creed",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_shining_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_shining_1.png",
         "levels": [
           {
             "level": "1",
@@ -52287,7 +52287,7 @@
       },
       {
         "name": "Auto Protect",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_shining_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_shining_2.png",
         "levels": [
           {
             "level": "1",
@@ -52413,7 +52413,7 @@
       },
       {
         "name": "Creed Field",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_shining_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_shining_3.png",
         "levels": [
           {
             "level": "1",
@@ -52544,7 +52544,7 @@
     "skills": [
       {
         "name": "Healing Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_heal_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_heal_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -52670,7 +52670,7 @@
       },
       {
         "name": "Arts Shield",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cgbird_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cgbird_2.png",
         "levels": [
           {
             "level": "1",
@@ -52796,7 +52796,7 @@
       },
       {
         "name": "Sanctuary",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_cgbird_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_cgbird_3.png",
         "levels": [
           {
             "level": "1",
@@ -52927,7 +52927,7 @@
     "skills": [
       {
         "name": "Command: Structural Fortification",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kalts_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kalts_1.png",
         "levels": [
           {
             "level": "1",
@@ -53053,7 +53053,7 @@
       },
       {
         "name": "Command: Tactical Coordination",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kalts_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kalts_2.png",
         "levels": [
           {
             "level": "1",
@@ -53179,7 +53179,7 @@
       },
       {
         "name": "Command: Meltdown",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_kalts_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_kalts_3.png",
         "levels": [
           {
             "level": "1",
@@ -53310,7 +53310,7 @@
     "skills": [
       {
         "name": "Warpath",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_hsguma_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_hsguma_1.png",
         "levels": [
           {
             "level": "1",
@@ -53436,7 +53436,7 @@
       },
       {
         "name": "Thorns",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_hsguma_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_hsguma_2.png",
         "levels": [
           {
             "level": "1",
@@ -53562,7 +53562,7 @@
       },
       {
         "name": "Saw of Strength",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_hsguma_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_hsguma_3.png",
         "levels": [
           {
             "level": "1",
@@ -53693,7 +53693,7 @@
     "skills": [
       {
         "name": "First Aid",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_demkni_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_demkni_1.png",
         "levels": [
           {
             "level": "1",
@@ -53819,7 +53819,7 @@
       },
       {
         "name": "Medicine Dispensing",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_demkni_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_demkni_2.png",
         "levels": [
           {
             "level": "1",
@@ -53945,7 +53945,7 @@
       },
       {
         "name": "Calcification",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_demkni_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_demkni_3.png",
         "levels": [
           {
             "level": "1",
@@ -54076,7 +54076,7 @@
     "skills": [
       {
         "name": "Surging Brilliance",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blemsh_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_blemsh_1.png",
         "levels": [
           {
             "level": "1",
@@ -54202,7 +54202,7 @@
       },
       {
         "name": "Deterring Radiance",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blemsh_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_blemsh_2.png",
         "levels": [
           {
             "level": "1",
@@ -54328,7 +54328,7 @@
       },
       {
         "name": "Divine Avatar",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_blemsh_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_blemsh_3.png",
         "levels": [
           {
             "level": "1",
@@ -54459,7 +54459,7 @@
     "skills": [
       {
         "name": "Tin Burning",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nian_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nian_1.png",
         "levels": [
           {
             "level": "1",
@@ -54585,7 +54585,7 @@
       },
       {
         "name": "Copper Seal",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nian_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nian_2.png",
         "levels": [
           {
             "level": "1",
@@ -54711,7 +54711,7 @@
       },
       {
         "name": "Iron Defense",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nian_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nian_3.png",
         "levels": [
           {
             "level": "1",
@@ -54842,7 +54842,7 @@
     "skills": [
       {
         "name": "DEF Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_def_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_def_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -54968,7 +54968,7 @@
       },
       {
         "name": "Crag Splitter",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mudrok_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mudrok_2.png",
         "levels": [
           {
             "level": "1",
@@ -55094,7 +55094,7 @@
       },
       {
         "name": "Bloodline of Desecrated Earth",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_mudrok_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_mudrok_3.png",
         "levels": [
           {
             "level": "1",
@@ -55225,7 +55225,7 @@
     "skills": [
       {
         "name": "Tomahawk",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_zumama_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_zumama_1.png",
         "levels": [
           {
             "level": "1",
@@ -55351,7 +55351,7 @@
       },
       {
         "name": "Menacing Slash",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_zumama_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_zumama_2.png",
         "levels": [
           {
             "level": "1",
@@ -55477,7 +55477,7 @@
       },
       {
         "name": "Iron Will",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_zumama_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_zumama_3.png",
         "levels": [
           {
             "level": "1",
@@ -55608,7 +55608,7 @@
     "skills": [
       {
         "name": "Left Hook",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_f12yin_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_f12yin_1.png",
         "levels": [
           {
             "level": "1",
@@ -55734,7 +55734,7 @@
       },
       {
         "name": "Sweeping Stance",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_f12yin_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_f12yin_2.png",
         "levels": [
           {
             "level": "1",
@@ -55860,7 +55860,7 @@
       },
       {
         "name": "Earth-Shattering Smash",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_f12yin_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_f12yin_3.png",
         "levels": [
           {
             "level": "1",
@@ -55991,7 +55991,7 @@
     "skills": [
       {
         "name": "Power Strike γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_powerstrike[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_powerstrike[3].png",
         "levels": [
           {
             "level": "1",
@@ -56117,7 +56117,7 @@
       },
       {
         "name": "Rules of Survival",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_svrash_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_svrash_2.png",
         "levels": [
           {
             "level": "1",
@@ -56243,7 +56243,7 @@
       },
       {
         "name": "Truesilver Slash",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_svrash_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_svrash_3.png",
         "levels": [
           {
             "level": "1",
@@ -56374,7 +56374,7 @@
     "skills": [
       {
         "name": "ATK Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_atk_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -56500,7 +56500,7 @@
       },
       {
         "name": "Protective Spikes",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_thorns_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_thorns_2.png",
         "levels": [
           {
             "level": "1",
@@ -56626,7 +56626,7 @@
       },
       {
         "name": "Destreza",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_thorns_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_thorns_3.png",
         "levels": [
           {
             "level": "1",
@@ -56757,7 +56757,7 @@
     "skills": [
       {
         "name": "Sheathed Strike",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chen_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_chen_1.png",
         "levels": [
           {
             "level": "1",
@@ -56883,7 +56883,7 @@
       },
       {
         "name": "Chi Xiao - Unsheath",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chen_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_chen_2.png",
         "levels": [
           {
             "level": "1",
@@ -57009,7 +57009,7 @@
       },
       {
         "name": "Chi Xiao - Shadowless",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_chen_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_chen_3.png",
         "levels": [
           {
             "level": "1",
@@ -57140,7 +57140,7 @@
     "skills": [
       {
         "name": "Power Strike γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_powerstrike[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_powerstrike[3].png",
         "levels": [
           {
             "level": "1",
@@ -57266,7 +57266,7 @@
       },
       {
         "name": "Chainsaw Extension Module",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_huang_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_huang_2.png",
         "levels": [
           {
             "level": "1",
@@ -57392,7 +57392,7 @@
       },
       {
         "name": "Boiling Burst",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_huang_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_huang_3.png",
         "levels": [
           {
             "level": "1",
@@ -57523,7 +57523,7 @@
     "skills": [
       {
         "name": "Laevatain",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_surtr_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_surtr_1.png",
         "levels": [
           {
             "level": "1",
@@ -57649,7 +57649,7 @@
       },
       {
         "name": "Molten Giant",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_surtr_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_surtr_2.png",
         "levels": [
           {
             "level": "1",
@@ -57775,7 +57775,7 @@
       },
       {
         "name": "Twilight",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_surtr_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_surtr_3.png",
         "levels": [
           {
             "level": "1",
@@ -57906,7 +57906,7 @@
     "skills": [
       {
         "name": "Crescent Moon",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_helage_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_helage_1.png",
         "levels": [
           {
             "level": "1",
@@ -58032,7 +58032,7 @@
       },
       {
         "name": "Half Moon",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_helage_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_helage_2.png",
         "levels": [
           {
             "level": "1",
@@ -58158,7 +58158,7 @@
       },
       {
         "name": "Full Moon",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_helage_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_helage_3.png",
         "levels": [
           {
             "level": "1",
@@ -58289,7 +58289,7 @@
     "skills": [
       {
         "name": "Strikes of Victory",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pallas_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pallas_1.png",
         "levels": [
           {
             "level": "1",
@@ -58415,7 +58415,7 @@
       },
       {
         "name": "Whip of Conviction",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pallas_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pallas_2.png",
         "levels": [
           {
             "level": "1",
@@ -58541,7 +58541,7 @@
       },
       {
         "name": "Blessing of Heroism",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_pallas_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pallas_3.png",
         "levels": [
           {
             "level": "1",
@@ -58672,7 +58672,7 @@
     "skills": [
       {
         "name": "Flaming Edge",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nearl2_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nearl2_1.png",
         "levels": [
           {
             "level": "1",
@@ -58798,7 +58798,7 @@
       },
       {
         "name": "Night-Scouring Gleam",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nearl2_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nearl2_2.png",
         "levels": [
           {
             "level": "1",
@@ -58924,7 +58924,7 @@
       },
       {
         "name": "Blazing Sun's Obeisance",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nearl2_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nearl2_3.png",
         "levels": [
           {
             "level": "1",
@@ -59055,7 +59055,7 @@
     "skills": [
       {
         "name": "Power Strike β",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_powerstrike[2].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_powerstrike[2].png",
         "levels": [
           {
             "level": "1",
@@ -59181,7 +59181,7 @@
       },
       {
         "name": "Precise Blast",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_savage_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_savage_2.png",
         "levels": [
           {
             "level": "1",
@@ -59312,7 +59312,7 @@
     "skills": [
       {
         "name": "Blast Range Up α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_blowrange_up[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_blowrange_up[1].png",
         "levels": [
           {
             "level": "1",
@@ -59407,7 +59407,7 @@
     "skills": [
       {
         "name": "Enchant Weapon α",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_enchant[1].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_enchant[1].png",
         "levels": [
           {
             "level": "1",
@@ -59502,7 +59502,7 @@
     "skills": [
       {
         "name": "Flexibility",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_brownb_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_brownb_1.png",
         "levels": [
           {
             "level": "1",
@@ -59628,7 +59628,7 @@
       },
       {
         "name": "Soaring Fists",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_brownb_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_brownb_2.png",
         "levels": [
           {
             "level": "1",
@@ -59759,7 +59759,7 @@
     "skills": [
       {
         "name": "Grit Those Teeth!",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_jaksel_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_jaksel_1.png",
         "levels": [
           {
             "level": "1",
@@ -59885,7 +59885,7 @@
       },
       {
         "name": "Pay Close Attention!",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_jaksel_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_jaksel_2.png",
         "levels": [
           {
             "level": "1",
@@ -60016,7 +60016,7 @@
     "skills": [
       {
         "name": "Drain Soul",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nightm_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nightm_1.png",
         "levels": [
           {
             "level": "1",
@@ -60142,7 +60142,7 @@
       },
       {
         "name": "Night Phantom",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_nightm_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_nightm_2.png",
         "levels": [
           {
             "level": "1",
@@ -60273,7 +60273,7 @@
     "skills": [
       {
         "name": "DEF Up γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_def_up[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_def_up[3].png",
         "levels": [
           {
             "level": "1",
@@ -60399,7 +60399,7 @@
       },
       {
         "name": "Press the Attack!",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_grani_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_grani_2.png",
         "levels": [
           {
             "level": "1",
@@ -60530,7 +60530,7 @@
     "skills": [
       {
         "name": "Swift Strike γ",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skcom_quickattack[3].png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[3].png",
         "levels": [
           {
             "level": "1",
@@ -60656,7 +60656,7 @@
       },
       {
         "name": "Wave Strike",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skadi_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_skadi_2.png",
         "levels": [
           {
             "level": "1",
@@ -60782,7 +60782,7 @@
       },
       {
         "name": "Tidal Elegy",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_skadi_3.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_skadi_3.png",
         "levels": [
           {
             "level": "1",
@@ -60913,7 +60913,7 @@
     "skills": [
       {
         "name": "Ying Xiao - Fleeting Night",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amiya2_1.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_amiya2_1.png",
         "levels": [
           {
             "level": "1",
@@ -61039,7 +61039,7 @@
       },
       {
         "name": "Ying Xiao - Shadowless",
-        "icon": "https://raw.githubusercontent.com/Aceship/AN-EN-Tags/master/img/skills/skill_icon_skchr_amiya2_2.png",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_amiya2_2.png",
         "levels": [
           {
             "level": "1",
