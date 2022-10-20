@@ -147,6 +147,7 @@ function getDescription(text: string, blackboard: Array<any>, duration: number) 
         result = result.replace(/<\$ba.dt.element>/gi, EMPTY_STRING);
         result = result.replace(/<\$ba.fragile>/gi, EMPTY_STRING);
         result = result.replace(/<\$ba.frozen>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.overdrive>/gi, EMPTY_STRING);
         result = result.replace(/<\/>/gi, EMPTY_STRING);
         //result = result.replace(REGEX_LINEBREAK, '. ');
 
