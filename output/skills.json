@@ -10728,6 +10728,263 @@
       }
     ]
   },
+  "char_4041_chnut": {
+    "name": "Chestnut",
+    "skills": [
+      {
+        "name": "Little by Little",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_chnut_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Perform a heal with Elemental Damage recovery increased to 150%\nCan store 1 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Perform a heal with Elemental Damage recovery increased to 160%\nCan store 1 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Perform a heal with Elemental Damage recovery increased to 170%\nCan store 1 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Perform a heal with Elemental Damage recovery increased to 200%\nCan store 1 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Perform a heal with Elemental Damage recovery increased to 210%\nCan store 1 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Perform a heal with Elemental Damage recovery increased to 220%\nCan store 1 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Perform a heal with Elemental Damage recovery increased to 250%\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 14,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Perform a heal with Elemental Damage recovery increased to 270%\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 13,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Perform a heal with Elemental Damage recovery increased to 280%\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 12,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Perform a heal with Elemental Damage recovery increased to 300%\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 10,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Rising Earth",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_chnut_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range reduced; ASPD +80; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 110%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 90,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range reduced; ASPD +80; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 110%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 21,
+            "spCost": 88,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range reduced; ASPD +80; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 110%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 22,
+            "spCost": 86,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range reduced; ASPD +90; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 120%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 82,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range reduced; ASPD +90; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 120%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 26,
+            "spCost": 80,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range reduced; ASPD +90; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 130%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 27,
+            "spCost": 78,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range reduced; ASPD +100; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 140%",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 74,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range reduced; ASPD +110; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 140%",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 34,
+            "spCost": 72,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range reduced; ASPD +110; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 150%",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 36,
+            "spCost": 72,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range reduced; ASPD +130; when healing the same target multiple times, healing effect and Elemental Damage recovery are increased to 150%",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": "3-2",
+            "spType": 1,
+            "initSp": 40,
+            "spCost": 70,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_199_yak": {
     "name": "Matterhorn",
     "skills": [
@@ -26153,6 +26410,263 @@
       }
     ]
   },
+  "char_4040_rockr": {
+    "name": "Rockrock",
+    "skills": [
+      {
+        "name": "Tactical Chant γ",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_magic_rage[3].png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ASPD +30",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ASPD +35",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ASPD +40",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ASPD +45",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ASPD +50",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ASPD +55",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ASPD +60",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ASPD +70",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ASPD +80",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ASPD +90",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Willing Burden",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_rockr_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ASPD +30; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 1.5x, ATK +30%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ASPD +35; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 1.5x, ATK +30%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 48,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ASPD +40; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 1.5x, ATK +30%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 46,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ASPD +45; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 1.6x, ATK +40%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ASPD +50; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 1.6x, ATK +40%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ASPD +55; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 1.6x, ATK +40%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ASPD +60; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 1.7x, ATK +50%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ASPD +65; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 1.8x, ATK +50%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ASPD +70; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 1.9x, ATK +50%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ASPD +80; Releases Drone to attack enemies\nOverload: Trait Max drone damage increased to 2x, ATK +50%; When the skill ends, Stunned for the same duration as the Overload\nThe Drone locks onto an enemy until the enemy is defeated or until the skill is over, then returns to the Operator. Can manually deactivate skill at will.",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_242_otter": {
     "name": "Mayer",
     "skills": [
@@ -35917,6 +36431,263 @@
             "spType": 1,
             "initSp": 25,
             "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_4045_heidi": {
+    "name": "Heidi",
+    "skills": [
+      {
+        "name": "Tale of Fiction: A Warrior's Anger",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_heidi_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 50% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 55% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 60% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 70% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 75% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 80% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 90% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 100% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 110% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "All ally units within range have -3 Block and gain Inspiration equal to 110% of Heidi's ATK",
+            "skillType": 1,
+            "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Tale of Fiction: Rust",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_heidi_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 15% of Heidi's DEF and 11% of Heidi's max HP. This unit's Trait effect is increased to 15%",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 20% of Heidi's DEF and 12% of Heidi's max HP. This unit's Trait effect is increased to 16%",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 25% of Heidi's DEF and 13% of Heidi's max HP. This unit's Trait effect is increased to 18%",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 30% of Heidi's DEF and 16% of Heidi's max HP. This unit's Trait effect is increased to 20%",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 35% of Heidi's DEF and 17% of Heidi's max HP. This unit's Trait effect is increased to 21%",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 13,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 40% of Heidi's DEF and 18% of Heidi's max HP. This unit's Trait effect is increased to 22%",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 14,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 50% of Heidi's DEF and 20% of Heidi's max HP. This unit's Trait effect is increased to 23%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 55% of Heidi's DEF and 23% of Heidi's max HP. This unit's Trait effect is increased to 25%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 60% of Heidi's DEF and 26% of Heidi's max HP. This unit's Trait effect is increased to 28%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "All ally units within range gain +1 Block, and Inspiration equal to 70% of Heidi's DEF and 30% of Heidi's max HP. This unit's Trait effect is increased to 30%",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 30,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -54715,7 +55486,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "ATK +55%; Nearby ally units gain DEF +30%, Block +1 and status resistance",
+            "description": "ATK +55%; Nearby allied Operators gain DEF +30%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 40,
             "rangeId": "x-2",
@@ -54727,7 +55498,7 @@
           },
           {
             "level": "2",
-            "description": "ATK +55%; Nearby ally units gain DEF +30%, Block +1 and status resistance",
+            "description": "ATK +55%; Nearby allied Operators gain DEF +30%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 40,
             "rangeId": "x-2",
@@ -54739,7 +55510,7 @@
           },
           {
             "level": "3",
-            "description": "ATK +60%; Nearby ally units gain DEF +30%, Block +1 and status resistance",
+            "description": "ATK +60%; Nearby allied Operators gain DEF +30%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 40,
             "rangeId": "x-2",
@@ -54751,7 +55522,7 @@
           },
           {
             "level": "4",
-            "description": "ATK +65%; Nearby ally units gain DEF +40%, Block +1 and status resistance",
+            "description": "ATK +65%; Nearby allied Operators gain DEF +40%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 40,
             "rangeId": "x-2",
@@ -54763,7 +55534,7 @@
           },
           {
             "level": "5",
-            "description": "ATK +70%; Nearby ally units gain DEF +40%, Block +1 and status resistance",
+            "description": "ATK +70%; Nearby allied Operators gain DEF +40%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 40,
             "rangeId": "x-2",
@@ -54775,7 +55546,7 @@
           },
           {
             "level": "6",
-            "description": "ATK +75%; Nearby ally units gain DEF +40%, Block +1 and status resistance",
+            "description": "ATK +75%; Nearby allied Operators gain DEF +40%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 40,
             "rangeId": "x-2",
@@ -54787,7 +55558,7 @@
           },
           {
             "level": "7",
-            "description": "ATK +80%; Nearby ally units gain DEF +50%, Block +1 and status resistance",
+            "description": "ATK +80%; Nearby allied Operators gain DEF +50%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 40,
             "rangeId": "x-2",
@@ -54799,7 +55570,7 @@
           },
           {
             "level": "M1",
-            "description": "ATK +90%; Nearby ally units gain DEF +60%, Block +1 and status resistance",
+            "description": "ATK +90%; Nearby allied Operators gain DEF +60%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 41,
             "rangeId": "x-2",
@@ -54811,7 +55582,7 @@
           },
           {
             "level": "M2",
-            "description": "ATK +100%; Nearby ally units gain DEF +70%, Block +1 and status resistance",
+            "description": "ATK +100%; Nearby allied Operators gain DEF +70%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 42,
             "rangeId": "x-2",
@@ -54823,7 +55594,7 @@
           },
           {
             "level": "M3",
-            "description": "ATK +120%; Nearby ally units gain DEF +80%, Block +1 and status resistance",
+            "description": "ATK +120%; Nearby allied Operators gain DEF +80%, Block +1 and status resistance",
             "skillType": 1,
             "duration": 45,
             "rangeId": "x-2",
@@ -55596,6 +56367,389 @@
             "spType": 1,
             "initSp": 25,
             "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_4039_horn": {
+    "name": "Horn",
+    "skills": [
+      {
+        "name": "Flare Grenade",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_horn_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack deals 160% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 5 seconds, disabling enemy Invisibility\nCan store 1 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack deals 170% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 5 seconds, disabling enemy Invisibility\nCan store 1 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack deals 180% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 5 seconds, disabling enemy Invisibility\nCan store 1 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack deals 190% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 6 seconds, disabling enemy Invisibility\nCan store 1 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack deals 200% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 6 seconds, disabling enemy Invisibility\nCan store 1 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack deals 210% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 6 seconds, disabling enemy Invisibility\nCan store 1 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack deals 220% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 7 seconds, disabling enemy Invisibility\nCan store 2 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack deals 240% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 7 seconds, disabling enemy Invisibility\nCan store 2 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack deals 260% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 7 seconds, disabling enemy Invisibility\nCan store 2 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack deals 280% ATK as Physical damage. If it is a ranged attack, splash area is increased, and an illuminated zone is created for 8 seconds, disabling enemy Invisibility\nCan store 2 charges",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Tempest Command",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_horn_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Each attack deals 130% ATK as Physical splash damage\nOverload: Each attack deals 30% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Each attack deals 140% ATK as Physical splash damage\nOverload: Each attack deals 30% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Each attack deals 150% ATK as Physical splash damage\nOverload: Each attack deals 30% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Each attack deals 160% ATK as Physical splash damage\nOverload: Each attack deals 35% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Each attack deals 170% ATK as Physical splash damage\nOverload: Each attack deals 35% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Each attack deals 180% ATK as Physical splash damage\nOverload: Each attack deals 35% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Each attack deals 190% ATK as Physical splash damage\nOverload: Each attack deals 40% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Each attack deals 200% ATK as Physical splash damage\nOverload: Each attack deals 50% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Each attack deals 220% ATK as Physical splash damage\nOverload: Each attack deals 50% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Each attack deals 240% ATK as Physical splash damage\nOverload: Each attack deals 60% ATK as extra Arts splash damage. If cancelled manually, fire all remaining bullets, and lose 60%HP\nSkill has 10 ammo and can be manually deactivated",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Ultimate Line of Defense",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_horn_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +10%, attack interval slightly reduced\nOverload: ATK instead +20%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +15%, attack interval slightly reduced\nOverload: ATK instead +30%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +20%, attack interval slightly reduced\nOverload: ATK instead +40%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +25%, attack interval reduced\nOverload: ATK becomes +50%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +30%, attack interval reduced\nOverload: ATK becomes +60%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +35%, attack interval reduced\nOverload: ATK becomes +70%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +40%, attack interval greatly reduced\nOverload: ATK becomes +80%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +50%, attack interval greatly reduced\nOverload: ATK becomes +100%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +60%, attack interval greatly reduced\nOverload: ATK becomes +120%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 36,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +70%, attack interval greatly reduced\nOverload: ATK becomes +140%, gradually lose HP (12% Max HP/sec after 12 seconds)Skill can be manually deactivated",
+            "skillType": 1,
+            "duration": 24,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 35,
             "maxChargeTime": 1,
             "increment": 1
           }
