@@ -36181,6 +36181,263 @@
       }
     ]
   },
+  "char_433_windft": {
+    "name": "Windflit",
+    "skills": [
+      {
+        "name": "Machine Rapport",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_windft_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack deals 160% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack deals 170% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack deals 170% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack deals 180% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack deals 180% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack deals 190% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack deals 190% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 2 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack deals 210% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack deals 230% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack deals 250% ATK as Physical damage to all ground enemies in the 8 surrounding tiles, and restores 1 SP to anyone equipped with a Reliable Battery\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 3,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Energy Rapport",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_windft_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack interval increases, ATK +70%; Talent ATK bonus increased to 1.1x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack interval increases, ATK +80%; Talent ATK bonus increased to 1.2x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack interval increases, ATK +90%; Talent ATK bonus increased to 1.3x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack interval increases, ATK +100%; Talent ATK bonus increased to 1.4x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack interval increases, ATK +110%; Talent ATK bonus increased to 1.5x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack interval increases, ATK +120%; Talent ATK bonus increased to 1.6x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack interval increases, ATK +130%; Talent ATK bonus increased to 1.7x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack interval increases, ATK +140%; Talent ATK bonus increased to 1.8x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack interval increases, ATK +150%; Talent ATK bonus increased to 1.9x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 30,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack interval increases, ATK +160%; Talent ATK bonus increased to 2x; When the skill ends, obtain 1 Reliable Battery",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 35,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_101_sora": {
     "name": "Sora",
     "skills": [
@@ -52927,6 +53184,389 @@
       }
     ]
   },
+  "char_1023_ghost2": {
+    "name": "Specter the Unchained",
+    "skills": [
+      {
+        "name": "The Skill to Survive",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ghost2_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +60%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +70%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +80%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +90%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +100%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +110%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +120%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +130%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +140%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "When activated, exchange HP percentage with the ally with the lowest HP percentage within range. Specter gains ATK +150%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "x-4",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "The Thirst to Survive",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ghost2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +40%, ASPD +10. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +50%, ASPD +14. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +60%, ASPD +18. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +70%, ASPD +22. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +80%, ASPD +26. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +90%, ASPD +30. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +100%, ASPD +34. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +110%, ASPD +38. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +120%, ASPD +44. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 19,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +130%, ASPD +50. While skill is active, prevents Specter's HP from falling below 1\nWill be defeated when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "The Pressure to Survive",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ghost2_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +130%, Max HP +100%; deal 40% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +140%, Max HP +110%; deal 40% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +160%, Max HP +120%; deal 40% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +170%, Max HP +130%; deal 50% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +180%, Max HP +140%; deal 50% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +190%, Max HP +150%; deal 50% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +200%, Max HP +160%; deal 60% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +220%, Max HP +170%; deal 70% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +240%, Max HP +190%; deal 70% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack interval increases, attacks all blocked enemies, ATK +260%, Max HP +200%; deal 70% ATK as extra Physical damage when attacking enemies with HP percentage equal to or higher than self, otherwise lose 3% of HP",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_147_shining": {
     "name": "Shining",
     "skills": [
@@ -54069,6 +54709,389 @@
             "spType": 1,
             "initSp": 0,
             "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_4042_lumen": {
+    "name": "Lumen",
+    "skills": [
+      {
+        "name": "In Drizzle, Privation",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lumen_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 25% of Lumen's ATK every second for 3 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 27% of Lumen's ATK every second for 3 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 30% of Lumen's ATK every second for 3 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 32% of Lumen's ATK every second for 4 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 35% of Lumen's ATK every second for 4 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 37% of Lumen's ATK every second for 4 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 40% of Lumen's ATK every second for 5 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 45% of Lumen's ATK every second for 5 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 50% of Lumen's ATK every second for 5 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack causes the target and nearby allies to receive healing equal to 55% of Lumen's ATK every second for 5 seconds",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "In Downpour, Grace",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lumen_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Restore HP equal to 120% ATK to 2 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 20,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Restore HP equal to 130% ATK to 2 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 20,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Restore HP equal to 140% ATK to 2 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 19,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Restore HP equal to 160% ATK to 2 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 19,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Restore HP equal to 170% ATK to 2 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 18,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Restore HP equal to 180% ATK to 2 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 18,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Restore HP equal to 200% ATK to 2 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 16,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Restore HP equal to 220% ATK to 3 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 15,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Restore HP equal to 240% ATK to 3 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 14,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Restore HP equal to 260% ATK to 3 allies within range; \nCharged effect: Remove negative statuses from targets",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 13,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "This Lantern Undying",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_lumen_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +20%, ASPD +10, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 120% of ATK, and removing negative statuses from the target. \nAttack has 3 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 65,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +23%, ASPD +10, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 130% of ATK, and removing negative statuses from the target. \nAttack has 3 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 64,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +26%, ASPD +10, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 130% of ATK, and removing negative statuses from the target. \nAttack has 4 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 63,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +30%, ASPD +20, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 140% of ATK, and removing negative statuses from the target. \nAttack has 4 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 61,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +33%, ASPD +20, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 140% of ATK, and removing negative statuses from the target. \nAttack has 5 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 60,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +36%, ASPD +20, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 150% of ATK, and removing negative statuses from the target. \nAttack has 5 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 59,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +40%, ASPD +20, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 150% of ATK, and removing negative statuses from the target. \nAttack has 6 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 57,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +45%, ASPD +30, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 170% of ATK, and removing negative statuses from the target. \nAttack has 6 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +50%, ASPD +30, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 190% of ATK, and removing negative statuses from the target. \nAttack has 7 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 53,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +55%, ASPD +30, prioritizes healing units with negative statuses; ammo is consumed if the target has a negative status, increasing healing to 200% of ATK, and removing negative statuses from the target. \nAttack has 8 ammo. Skill ends when all ammo is used (can manually deactivate skill)",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -58282,6 +59305,389 @@
             "spType": 2,
             "initSp": 20,
             "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_4009_irene": {
+    "name": "Irene",
+    "skills": [
+      {
+        "name": "Gust",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_irene_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack deals 100% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 100% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack deals 110% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 110% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack deals 120% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 120% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack deals 130% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 130% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack deals 140% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 140% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack deals 150% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 150% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 6,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack deals 160% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 160% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 5,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack deals 170% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 170% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack deals 190% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 190% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 4,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack deals 200% ATK as Physical damage, and causes the target to Levitate 1 second, then deals 200% ATK as Physical damage to it again",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 3,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Shattertide",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_irene_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Deal 280% ATK as Physical damage to up to 4 ground enemies in front, and cause targets with 3 or less Weight to Levitate 1 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Deal 290% ATK as Physical damage to up to 4 ground enemies in front, and cause targets with 3 or less Weight to Levitate 1 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Deal 300% ATK as Physical damage to up to 4 ground enemies in front, and cause targets with 3 or less Weight to Levitate 1 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Deal 310% ATK as Physical damage to up to 5 ground enemies in front, and cause targets with 3 or less Weight to Levitate 2 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Deal 320% ATK as Physical damage to up to 5 ground enemies in front, and cause targets with 3 or less Weight to Levitate 2 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Deal 330% ATK as Physical damage to up to 5 ground enemies in front, and cause targets with 3 or less Weight to Levitate 2 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Deal 340% ATK as Physical damage to up to 6 ground enemies in front, and cause targets with 3 or less Weight to Levitate 3 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Deal 360% ATK as Physical damage to up to 6 ground enemies in front, and cause targets with 3 or less Weight to Levitate 3 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 2,
+            "spCost": 9,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Deal 380% ATK as Physical damage to up to 6 ground enemies in front, and cause targets with 3 or less Weight to Levitate 3 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 4,
+            "spCost": 8,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Deal 400% ATK as Physical damage to up to 6 ground enemies in front, and cause targets with 3 or less Weight to Levitate 4 seconds\nCan store 2 charges",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "3-12",
+            "spType": 2,
+            "initSp": 6,
+            "spCost": 8,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Judgment",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_irene_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Deal 200% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 2 seconds, then bombard 8 times, each hit dealing 180% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Deal 200% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 2 seconds, then bombard 8 times, each hit dealing 190% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 4,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Deal 200% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 2 seconds, then bombard 8 times, each hit dealing 200% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 8,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Deal 250% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 2 seconds, then bombard 10 times, each hit dealing 200% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 8,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Deal 250% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 2 seconds, then bombard 10 times, each hit dealing 210% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 12,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Deal 250% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 2 seconds, then bombard 10 times, each hit dealing 220% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 16,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Deal 250% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 3 seconds, then bombard 10 times, each hit dealing 230% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 16,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Deal 300% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 3 seconds, then bombard 12 times, each hit dealing 230% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 16,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Deal 300% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 3 seconds, then bombard 12 times, each hit dealing 240% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 16,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Deal 300% ATK as Physical damage to all nearby ground enemies, and cause them to Levitate 4 seconds, then bombard 12 times, each hit dealing 250% ATK as Physical damage to all enemies in a small area around a random target",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": "x-1",
+            "spType": 2,
+            "initSp": 16,
+            "spCost": 24,
             "maxChargeTime": 1,
             "increment": 1
           }
