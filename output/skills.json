@@ -34639,6 +34639,263 @@
       }
     ]
   },
+  "char_4043_erato": {
+    "name": "Erato ",
+    "skills": [
+      {
+        "name": "Lullaby's Meter",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_erato_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack deals 190% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack deals 190% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack deals 200% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 11,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack deals 200% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack deals 200% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack deals 210% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 10,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack deals 220% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack deals 220% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack deals 230% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack deals 240% ATK as Physical damage and inflicts Sleep for 5 seconds",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Heroes' Paean",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_erato_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +25%, ASPD+25; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +27%, ASPD+25; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +29%, ASPD+25; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +31%, ASPD+30; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +33%, ASPD+30; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +35%, ASPD+30; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +38%, ASPD+40; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +41%, ASPD+40; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 13,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +45%, ASPD+40; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 14,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +50%, ASPD+50; prioritizes Sleeping enemies",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_173_slchan": {
     "name": "Cliffheart",
     "skills": [
