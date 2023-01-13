@@ -6494,7 +6494,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "ATK +30%; The Talent becomes 2.1 times as effective",
+            "description": "ATK +30% and the effect of this unit's first Talent increases to 2.1 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -6506,7 +6506,7 @@
           },
           {
             "level": "2",
-            "description": "ATK +30%; The Talent becomes 2.2 times as effective",
+            "description": "ATK +30% and the effect of this unit's first Talent increases to 2.2 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -6518,7 +6518,7 @@
           },
           {
             "level": "3",
-            "description": "ATK +30%; The Talent becomes 2.3 times as effective",
+            "description": "ATK +30% and the effect of this unit's first Talent increases to 2.3 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -6530,7 +6530,7 @@
           },
           {
             "level": "4",
-            "description": "ATK +40%; The Talent becomes 2.4 times as effective",
+            "description": "ATK +40% and the effect of this unit's first Talent increases to 2.4 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -6542,7 +6542,7 @@
           },
           {
             "level": "5",
-            "description": "ATK +40%; The Talent becomes 2.5 times as effective",
+            "description": "ATK +40% and the effect of this unit's first Talent increases to 2.5 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -6554,7 +6554,7 @@
           },
           {
             "level": "6",
-            "description": "ATK +40%; The Talent becomes 2.6 times as effective",
+            "description": "ATK +40% and the effect of this unit's first Talent increases to 2.6 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -6566,7 +6566,7 @@
           },
           {
             "level": "7",
-            "description": "ATK +50%; The Talent becomes 2.7 times as effective",
+            "description": "ATK +50% and the effect of this unit's first Talent increases to 2.7 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -6578,7 +6578,7 @@
           },
           {
             "level": "M1",
-            "description": "ATK +60%; The Talent becomes 2.8 times as effective",
+            "description": "ATK +60% and the effect of this unit's first Talent increases to 2.8 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -6590,7 +6590,7 @@
           },
           {
             "level": "M2",
-            "description": "ATK +70%; The Talent becomes 2.9 times as effective",
+            "description": "ATK +70% and the effect of this unit's first Talent increases to 2.9 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -6602,7 +6602,7 @@
           },
           {
             "level": "M3",
-            "description": "ATK +80%; The Talent becomes 3 times as effective",
+            "description": "ATK +80% and the effect of this unit's first Talent increases to 3 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -16125,6 +16125,263 @@
       }
     ]
   },
+  "char_497_ctable": {
+    "name": "Cantabile",
+    "skills": [
+      {
+        "name": "Penetrating Gaze",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ctable_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "After deployment, ATK +35%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "After deployment, ATK +40%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "After deployment, ATK +45%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 13,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "After deployment, ATK +50%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 14,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "After deployment, ATK +55%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 15,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "After deployment, ATK +60%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 16,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "After deployment, ATK +70%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 17,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "After deployment, ATK +80%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 18,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "After deployment, ATK +90%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 19,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "After deployment, ATK +100%. Generates 1 DP after each attack",
+            "skillType": 0,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 8,
+            "initSp": 0,
+            "spCost": 0,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Specular Reflection",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ctable_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +10%, ASPD +10, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 13 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +13%, ASPD +14, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 13 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +16%, ASPD +18, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 13 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +19%, ASPD +22, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 14 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +22%, ASPD +26, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 14 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +25%, ASPD +30, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 14 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +28%, ASPD +34, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 15 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +32%, ASPD +38, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 16 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +36%, ASPD +44, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 17 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 26,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +40%, ASPD +50, gains Camouflage. Generates 1 DP after each attack. \nSkill activation grants 18 ammo and the skill ends when all ammo is used (Can manually deactivate skill)",
+            "skillType": 1,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_308_swire": {
     "name": "Swire",
     "skills": [
@@ -16134,7 +16391,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "The effect range of Talent expands and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands and the effect increases to 2 times",
             "skillType": 1,
             "duration": 15,
             "rangeId": "x-1",
@@ -16146,7 +16403,7 @@
           },
           {
             "level": "2",
-            "description": "The effect range of Talent expands and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands and the effect increases to 2 times",
             "skillType": 1,
             "duration": 17,
             "rangeId": "x-1",
@@ -16158,7 +16415,7 @@
           },
           {
             "level": "3",
-            "description": "The effect range of Talent expands and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands and the effect increases to 2 times",
             "skillType": 1,
             "duration": 19,
             "rangeId": "x-1",
@@ -16170,7 +16427,7 @@
           },
           {
             "level": "4",
-            "description": "The effect range of Talent expands and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands and the effect increases to 2 times",
             "skillType": 1,
             "duration": 21,
             "rangeId": "x-1",
@@ -16182,7 +16439,7 @@
           },
           {
             "level": "5",
-            "description": "The effect range of Talent expands and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands and the effect increases to 2 times",
             "skillType": 1,
             "duration": 23,
             "rangeId": "x-1",
@@ -16194,7 +16451,7 @@
           },
           {
             "level": "6",
-            "description": "The effect range of Talent expands and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands and the effect increases to 2 times",
             "skillType": 1,
             "duration": 25,
             "rangeId": "x-1",
@@ -16206,7 +16463,7 @@
           },
           {
             "level": "7",
-            "description": "The effect range of Talent expands significantly and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands significantly and the effect increases to 2 times",
             "skillType": 1,
             "duration": 27,
             "rangeId": "x-2",
@@ -16218,7 +16475,7 @@
           },
           {
             "level": "M1",
-            "description": "The effect range of Talent expands significantly and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands significantly and the effect increases to 2 times",
             "skillType": 1,
             "duration": 29,
             "rangeId": "x-2",
@@ -16230,7 +16487,7 @@
           },
           {
             "level": "M2",
-            "description": "The effect range of Talent expands significantly and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands significantly and the effect increases to 2 times",
             "skillType": 1,
             "duration": 31,
             "rangeId": "x-2",
@@ -16242,7 +16499,7 @@
           },
           {
             "level": "M3",
-            "description": "The effect range of Talent expands significantly and the Talent is 2 times as effective",
+            "description": "The effect range of this unit's first Talent expands significantly and the effect increases to 2 times",
             "skillType": 1,
             "duration": 35,
             "rangeId": "x-2",
@@ -16260,7 +16517,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "ATK +30%; The Talent is 2.1 times as effective",
+            "description": "ATK +30% and the effect of this unit's first Talent increases to 2.1 times",
             "skillType": 1,
             "duration": 15,
             "rangeId": null,
@@ -16272,7 +16529,7 @@
           },
           {
             "level": "2",
-            "description": "ATK +30%; The Talent is 2.2 times as effective",
+            "description": "ATK +30% and the effect of this unit's first Talent increases to 2.2 times",
             "skillType": 1,
             "duration": 15,
             "rangeId": null,
@@ -16284,7 +16541,7 @@
           },
           {
             "level": "3",
-            "description": "ATK +30%; The Talent is 2.3 times as effective",
+            "description": "ATK +30% and the effect of this unit's first Talent increases to 2.3 times",
             "skillType": 1,
             "duration": 15,
             "rangeId": null,
@@ -16296,7 +16553,7 @@
           },
           {
             "level": "4",
-            "description": "ATK +40%; The Talent is 2.4 times as effective",
+            "description": "ATK +40% and the effect of this unit's first Talent increases to 2.4 times",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -16308,7 +16565,7 @@
           },
           {
             "level": "5",
-            "description": "ATK +40%; The Talent is 2.5 times as effective",
+            "description": "ATK +40% and the effect of this unit's first Talent increases to 2.5 times",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -16320,7 +16577,7 @@
           },
           {
             "level": "6",
-            "description": "ATK +40%; The Talent is 2.6 times as effective",
+            "description": "ATK +40% and the effect of this unit's first Talent increases to 2.6 times",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -16332,7 +16589,7 @@
           },
           {
             "level": "7",
-            "description": "ATK +50%; The Talent is 2.7 times as effective",
+            "description": "ATK +50% and the effect of this unit's first Talent increases to 2.7 times",
             "skillType": 1,
             "duration": 21,
             "rangeId": null,
@@ -16344,7 +16601,7 @@
           },
           {
             "level": "M1",
-            "description": "ATK +60%; The Talent is 2.8 times as effective",
+            "description": "ATK +60% and the effect of this unit's first Talent increases to 2.8 times",
             "skillType": 1,
             "duration": 23,
             "rangeId": null,
@@ -16356,7 +16613,7 @@
           },
           {
             "level": "M2",
-            "description": "ATK +70%; The Talent is 2.9 times as effective",
+            "description": "ATK +70% and the effect of this unit's first Talent increases to 2.9 times",
             "skillType": 1,
             "duration": 26,
             "rangeId": null,
@@ -16368,7 +16625,7 @@
           },
           {
             "level": "M3",
-            "description": "ATK +80%; The Talent is 3 times as effective",
+            "description": "ATK +80% and the effect of this unit's first Talent increases to 3 times",
             "skillType": 1,
             "duration": 30,
             "rangeId": null,
@@ -16391,7 +16648,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Talent effect increases to 2.1 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 2.1 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 15,
             "rangeId": null,
@@ -16403,7 +16660,7 @@
           },
           {
             "level": "2",
-            "description": "Talent effect increases to 2.2 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 2.2 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 15,
             "rangeId": null,
@@ -16415,7 +16672,7 @@
           },
           {
             "level": "3",
-            "description": "Talent effect increases to 2.3 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 2.3 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 15,
             "rangeId": null,
@@ -16427,7 +16684,7 @@
           },
           {
             "level": "4",
-            "description": "Talent effect increases to 2.4 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 2.4 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 16,
             "rangeId": null,
@@ -16439,7 +16696,7 @@
           },
           {
             "level": "5",
-            "description": "Talent effect increases to 2.5 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 2.5 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 16,
             "rangeId": null,
@@ -16451,7 +16708,7 @@
           },
           {
             "level": "6",
-            "description": "Talent effect increases to 2.6 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 2.6 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 16,
             "rangeId": null,
@@ -16463,7 +16720,7 @@
           },
           {
             "level": "7",
-            "description": "Talent effect increases to 2.7 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 2.7 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 17,
             "rangeId": null,
@@ -16475,7 +16732,7 @@
           },
           {
             "level": "M1",
-            "description": "Talent effect increases to 2.8 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 2.8 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 18,
             "rangeId": null,
@@ -16487,7 +16744,7 @@
           },
           {
             "level": "M2",
-            "description": "Talent effect increases to 2.9 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 2.9 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 19,
             "rangeId": null,
@@ -16499,7 +16756,7 @@
           },
           {
             "level": "M3",
-            "description": "Talent effect increases to 3 and Melee Operators with less than 3 Block gain half the effect",
+            "description": "The effect of this unit's first Talent increases to 3 times and Melee Operators with less than 3 Block gain half the effect",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -16517,7 +16774,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Talent effect increases to 1.1, ATK +25%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 1.1 times; ATK +25%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -16529,7 +16786,7 @@
           },
           {
             "level": "2",
-            "description": "Talent effect increases to 1.2, ATK +25%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 1.2 times; ATK +25%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -16541,7 +16798,7 @@
           },
           {
             "level": "3",
-            "description": "Talent effect increases to 1.3, ATK +25%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 1.3 times; ATK +25%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 20,
             "rangeId": null,
@@ -16553,7 +16810,7 @@
           },
           {
             "level": "4",
-            "description": "Talent effect increases to 1.4, ATK +30%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 1.4 times; ATK +30%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 21,
             "rangeId": null,
@@ -16565,7 +16822,7 @@
           },
           {
             "level": "5",
-            "description": "Talent effect increases to 1.5, ATK +30%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 1.5 times; ATK +30%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 21,
             "rangeId": null,
@@ -16577,7 +16834,7 @@
           },
           {
             "level": "6",
-            "description": "Talent effect increases to 1.6, ATK +30%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 1.6 times; ATK +30%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 21,
             "rangeId": null,
@@ -16589,7 +16846,7 @@
           },
           {
             "level": "7",
-            "description": "Talent effect increases to 1.7, ATK +35%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 1.7 times; ATK +35%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 22,
             "rangeId": null,
@@ -16601,7 +16858,7 @@
           },
           {
             "level": "M1",
-            "description": "Talent effect increases to 1.8, ATK +40%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 1.8 times; ATK +40%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 23,
             "rangeId": null,
@@ -16613,7 +16870,7 @@
           },
           {
             "level": "M2",
-            "description": "Talent effect increases to 1.9, ATK +50%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 1.9 times; ATK +50%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 24,
             "rangeId": null,
@@ -16625,7 +16882,7 @@
           },
           {
             "level": "M3",
-            "description": "Talent effect increases to 2, ATK +60%, attack range +1, Block +1 and attack all blocked targets",
+            "description": "The effect of this unit's first Talent increases to 2 times; ATK +60%, Attack Range +1, Block +1 and attacks all blocked enemies",
             "skillType": 1,
             "duration": 25,
             "rangeId": null,
@@ -26667,6 +26924,263 @@
       }
     ]
   },
+  "char_4054_malist": {
+    "name": "Minimalist",
+    "skills": [
+      {
+        "name": "Swift Strike γ",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[3].png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +20%; ASPD +20",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +22%; ASPD +20",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +24%; ASPD +20",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +27%; ASPD +25",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +29%; ASPD +25",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +31%; ASPD +25",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +34%; ASPD +35",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +37%; ASPD +35",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +40%; ASPD +35",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +45%; ASPD +45",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Prodigious Craftsmanship",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_malist_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "The next attack deals 110% ATK as Arts damage and attacks twice consecutively\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "The next attack deals 120% ATK as Arts damage and attacks twice consecutively\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "The next attack deals 130% ATK as Arts damage and attacks twice consecutively\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 1,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "The next attack deals 130% ATK as Arts damage and attacks twice consecutively\nCan store 2 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 1,
+            "spCost": 7,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "The next attack deals 140% ATK as Arts damage and attacks twice consecutively\nCan store 2 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 2,
+            "spCost": 7,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "The next attack deals 150% ATK as Arts damage and attacks twice consecutively\nCan store 2 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 2,
+            "spCost": 7,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "The next attack deals 160% ATK as Arts damage and attacks twice consecutively\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 2,
+            "spCost": 6,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "The next attack deals 170% ATK as Arts damage and attacks twice consecutively\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 6,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "The next attack deals 180% ATK as Arts damage and attacks twice consecutively\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 5,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "The next attack deals 200% ATK as Arts damage and attacks twice consecutively\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 5,
+            "maxChargeTime": 3,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_242_otter": {
     "name": "Mayer",
     "skills": [
@@ -29361,6 +29875,263 @@
             "spType": 1,
             "initSp": 20,
             "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_1024_hbisc2": {
+    "name": "Hibiscus the Purifier",
+    "skills": [
+      {
+        "name": "ATK Up γ",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_atk_up[3].png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +30%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +35%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +40%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +45%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +50%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +55%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +60%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +75%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +90%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +100%",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Nurturing Touch",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_hbisc2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -25% and deals 80% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -25% and deals 90% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -25% and deals 100% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -30% and deals 110% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -30% and deals 120% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -30% and deals 130% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -35% and deals 140% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -40% and deals 150% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -40% and deals 160% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Reduces the Movement Speed of 2 enemies within range by -45% and deals 170% ATK as Arts damage to them per second",
+            "skillType": 1,
+            "duration": 8,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 18,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -32583,6 +33354,263 @@
       }
     ]
   },
+  "char_4047_pianst": {
+    "name": "Czerny",
+    "skills": [
+      {
+        "name": "Fingerfertigkeit",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pianst_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +20% and RES +50%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +25% and RES +55%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 2,
+            "spCost": 49,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +30% and RES +60%",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 4,
+            "spCost": 48,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +35% and RES +65%",
+            "skillType": 1,
+            "duration": 27,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 46,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +40% and RES +70%",
+            "skillType": 1,
+            "duration": 27,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +45% and RES +75%",
+            "skillType": 1,
+            "duration": 27,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +50% and RES +80%",
+            "skillType": 1,
+            "duration": 29,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +60% and RES +85%",
+            "skillType": 1,
+            "duration": 31,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 16,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +70% and RES +90%",
+            "skillType": 1,
+            "duration": 33,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +80% and RES +100%",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Meisterwerk",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_pianst_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Max HP +30% and becomes more likely to be attacked. For every attack taken, increases ATK by +16% (up to 10 times), then deals 150% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Max HP +35% and becomes more likely to be attacked. For every attack taken, increases ATK by +17% (up to 10 times), then deals 150% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Max HP +40% and becomes more likely to be attacked. For every attack taken, increases ATK by +18% (up to 10 times), then deals 150% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Max HP +50% and becomes more likely to be attacked. For every attack taken, increases ATK by +20% (up to 10 times), then deals 170% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Max HP +55% and becomes more likely to be attacked. For every attack taken, increases ATK by +21% (up to 10 times), then deals 170% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 36,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Max HP +60% and becomes more likely to be attacked. For every attack taken, increases ATK by +22% (up to 10 times), then deals 170% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Max HP +70% and becomes more likely to be attacked. For every attack taken, increases ATK by +24% (up to 10 times), then deals 190% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 34,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Max HP +80% and becomes more likely to be attacked. For every attack taken, increases ATK by +26% (up to 10 times), then deals 210% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 33,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Max HP +90% and becomes more likely to be attacked. For every attack taken, increases ATK by +28% (up to 10 times), then deals 230% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Max HP +100% and becomes more likely to be attacked. For every attack taken, increases ATK by +30% (up to 10 times), then deals 250% ATK as Arts damage to all nearby enemies when the skill ends",
+            "skillType": 1,
+            "duration": 20,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_457_blitz": {
     "name": "Blitz",
     "skills": [
@@ -34640,7 +35668,7 @@
     ]
   },
   "char_4043_erato": {
-    "name": "Erato ",
+    "name": "Erato",
     "skills": [
       {
         "name": "Lullaby's Meter",
@@ -41568,6 +42596,389 @@
       }
     ]
   },
+  "char_4055_bgsnow": {
+    "name": "Pozëmka",
+    "skills": [
+      {
+        "name": "Iamb",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bgsnow_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +20%; When attacking, has a 30% chance to deal 130% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 32,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +25%; When attacking, has a 30% chance to deal 140% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 31,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +30%; When attacking, has a 30% chance to deal 140% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +35%; When attacking, has a 30% chance to deal 150% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 29,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +40%; When attacking, has a 30% chance to deal 150% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 28,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +45%; When attacking, has a 30% chance to deal 160% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 27,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +50%; When attacking, has a 30% chance to deal 160% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +53%; When attacking, has a 30% chance to deal 190% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +56%; When attacking, has a 40% chance to deal 200% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +60%; When attacking, has a 40% chance to deal 230% damage \nUnlimited duration",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 2,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Précis",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bgsnow_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 70%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 160% ATK as Physical damage\nCan store 1 charge",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 70%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 170% ATK as Physical damage\nCan store 1 charge",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 70%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 170% ATK as Physical damage\nCan store 1 charge",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 65%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 180% ATK as Physical damage\nCan store 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 11,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 65%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 190% ATK as Physical damage\nCan store 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 3,
+            "spCost": 11,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 65%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 190% ATK as Physical damage\nCan store 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 11,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 60%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 200% ATK as Physical damage\nCan store 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 10,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 60%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 210% ATK as Physical damage\nCan store 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 10,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 60%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 220% ATK as Physical damage\nCan store 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 10,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive Effect: When this skill is equipped, the Redeployment Time of 'Typewriter' is reduced to 50%\nActive Effect: Immediately attacks 3 times in front of this unit, with each attack dealing 230% ATK as Physical damage\nCan store 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 9,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Opprobrium",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_bgsnow_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 140% damage (Increased to 160% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 150% damage (Increased to 170% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 150% damage (Increased to 180% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 160% damage (Increased to 190% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 160% damage (Increased to 200% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 170% damage (Increased to 200% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 26,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 170% damage (Increased to 220% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 27,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 19,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 180% damage (Increased to 230% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 28,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 190% damage (Increased to 240% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 29,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 22,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range expands, Attack Interval is reduced, and each attack deals 200% damage (Increased to 250% against enemies in the front 3 tiles)",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "3-1",
+            "spType": 1,
+            "initSp": 23,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_430_fartth": {
     "name": "Fartooth",
     "skills": [
@@ -47705,7 +49116,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Increases the ATK of the next attack to 150%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 150%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -47717,7 +49128,7 @@
           },
           {
             "level": "2",
-            "description": "Increases the ATK of the next attack to 160%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 160%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -47729,7 +49140,7 @@
           },
           {
             "level": "3",
-            "description": "Increases the ATK of the next attack to 170%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 170%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -47741,7 +49152,7 @@
           },
           {
             "level": "4",
-            "description": "Increases the ATK of the next attack to 180%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 180%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -47753,7 +49164,7 @@
           },
           {
             "level": "5",
-            "description": "Increases the ATK of the next attack to 190%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 190%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -47765,7 +49176,7 @@
           },
           {
             "level": "6",
-            "description": "Increases the ATK of the next attack to 200%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 200%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -47777,7 +49188,7 @@
           },
           {
             "level": "7",
-            "description": "Increases the ATK of the next attack to 210%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 210%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -47789,7 +49200,7 @@
           },
           {
             "level": "M1",
-            "description": "Increases the ATK of the next attack to 220%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 220%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -47801,7 +49212,7 @@
           },
           {
             "level": "M2",
-            "description": "Increases the ATK of the next attack to 230%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 230%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -47813,7 +49224,7 @@
           },
           {
             "level": "M3",
-            "description": "Increases the ATK of the next attack to 250%; The attack will jump between 4 enemies and the duration of the Slow is increased to 1.5 seconds",
+            "description": "Increases the ATK of the next attack to 250%; The attack will jump between at most 4 enemies and the duration of the Slow is increased to 1.5 seconds",
             "skillType": 2,
             "duration": -1,
             "rangeId": null,
@@ -48838,6 +50249,389 @@
             "spType": 1,
             "initSp": 17,
             "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_4046_ebnhlz": {
+    "name": "Ebenholz",
+    "skills": [
+      {
+        "name": "Quickening Presto",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ebnhlz_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack range changes, attack interval is significantly reduced , and each attack deals 30% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack range changes, attack interval is significantly reduced , and each attack deals 31% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack range changes, attack interval is significantly reduced , and each attack deals 32% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack range changes, attack interval is significantly reduced , and each attack deals 35% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack range changes, attack interval is significantly reduced , and each attack deals 36% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack range changes, attack interval is significantly reduced , and each attack deals 37% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack range changes, attack interval is significantly reduced , and each attack deals 40% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range changes, Attack Interval is massively reduced, and each attack deals 43% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range changes, Attack Interval is massively reduced, and each attack deals 46% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range changes, Attack Interval is massively reduced, and each attack deals 50% ATK as Arts damage",
+            "skillType": 1,
+            "duration": 5,
+            "rangeId": "4-1",
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Desolate Echoes",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ebnhlz_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 140% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 150% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 160% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 170% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 180% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 190% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 200% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 220% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 230% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Expends all stored attack charges and summons stored attack charges +1 Old Day Remnants on deployable tiles within Attack Range (lasts for 30 seconds). The Remnants activate when enemies approach, each dealing 250% ATK as Arts damage to nearby enemies and dragging them towards itself moderately",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 13,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Sound of Silence",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_ebnhlz_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ASPD +40, ATK +35% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 110% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ASPD +50, ATK +38% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 120% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ASPD +50, ATK +40% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 120% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ASPD +50, ATK +43% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 120% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 6,
+            "spCost": 24,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ASPD +60, ATK +45% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 130% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ASPD +60, ATK +48% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 130% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 7,
+            "spCost": 23,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ASPD +60, ATK +50% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 130% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 8,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ASPD +70, ATK +55% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 130% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ASPD +70, ATK +60% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 140% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 9,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ASPD +80, ATK +65% and only targets elite or boss enemies. The damage boosting effect of this unit's first Talent increases to 140% of the original\nCan manually deactivate skill at will",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 20,
             "maxChargeTime": 1,
             "increment": 1
           }
@@ -60324,6 +62118,389 @@
             "description": "Upon skill activation, ATK and DEF gradually increases to +80%, and attacks slice all enemies in front of this unit. When this skill ends, this unit loses 25% HP and deals 400% ATK as Physical damage to all surrounding enemies",
             "skillType": 1,
             "duration": 10,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_1026_gvial2": {
+    "name": "Gavial the Invincible",
+    "skills": [
+      {
+        "name": "Precise Thrashing",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gvial2_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +30%, each attack restores HP to this unit equal to 25% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +35%, each attack restores HP to this unit equal to 25% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +40%, each attack restores HP to this unit equal to 25% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +45%, each attack restores HP to this unit equal to 30% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +50%, each attack restores HP to this unit equal to 30% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +55%, each attack restores HP to this unit equal to 30% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +60%, each attack restores HP to this unit equal to 35% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +65%, each attack restores HP to this unit equal to 35% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +70%, each attack restores HP to this unit equal to 35% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +80%, each attack restores HP to this unit equal to 40% of the damage dealt",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 25,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Chainsaw Assault",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gvial2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range expands, ATK +80%, DEF +30%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 30,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range expands, ATK +90%, DEF +30%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 31,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range expands, ATK +100%, DEF +30%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 32,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range expands, ATK +110%, DEF +35%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 33,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range expands, ATK +120%, DEF +35%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 34,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range expands, ATK +130%, DEF +35%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range expands, ATK +140%, DEF +40%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 36,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range expands, ATK +150%, DEF +40%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 37,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range expands, ATK +170%, DEF +40%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 38,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range expands, ATK +180%, DEF +50%; When attacking unblocked enemies, pulls them towards this unit moderately",
+            "skillType": 1,
+            "duration": 40,
+            "rangeId": "2-5",
+            "spType": 1,
+            "initSp": 25,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Soul of the Jungle",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_gvial2_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +70%, ASPD +40, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +75%, ASPD +40, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +80%, ASPD +40, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +85%, ASPD +60, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +90%, ASPD +60, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +95%, ASPD +60, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +100%, ASPD +80, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 21,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +110%, ASPD +80, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 22,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +120%, ASPD +80, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 23,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +140%, ASPD +100, Block +2; While this skill is active, this unit only takes 50% of incoming damage, with the remaining amount dealt as HP loss over 20 seconds after this skill ends",
+            "skillType": 1,
+            "duration": 25,
             "rangeId": null,
             "spType": 1,
             "initSp": 25,
