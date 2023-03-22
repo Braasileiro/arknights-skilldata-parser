@@ -704,6 +704,10 @@
       }
     ]
   },
+  "char_514_rdfend": {
+    "name": "Reserve Operator - Defender",
+    "skills": []
+  },
   "char_284_spot": {
     "name": "Spot",
     "skills": [
@@ -24868,6 +24872,263 @@
       }
     ]
   },
+  "char_135_halo": {
+    "name": "Astgenne",
+    "skills": [
+      {
+        "name": "Double Diversion",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_halo_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Increases the ATK of the next attack to 100%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Increases the ATK of the next attack to 110%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Increases the ATK of the next attack to 110%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 9,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Increases the ATK of the next attack to 110%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Increases the ATK of the next attack to 110%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Increases the ATK of the next attack to 110%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 1 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Increases the ATK of the next attack to 110%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 2 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Increases the ATK of the next attack to 110%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Increases the ATK of the next attack to 120%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 8,
+            "maxChargeTime": 3,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Increases the ATK of the next attack to 130%; The attack will target 2 targets, and each attack will jump between at most 4 enemies\nCan store 3 charges",
+            "skillType": 2,
+            "duration": 0,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 7,
+            "maxChargeTime": 3,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Starlight Intersection",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_halo_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Attack Range expands, ATK +12%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Attack Range expands, ATK +14%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 11,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Attack Range expands, ATK +16%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 12,
+            "spCost": 55,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Attack Range expands, ATK +18%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 13,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Attack Range expands, ATK +20%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 14,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Attack Range expands, ATK +22%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 50,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Attack Range expands, ATK +25%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 16,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Attack Range expands, ATK +30%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 17,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Attack Range expands, ATK +35%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 18,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Attack Range expands, ATK +40%, and attack up to 2 targets simultaneously",
+            "skillType": 1,
+            "duration": 25,
+            "rangeId": "3-3",
+            "spType": 1,
+            "initSp": 20,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_344_beewax": {
     "name": "Beeswax",
     "skills": [
@@ -35924,6 +36185,263 @@
       }
     ]
   },
+  "char_1027_greyy2": {
+    "name": "Greyy the Lightningbearer",
+    "skills": [
+      {
+        "name": "Swift Strike γ",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skcom_quickattack[3].png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "ATK +20%; ASPD +20",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 45,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "ATK +22%; ASPD +20",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 44,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "ATK +24%; ASPD +20",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 43,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "ATK +27%; ASPD +25",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 42,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "ATK +29%; ASPD +25",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 41,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "ATK +31%; ASPD +25",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 5,
+            "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "ATK +34%; ASPD +35",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 39,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "ATK +37%; ASPD +35",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 38,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "ATK +40%; ASPD +35",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 10,
+            "spCost": 37,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "ATK +45%; ASPD +45",
+            "skillType": 1,
+            "duration": 35,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 15,
+            "spCost": 35,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Beacon of Dawn",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_greyy2_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Fires a lightning ball towards the target's position that lasts for 6 seconds. Every 1.5 seconds, the lightning ball deals 80% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.4 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Fires a lightning ball towards the target's position that lasts for 6 seconds. Every 1.5 seconds, the lightning ball deals 85% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.4 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Fires a lightning ball towards the target's position that lasts for 6 seconds. Every 1.5 seconds, the lightning ball deals 90% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.4 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Fires a lightning ball towards the target's position that lasts for 8 seconds. Every 1.5 seconds, the lightning ball deals 95% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.4 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Fires a lightning ball towards the target's position that lasts for 8 seconds. Every 1.5 seconds, the lightning ball deals 100% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.4 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Fires a lightning ball towards the target's position that lasts for 8 seconds. Every 1.5 seconds, the lightning ball deals 110% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.4 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 30,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Fires a lightning ball towards the target's position that lasts for 10 seconds. Every 1.5 seconds, the lightning ball deals 110% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.4 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 29,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Fires a lightning ball towards the target's position that lasts for 10 seconds. Every 1.5 seconds, the lightning ball deals 120% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.4 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 28,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Fires a lightning ball towards the target's position that lasts for 10 seconds. Every 1.5 seconds, the lightning ball deals 130% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.5 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 27,
+            "maxChargeTime": 2,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Fires a lightning ball towards the target's position that lasts for 12 seconds. Every 1.5 seconds, the lightning ball deals 130% ATK as Arts damage to all nearby enemies and has 40% chance to Slow them for 1.6 seconds\nCan hold 2 charges",
+            "skillType": 1,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 25,
+            "maxChargeTime": 2,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
   "char_173_slchan": {
     "name": "Cliffheart",
     "skills": [
@@ -46178,7 +46696,7 @@
         "levels": [
           {
             "level": "1",
-            "description": "Instantly generates 4 DP; Deals 250% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 1 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 250% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 1 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -46190,7 +46708,7 @@
           },
           {
             "level": "2",
-            "description": "Instantly generates 4 DP; Deals 260% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 1 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 260% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 1 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -46202,7 +46720,7 @@
           },
           {
             "level": "3",
-            "description": "Instantly generates 4 DP; Deals 270% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 1 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 270% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 1 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -46214,7 +46732,7 @@
           },
           {
             "level": "4",
-            "description": "Instantly generates 4 DP; Deals 280% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 2 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 280% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 2 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -46226,7 +46744,7 @@
           },
           {
             "level": "5",
-            "description": "Instantly generates 4 DP; Deals 290% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 2 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 290% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 2 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -46238,7 +46756,7 @@
           },
           {
             "level": "6",
-            "description": "Instantly generates 4 DP; Deals 300% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 2 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 300% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 2 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -46250,7 +46768,7 @@
           },
           {
             "level": "7",
-            "description": "Instantly generates 4 DP; Deals 320% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 2 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 320% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 2 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -46262,7 +46780,7 @@
           },
           {
             "level": "M1",
-            "description": "Instantly generates 4 DP; Deals 340% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 3 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 340% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 3 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -46274,7 +46792,7 @@
           },
           {
             "level": "M2",
-            "description": "Instantly generates 4 DP; Deals 370% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 3 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 370% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 3 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -46286,7 +46804,7 @@
           },
           {
             "level": "M3",
-            "description": "Instantly generates 4 DP; Deals 400% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are [Critically Wounded]. Can store 3 charge(s)",
+            "description": "Instantly generates 4 DP; Deals 400% ATK as Physical damage to at most 6 ground enemies within a cross area, then eliminates any of the enemies that are Critically Wounded. Can store 3 charge(s)",
             "skillType": 1,
             "duration": 0,
             "rangeId": "x-6",
@@ -55611,6 +56129,389 @@
             "spType": 1,
             "initSp": 25,
             "spCost": 40,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      }
+    ]
+  },
+  "char_4048_doroth": {
+    "name": "Dorothy",
+    "skills": [
+      {
+        "name": "Dangerous Entity Removal",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_doroth_1.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive Effect: When a trap is triggered, deals 300% ATK as Physical damage and inflicts -25% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive Effect: When a trap is triggered, deals 310% ATK as Physical damage and inflicts -25% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive Effect: When a trap is triggered, deals 320% ATK as Physical damage and inflicts -25% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive Effect: When a trap is triggered, deals 330% ATK as Physical damage and inflicts -25% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive Effect: When a trap is triggered, deals 350% ATK as Physical damage and inflicts -25% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive Effect: When a trap is triggered, deals 360% ATK as Physical damage and inflicts -25% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive Effect: When a trap is triggered, deals 370% ATK as Physical damage and inflicts -30% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive Effect: When a trap is triggered, deals 390% ATK as Physical damage and inflicts -32% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive Effect: When a trap is triggered, deals 420% ATK as Physical damage and inflicts -33% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive Effect: When a trap is triggered, deals 450% ATK as Physical damage and inflicts -35% DEF to the target for 5 seconds\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "Quicksand Generation",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_doroth_2.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive Effect: When a trap is triggered, deals 200% ATK as Physical damage to all nearby enemies and Binds them for 2 seconds. If the trap hits only 1 target, Binds them for 3.5 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 2,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive Effect: When a trap is triggered, deals 210% ATK as Physical damage to all nearby enemies and Binds them for 2 seconds. If the trap hits only 1 target, Binds them for 3.5 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 2,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive Effect: When a trap is triggered, deals 220% ATK as Physical damage to all nearby enemies and Binds them for 2 seconds. If the trap hits only 1 target, Binds them for 3.5 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 2,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive Effect: When a trap is triggered, deals 230% ATK as Physical damage to all nearby enemies and Binds them for 2 seconds. If the trap hits only 1 target, Binds them for 3.5 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 2,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive Effect: When a trap is triggered, deals 240% ATK as Physical damage to all nearby enemies and Binds them for 2 seconds. If the trap hits only 1 target, Binds them for 3.5 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 2,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive Effect: When a trap is triggered, deals 250% ATK as Physical damage to all nearby enemies and Binds them for 2 seconds. If the trap hits only 1 target, Binds them for 3.5 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 2,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive Effect: When a trap is triggered, deals 260% ATK as Physical damage to all nearby enemies and Binds them for 2.5 seconds. If the trap hits only 1 target, Binds them for 5 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 2.5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive Effect: When a trap is triggered, deals 270% ATK as Physical damage to all nearby enemies and Binds them for 3 seconds. If the trap hits only 1 target, Binds them for 5 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 3,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive Effect: When a trap is triggered, deals 280% ATK as Physical damage to all nearby enemies and Binds them for 3 seconds. If the trap hits only 1 target, Binds them for 5.5 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 3,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive Effect: When a trap is triggered, deals 300% ATK as Physical damage to all nearby enemies and Binds them for 3.5 seconds. If the trap hits only 1 target, Binds them for 6 seconds instead\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": 3.5,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
+            "maxChargeTime": 1,
+            "increment": 1
+          }
+        ]
+      },
+      {
+        "name": "High-speed Resonating Troubleshooter",
+        "icon": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/skills/skill_icon_skchr_doroth_3.png",
+        "levels": [
+          {
+            "level": "1",
+            "description": "Passive Effect: When a trap is triggered, deals 200% ATK as Arts damage to all enemies in range and Slows them for 3 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 22,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "2",
+            "description": "Passive Effect: When a trap is triggered, deals 210% ATK as Arts damage to all enemies in range and Slows them for 3 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 21,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "3",
+            "description": "Passive Effect: When a trap is triggered, deals 230% ATK as Arts damage to all enemies in range and Slows them for 3 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 20,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "4",
+            "description": "Passive Effect: When a trap is triggered, deals 250% ATK as Arts damage to all enemies in range and Slows them for 3 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 19,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "5",
+            "description": "Passive Effect: When a trap is triggered, deals 260% ATK as Arts damage to all enemies in range and Slows them for 3 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 18,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "6",
+            "description": "Passive Effect: When a trap is triggered, deals 270% ATK as Arts damage to all enemies in range and Slows them for 3 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 17,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "7",
+            "description": "Passive Effect: When a trap is triggered, deals 280% ATK as Arts damage to all enemies in range and Slows them for 3.5 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 16,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M1",
+            "description": "Passive Effect: When a trap is triggered, deals 300% ATK as Arts damage to all enemies in range and Slows them for 4 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 15,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M2",
+            "description": "Passive Effect: When a trap is triggered, deals 320% ATK as Arts damage to all enemies in range and Slows them for 4.5 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 14,
+            "maxChargeTime": 1,
+            "increment": 1
+          },
+          {
+            "level": "M3",
+            "description": "Passive Effect: When a trap is triggered, deals 350% ATK as Arts damage to all enemies in range and Slows them for 5 seconds. After a delay, trigger other Resonators within range\nActive Effect: Immediately gain 1 trap",
+            "skillType": 2,
+            "duration": -1,
+            "rangeId": null,
+            "spType": 1,
+            "initSp": 0,
+            "spCost": 12,
             "maxChargeTime": 1,
             "increment": 1
           }
