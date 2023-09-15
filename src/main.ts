@@ -151,6 +151,8 @@ function getDescription(text: string, blackboard: Array<any>, duration: number) 
         result = result.replace(/<\$ba.debuff>/gi, EMPTY_STRING);
         result = result.replace(/<\$ba.levitate>/gi, EMPTY_STRING);
         result = result.replace(/<\$ba.dying>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.barrier>/gi, EMPTY_STRING);
+        result = result.replace(/<\$ba.weightless>/gi, EMPTY_STRING);
         result = result.replace(/<\/>/gi, EMPTY_STRING);
 
         const matches = result.matchAll(/(?<=\{).+?(?=\})/gi);
